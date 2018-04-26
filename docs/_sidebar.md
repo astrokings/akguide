@@ -1,3 +1,39 @@
-* [국가 정책](policy.md)
-* [자문 위원회](council.md)
+* [1.행성 주요 기능]
+  - [1-1.사령부](101CommandCenter.md)
+  - [1-2.자원 저장소](102ResourceStorage.md)
+  - [1-3.아카데미](103Academy.md)
+  - [1-4.교역소](104TradingPost.md)
+  - [1-5.레이더](105Radar.md)
+  - [1-6스페이스 도크](106SpaceDock.md)
+  - [1-7로보틱스](107RoboticsLab.md)
+* [2.함선]
+  - [2-1.일반 함선](201NormalShip.md)
+  - [2-2.기함](202Flagship.md)
+* [3.영웅](300Hero.md)
+* [4.자원](400Resource.md)
+* [5.전투]
+  - [5-1.함대 구성](501FleetSet.md)
+  - [5-2.사냥](502Hunt.md)
+  - [5-3.함대전](503FleetBattle.md)
+* [6.연맹]
+  - [6-1.연맹 도움](601FedHelp.md)
+  - [6-2.연맹 연구](602FedResearch.md)
+  - [6-3.연맹 탐사](603FedExploration.md)
+  - [6-4.정복 점수](604FedConquestScore.md)
+  - [6-5.공헌도](605FedContribution.md)
+  - [6-6.집결 공격](606FedRallyAttack.md)
+  - [6-7.아스트로네스트](607FedAstronest.md)
+* [7.이벤트]
+  - [7-1.상시 이벤트](701RegularEvent..md)
+* [8.국가 정보]
+  - [8-1.행동력](801ActionPoint.md)
+  - [8-2.국력](802NationalPower.md)
+  - [8-3.명성](803Fame.md)
+  - [8-4.VIP 레벨](804VIPLevel.md)
+* [9.계정]
+  - [9-1.계정 연동](901ConnectAccount.md)
+  - [9-2.서버 이전](902MoveServer.md)
+* [10.결제]
+  - [10-1.인앱 결제](1001InAppBilling.md)
+* [11.FAQ](1100FAQ.md)
 
