@@ -8,7 +8,7 @@
 
 교역소를 업그레이드하면 더 많은 교역 슬롯과 무료 갱신 기회를 얻을 수 있습니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/105_001ListRefresh.png)
 
 
 
@@ -20,4 +20,4 @@
 
 연맹 증표는 연맹을 탈퇴하거나 이전해도 사라지지 않고 그대로 유지됩니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/105_002FedStore.png)

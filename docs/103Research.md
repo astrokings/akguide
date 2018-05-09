@@ -4,4 +4,4 @@
 
 연구 수행에는 일정 자원과 시간이 소요되며, 동시에 1개의 연구만 진행할 수 있습니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/103Research.PNG)

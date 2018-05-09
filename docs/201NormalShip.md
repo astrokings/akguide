@@ -6,7 +6,7 @@
 
 일반 함선은 4가지 타입으로 분류되며, 각 함선 마다 고유의 특성과 상성 관계를 가지고 있습니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_001ShipAttribute.png)
 
 적 함대와 교전 시, 함대를 상성 우위 중심으로 편성하면, 전투를 더욱 유리하게 이끌 수 있습니다.
 
