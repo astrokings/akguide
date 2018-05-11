@@ -6,7 +6,7 @@
 
 하지만, 보유할 수 있는 기함의 수는 극히 제한되므로 신중한 선택을 요합니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/202_001FlagshipBuild.png)
 
 
 

@@ -2,7 +2,7 @@
 
  연맹원들은 집결 공격으로 적의 행성이나 아스트로네스트를 협공할 수 있습니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/605_001FedRallyAttack.png)
 
 
 
@@ -14,7 +14,7 @@
 
 집결 시간 이후에 도착한 함대는 집결 부대에서 제외됩니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/605_002FedRallyTime.png)
 
 
 

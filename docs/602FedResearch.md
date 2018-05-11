@@ -4,7 +4,7 @@
 
 연맹 연구에 참여하려면, 원하는 연구를 선택한 후, 각 연구에서 필요로하는 자원을 투자해야 합니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/602_001FedResearch.PNG)
 
 
 

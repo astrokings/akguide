@@ -6,4 +6,4 @@
 
 연맹 보상으로 지급된 자원은 연맹 의장의 권한으로 분배할 수 있으며, 분배율은 ***<u>연맹 공헌도</u>***에 의해 결정되고 임의로 변경할 수 없습니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/606_001FedConquestScore.png)

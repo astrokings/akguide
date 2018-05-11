@@ -20,7 +20,9 @@
 
 주 무기로 사용되는 레일건은 준수한 사거리와 관통력을 보유하고 있습니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_002Frigate.PNG)
+
+
 
 
 
@@ -32,7 +34,7 @@
 
 주 무기로 사용되는 빔은 명중률이 뛰어나지만, 사거리가 짧은 편이고 빔 저항력이 높은 적에게 쉽게 무력화됩니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_003Destroyer.PNG)
 
 
 
@@ -44,7 +46,7 @@
 
 주 무기로 사용되는 미사일은 비교적 긴 사거리와 높은 공격력을 자랑하지만, 기동성이 좋은 소형 함선을 공격하기에는 적합하지 않습니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_004Cruiser.PNG)
 
 
 
@@ -58,5 +60,4 @@
 
 현존하는 가장 강력한 함선 답게 높은 생산 비용과 수리비가 뒤따릅니다.
 
-![IMG]()
-
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_005Battleship.PNG)

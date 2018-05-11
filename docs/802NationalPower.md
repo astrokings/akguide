@@ -4,4 +4,4 @@
 
 국력을 구성하는 세부 내용은 국력 표시부를 터치하여 확인할 수 있습니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/802_001NationalPower.png)

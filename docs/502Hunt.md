@@ -8,7 +8,7 @@
 
 상대할 해적의 주력 함선을 확인하고 ***<u>상성</u>*** 우위에 있는 함선으로 함대를 편성하면 승리 확률은 더욱 높아집니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/502_001Pirate.PNG)
 
 
 
@@ -22,7 +22,7 @@
 
 현상수배범은 일정 시간이 경과할 때까지 퇴치하지 못하면 도주하며, 일반 해적과 달리 직접 ***<u>함대 전투</u>***를 지휘하여 퇴치하여야 합니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/502_002Bounty.PNG)
 
 
 
@@ -34,7 +34,7 @@
 
 외계함대는 ***<u>일정 주기로 침공</u>***해오기도 하고, ***<u>연맹의 목적</u>***에 의해 은신한 함대를 찾아낼 수도 있습니다.
 
-![IMG]()
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/502_003Alien.PNG)
 
 
 
