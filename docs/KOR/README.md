@@ -8,5 +8,5 @@
 
 
 
-[aaaa](701regularevent#3.국력 강화 이벤트)
+[aaaa](701regularevent#3.국력-강화-이벤트)
 
