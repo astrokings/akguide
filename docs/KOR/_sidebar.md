@@ -1,14 +1,14 @@
 * [1.행성 주요 기능]
-  - [1-1.사령부](101CommandCenter.md)
-  - [1-2.자원 저장소](102ResourceStorage.md)
-  - [1-3.연구소](103Research.md)
-  - [1-4.아카데미](104Academy.md)
-  - [1-5.교역소](105TradingPost.md)
-  - [1-6.레이더](106Radar.md)
-  - [1-7.스페이스 도크](107SpaceDock.md)
-  - [1-8.로보틱스 랩](108RoboticsLab.md)
+  - [1-1.사령부](kor/101commandcenter.md)
+  - [1-2.자원 저장소](kor/102resourcestorage.md)
+  - [1-3.연구소](kor/103research.md)
+  - [1-4.아카데미](kor/104academy.md)
+  - [1-5.교역소](kor/105tradingpost.md)
+  - [1-6.레이더](kor/106radar.md)
+  - [1-7.스페이스 도크](kor/107spacedock.md)
+  - [1-8.로보틱스 랩](kor/108roboticslab.md)
 * [2.함선]
-  - [2-1.일반 함선](201NormalShip.md)
+  - [2-1.일반 함선](kor/201normalship.md)
   - [2-2.기함](202Flagship.md)
 * [[3.영웅](300Hero.md)]
 * [[4.자원](400Resource.md)]
@@ -26,7 +26,7 @@
   - [6-7.공헌도](607FedContribution.md)
   - ​
 * [7.이벤트]
-  - [7-1.상시 이벤트](701RegularEvent.md)
+  - [7-1.상시 이벤트](kor/701regularevent.md)
 * [8.국가 정보]
   - [8-1.행동력](801ActionPoint.md)
   - [8-2.국력](802NationalPower.md)
