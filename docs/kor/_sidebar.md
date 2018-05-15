@@ -36,5 +36,5 @@
   - [9-2.서버 이전](kor/902moveserver.md)
 * [10.결제]
   - [10-1.인앱 결제](kor/1001inappbilling.md)
-* [[11.FAQ](kor/1100faq.md)]
+* [11.FAQ](kor/1100faq.md)
 
