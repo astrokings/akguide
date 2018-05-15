@@ -5,13 +5,13 @@
   - [1-4.아카데미](KOR_104Academy.md)
   - [1-5.교역소](KOR_105TradingPost.md)
   - [1-6.레이더](KOR_106Radar.md)
-  - [1-7스페이스 도크](KOR_107SpaceDock.md)
-  - [1-8로보틱스](KOR_108RoboticsLab.md)
+  - [1-7.스페이스 도크](KOR_107SpaceDock.md)
+  - [1-8.로보틱스 랩](KOR_108RoboticsLab.md)
 * [2.함선]
   - [2-1.일반 함선](KOR_201NormalShip.md)
   - [2-2.기함](KOR_202Flagship.md)
-* [3.영웅](KOR_300Hero.md)
-* [4.자원](KOR_400Resource.md)
+* [[3.영웅](KOR_300Hero.md)]
+* [[4.자원](KOR_400Resource.md)]
 * [5.전투]
   - [5-1.함대 구성](KOR_501FleetSet.md)
   - [5-2.사냥](KOR_502Hunt.md)
@@ -26,7 +26,7 @@
   - [6-7.공헌도](KOR_607FedContribution.md)
   - ​
 * [7.이벤트]
-  - [7-1.상시 이벤트](KOR_701RegularEvent..md)
+  - [7-1.상시 이벤트](KOR_701RegularEvent.md)
 * [8.국가 정보]
   - [8-1.행동력](KOR_801ActionPoint.md)
   - [8-2.국력](KOR_802NationalPower.md)
@@ -37,5 +37,5 @@
   - [9-2.서버 이전](KOR_902MoveServer.md)
 * [10.결제]
   - [10-1.인앱 결제](KOR_1001InAppBilling.md)
-* [11.FAQ](KOR_1100FAQ.md)
+* [[11.FAQ](KOR_1100FAQ.md)]
 
