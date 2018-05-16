@@ -8,7 +8,7 @@ To participate in a project, select a project and invest the resources required.
 
 
 
- The more resources you invest, the faster the project will be completed and you get more ***<u>Federation Contribution Points.</u>***
+ The more resources you invest, the faster the project will be completed and you get more [***<u>Federation Contribution Points.</u>***](607fedcontribution.md)
 
 Higher tier projects require a certain amount of lower projects completed.
 

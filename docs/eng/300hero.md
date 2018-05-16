@@ -42,7 +42,7 @@ Hero Skills can be improved with [New-type Skill Elements].
 
  You can dismiss unnecessary Heroes. If you have the Council, you can alternatively appoint them to the Council to boost their effects.
 
-**Note: Heroes dismissed or assigned to a council duty become permanently inactive.**
+<font color="red">**Note: Heroes dismissed or assigned to a council duty become permanently inactive.**</font>
 
 
 

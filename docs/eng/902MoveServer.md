@@ -11,5 +11,5 @@ You can transfer to a different server for free once if you meet the following r
 
 
 
-**Note: You cannot transfer if you are a member of a Federation or have a fleet deployed.**
-**Note: You cannot transfer to an overpopulated server.**
+<font color="red">**Note: You cannot transfer if you are a member of a Federation or have a fleet deployed.**</font>
+<font color="red">**Note: You cannot transfer to an overpopulated server.**</font>

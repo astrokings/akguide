@@ -30,19 +30,19 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
  All spent Policy Points are refunded when National Policies are reset.
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-
-
+<br>
 
 # Council
 
- 5개 분야의 위원회는 각기 전문화된 특수 효과를 발휘하며, 그 효과는 각각의 위원회에 귀속된 영웅의 수에 따라 점차 증가됩니다.
+ The five councils each have a specialized effect, of which power increases as the number of Heroes assigned to the respective council increases.
 
 
 
@@ -52,6 +52,6 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
 Select a council and then a Hero to assign to that council. You can assign multiple Heroes at once.
 
-**Note: Heroes assigned to a council can never become active again. They are effectively retired.**
+<font color="red">**Note: Heroes assigned to a council can never become active again. They are effectively retired.**</font>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_004Council.PNG)

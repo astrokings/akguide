@@ -16,7 +16,7 @@ Upgrading the Trading Post increases the number of trading slots and Free Refres
 
  Only Federation members can access the Federation Store.
 
-***<u>Federation Marks</u>*** can be acquired by completing Federation activities. You can purchase items and resources with them.
+[***<u>Federation Marks</u>***](607fedcontribution.md) can be acquired by completing Federation activities. You can purchase items and resources with them.
 
 Federation Marks do not disappear even when you leave your Federation.
 

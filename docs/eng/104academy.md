@@ -4,7 +4,7 @@
 
  Here, you can increase the level of your Heroes and their Skills or dismiss unnecessary Heroes.
 
-**Note: Heroes dismissed or assigned to a council duty become inactive and are removed from the list.**
+<font color="red">**Note: Heroes dismissed or assigned to a council duty become inactive and are removed from the list.**</font>
 
 
 
@@ -28,4 +28,4 @@ If you do not like the Heroes currently offered, you can refresh the list.
 
 
 
-**Note: You will not be reimbursed with the Crystals spent when dismissing a Hero.**
+<font color="red">**Note: You will not be reimbursed with the Crystals spent when dismissing a Hero.**</font>

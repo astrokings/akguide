@@ -12,7 +12,7 @@ Use the [Auto] button to automatically organize optimized fleets.
 
 ### 2)Assign Fleet Commander
 
- A fleet with a ***<u>hero</u>*** assigned is more effective in combat due to Commander Buffs.
+ A fleet with a [***<u>hero</u>***](300hero.md) assigned is more effective in combat due to Commander Buffs.
 
 
 

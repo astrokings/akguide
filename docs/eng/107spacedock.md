@@ -20,4 +20,4 @@ The level of this facility determines ***the number of available ships including
 
 The Commander and Flagship assigned to Planetary Defense can perform other duties as well.
 
-**If the Commander assigned to Planetary Defense is absent when the planet is engaged with an enemy fleet, a random Commander will assume the role.**
+<font color="red">**If the Commander assigned to Planetary Defense is absent when the planet is engaged with an enemy fleet, a random Commander will assume the role.**</font>

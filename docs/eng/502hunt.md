@@ -6,7 +6,7 @@
 
 E.M.U. offers special rewards when you defeat each level of space pirates for the first time.
 
-To increase the odds, scout the ship composition of the pirates and organize your fleet with ships that are ***<u>strong</u>*** against the majority of their ship type.
+To increase the odds, scout the ship composition of the pirates and organize your fleet with ships that are [***<u>strong</u>***](201normalship.md) against the majority of their ship type.
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/502_001Pirate.PNG)
 
@@ -24,7 +24,7 @@ To increase the odds, scout the ship composition of the pirates and organize you
 
 You sometimes loot a [Wanted Poster] when you defeat space pirates. You can access the poster from your Inventory.
 
-Unlike their mundane brethren, you must ***<u>manually control your fleet</u>*** when fighting wanted criminals. They disappear if you do not defeat them within a given time.
+Unlike their mundane brethren, you must [***<u>manually control your fleet</u>***](503fleetbattle.md) when fighting wanted criminals. They disappear if you do not defeat them within a given time.
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/502_002Bounty.PNG)
 
@@ -40,7 +40,7 @@ Unlike their mundane brethren, you must ***<u>manually control your fleet</u>***
 
  Defeat the Alien Fleets detected on the map to get awesome reward.
 
-Alien Fleets  ***<u>periodically invade</u>*** the galaxy or you can actively spot them by using ***<u>Purposes of Federation.</u>***
+Alien Fleets  [***<u>periodically invade</u>***](eng/701regularevent#Alien-Invasion-Event) the galaxy or you can actively spot them by using [***<u>Purposes of Federation.</u>***](eng/604fedastronest#Scan-Alien-Fleets)
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/502_003Alien.PNG)
 
