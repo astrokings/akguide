@@ -1,4 +1,4 @@
-# 1.Action Point
+# Action Point
 
  Deploying fleets to defeat space pirates or Alien Fleets costs you some Action Points.
 

@@ -1,4 +1,4 @@
-# 1.VIP
+# VIP
 
  VIP Level is an indication of your importance to E.M.U.
 

@@ -1,4 +1,4 @@
-# 1.Control Tower
+# Control Tower
 
  The Radar detects the movement of enemy fleets that are threatening your Federation.
 

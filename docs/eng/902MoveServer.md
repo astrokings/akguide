@@ -1,4 +1,4 @@
-# 1.Move Server
+# Move Server
 
  If you have friends playing on a different server, you may transfer to that server by using the Move Server feature.
 

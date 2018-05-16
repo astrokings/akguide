@@ -1,4 +1,4 @@
-# 1.National Power
+# National Power
 
  National Power is an estimation of a player’s military strength and planetary infrastructure.
 

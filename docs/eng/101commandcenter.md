@@ -1,6 +1,6 @@
-# 1.National Policy
+# National Policy
 
-## 1)Select National Policy
+### 1)Select National Policy
 
  You can set the general direction of planetary improvements by selecting a National Policy. Each policy offers two opposite options. If you select either, the items from the other cannot be accessed until National Policy is reset.
 
@@ -10,7 +10,7 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
 
 
-## 2)Policy Points
+### 2)Policy Points
 
  A certain amount of Policy Points becomes available whenever your Commander or Command Center gains a level.
 
@@ -18,7 +18,7 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
 
 
-## 3)Enforce Policy
+### 3)Enforce Policy
 
  Higher the tier of a policy, the more Policy Points it requires.
 
@@ -26,7 +26,7 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
 
 
-## 4)Reset Policy
+### 4)Reset Policy
 
  All spent Policy Points are refunded when National Policies are reset.
 
@@ -40,13 +40,13 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
 
 
-# 2.Council
+# Council
 
  5개 분야의 위원회는 각기 전문화된 특수 효과를 발휘하며, 그 효과는 각각의 위원회에 귀속된 영웅의 수에 따라 점차 증가됩니다.
 
 
 
-## 1)Improving Council
+### 1)Improving Council
 
  Each council can be improved by assigning more Heroes to it.
 

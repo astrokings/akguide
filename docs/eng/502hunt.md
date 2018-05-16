@@ -1,6 +1,6 @@
-# 1.Pirate
+# Pirate
 
-##1)Defeating Pirates
+###1)Defeating Pirates
 
  A variety of rewards can be earned by defeating space pirates. Access your Inventory to check and use the rewards.
 
@@ -16,9 +16,9 @@ To increase the odds, scout the ship composition of the pirates and organize you
 
 
 
-# 2.Wanted Criminals
+# Wanted Criminals
 
-##1)Hunting Wanted Criminals
+###1)Hunting Wanted Criminals
 
  Use [Wanted Posters] to locate wanted criminals and defeat them for valuable rewards.
 
@@ -34,9 +34,9 @@ Unlike their mundane brethren, you must ***<u>manually control your fleet</u>***
 
 
 
-# 3.Alien Fleets
+# Alien Fleets
 
-## 1)Defeating Alien Fleets
+### 1)Defeating Alien Fleets
 
  Defeat the Alien Fleets detected on the map to get awesome reward.
 
@@ -46,7 +46,7 @@ Alien Fleets  ***<u>periodically invade</u>*** the galaxy or you can actively sp
 
 
 
-## 2)Alien Recon Fleets
+### 2)Alien Recon Fleets
 
  The aliens sometimes send out an armada of Recon Fleets that needs to be dealt with the combined forces of the galaxy.
 

@@ -1,6 +1,4 @@
-# 1.Resource Harvest Event
-
-## 1)Resource Harvest
+# Resource Harvest Event
 
  This is an event in which players are rewarded for the amount of resources harvested. Players also receive Rank Reward at the end of the event.
 
@@ -12,11 +10,13 @@ To harvest more resources, complete research projects or use items that boost ha
 | Thonium       | {0_value} points per harvest |
 | Dark Matter   | {0_value} points per harvest |
 
+<br>
 
+<br>
 
-# 2.Pirate Hunt Event
+<br>
 
-##1)Pirate Hunt
+# Pirate Hunt Event
 
  This is an event in which players are rewarded for the number of space pirates and wanted criminals defeated. Players also receive Rank Reward at the end of the event.
 
@@ -81,33 +81,37 @@ To defeat more pirates, complete research projects or use items that are effecti
 | Risk Lv.8 Wanted Criminals | {0_value} points per hunt |
 | Risk Lv.9 Wanted Criminals | {0_value} points per hunt |
 
+<br>
 
+<br>
 
-# 3.Strengthen National Power Event
+<br>
 
-##1)Strengthen National Power
+# Strengthen National Power Event
 
  This is an event in which players are rewarded for the amount of National Power increased by upgrading buildings, completing research projects, and building ships during the event. Players also receive Rank Reward at the end of the event.
 
 Never cease to upgrade your planet to increase National Power!
 
+<br>
 
+<br>
 
-# 4.Planet Raid Event
+<br>
 
-##1) PVP
+# Planet Raid Event
 
  This is an event in which players are rewarded for the amount of Notoriety points earned by attacking enemy planets and Astronests. Players also receive Rank Reward at the end of the event. Work with other Federation Members for the best results.
 
 If you’re not capable enough to defend your planet, it is recommended to shield your planet from possible attackers.
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-# 5.Alien Invasion Event
+# Alien Invasion Event
 
 The Aliens have sent an invasion force!
 
@@ -117,13 +121,13 @@ If players fail to defeat these Alien fleets in time, an armada of invasion forc
 
 
 
-## 1)Alien Recon Fleets
+### 1)Alien Recon Fleets
 
  The Alien Recon Fleets can be found on the Galaxy map. Engaging them will trigger a ***<u>Fleet Battle.</u>***
 
 
 
-## 2)Alien Main Fleet
+### 2)Alien Main Fleet
 
  The main fleet attacks several planets simultaneously on the Universe map.
 

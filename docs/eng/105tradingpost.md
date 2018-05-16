@@ -1,6 +1,6 @@
-# 1.Trade & Federation Store
+# Trade & Federation Store
 
-## 1)Trade
+### 1)Trade
 
  You can purchase a variety of items at the Trading Post.
 
@@ -12,7 +12,7 @@ Upgrading the Trading Post increases the number of trading slots and Free Refres
 
 
 
-## 2)Federation Store
+### 2)Federation Store
 
  Only Federation members can access the Federation Store.
 

@@ -1,4 +1,4 @@
-# 1.Research Facility
+# Research Facility
 
  The Research Facility allows you to research a variety of techs that improve your planetary infrastructure or military capacity. Select a field of research to see the list of projects available.
 

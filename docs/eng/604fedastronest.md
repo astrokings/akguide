@@ -1,4 +1,4 @@
-#1.Astronest
+#Astronest
 
  Astronest is the Federation fortress that is built to control and secure the surrounding area. It offers a variety of features as well.
 
@@ -8,7 +8,7 @@ Players who are not a member of the federation cannot move their planet in the v
 
 
 
-## 1)Construction and Withdrawal
+### 1)Construction and Withdrawal
 
  You can construct Astronest only after your Federation completes the [Construct Astronest] research project from the ***<u>Federation Research</u>*** menu.
 
@@ -24,7 +24,7 @@ When reconstructing destroyed or withdrawn Astronest, all the techs available th
 
 
 
-## 2)Deposit Resource
+### 2)Deposit Resource
 
  Federation Members may deposit resources to the shared resource pool of their Astronest.
 
@@ -34,7 +34,7 @@ The resources stored in Astronest may be accessed at any time as long as the for
 
 
 
-## 3)Damaged Astronest and Repairing
+### 3)Damaged Astronest and Repairing
 
  As your Astronest is a juicy target for enemies, it should be protected by researching defensive techs via the Federation Research menu or using the [Astronest Shield] item.
 
@@ -48,7 +48,7 @@ Of course, you can reconstruct a new Astronest. The resources that were stored i
 
 
 
-## 4)Astronest Defense and Support Fleet
+### 4)Astronest Defense and Support Fleet
 
  When your Astronest is under attack, the fleets of your Federation Leader engage the attackers by default.
 
@@ -60,7 +60,7 @@ Federation Members may send support fleets to defend their Astronest.
 
 
 
-## 5)Scan Alien Fleets
+### 5)Scan Alien Fleets
 
  When Federation Members donate a certain amount of Dimensional Energy, the Astronest can reveal the location of the Alien Fleet for attack. 
 

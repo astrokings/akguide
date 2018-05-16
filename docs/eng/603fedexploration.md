@@ -1,4 +1,4 @@
-## 1)Federation Exploration
+# Federation Exploration
 
  You can launch a Federation expedition with other members to explore the unknown territories and leap the reward. Each member of a Federation can dispatch a Hero to one of the expedition destinations.
 

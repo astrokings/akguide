@@ -1,4 +1,4 @@
-# 1.Renown
+# Renown
 
  Players gain Notoriety points by successfully attacking other planets or Astronests.
 

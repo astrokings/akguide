@@ -1,6 +1,6 @@
-# 1.Manage Heroes & Recruit Hero
+# Manage Heroes & Recruit Hero
 
-## 1)Manage Heroes
+### 1)Manage Heroes
 
  Here, you can increase the level of your Heroes and their Skills or dismiss unnecessary Heroes.
 
@@ -8,7 +8,7 @@
 
 
 
-## 2)Train Hero
+### 2)Train Hero
 
  Rookie Heroes available at the Academy can be recruited at no cost.
 
@@ -18,7 +18,7 @@ As the facility gains levels, new trainings become available. A higher tier trai
 
 
 
-##3)Recruit Hero
+###3)Recruit Hero
 
  You can use Crystals to hire Veteran Heroes. The Recruit Hero list reveals only some information of the available Heroes.
 

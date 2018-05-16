@@ -1,4 +1,4 @@
-# 1.Concealment
+# Concealment
 
  Concealment, the unique feature of Resource Storage, protects a resource type from being looted by the enemy for a certain time.
 

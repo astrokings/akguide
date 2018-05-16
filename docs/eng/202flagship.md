@@ -1,6 +1,6 @@
-# 1.Build Flagship & Repair
+# Build Flagship & Repair
 
-## 1)Build Flagship
+### 1)Build Flagship
 
  Flagships are for fleet Commanders and you can have only one per type. As you upgrade the facility, you can build more Flagships. 
 
@@ -10,7 +10,7 @@ However, the number of available Flagships are very limited.
 
 
 
-## 2)Flagship Limits and Scrapping
+### 2)Flagship Limits and Scrapping
 
  As you upgrade the facility, you can build more Flagships. However, the number of Flagships you can have at a time is always less than the number of available Flagship types.
 
@@ -20,7 +20,7 @@ While resources are partially refunded, you retain the equipment that were on th
 
 
 
-##3)Damaged Flagship and Repairing
+###3)Damaged Flagship and Repairing
 
  Unlike normal ships, Flagships cannot be destroyed. When your Flagship is severely damaged, it cannot be deployed until it is repaired.
 
@@ -34,9 +34,9 @@ If you win an encounter, your Flagship is not destroyed.
 
 
 
-# 2.Upgrade Flagship
+# Upgrade Flagship
 
-## 1)Flagship Level
+### 1)Flagship Level
 
  As Flagships gain levels, their basic stats improve. You need [Upgrade Modules] to increase the level of a Flagship.
 
@@ -46,7 +46,7 @@ There are six types of Upgrade Modules, from V1 to V6. Higher the module number,
 
 
 
-## 2)Flagship Tier
+### 2)Flagship Tier
 
  When a Flagship reaches its maximum level, it can be further improved by increasing its tier, which unlocks additional levels, adds more Special Device slots, or grants extra Command Buffs.
 
@@ -56,7 +56,7 @@ The materials needed to promote a Flagship depends on the type and tier of the F
 
 
 
-## 3)Command Buff
+### 3)Command Buff
 
  Command Buff is a unique ability of a Flagship. It affects entire fleet, and up to two Command Buffs are available as you promote your Flagship.
 
@@ -66,7 +66,7 @@ Command Buff can be upgraded by using [Buff Upgrade Modules]. However, as you up
 
 
 
-## 4)Flagship Device
+### 4)Flagship Device
 
  There has been numerous attempts to customize the Flagship devices throughout the galaxy. It is only a matter of time before someone comes up with modular system for customization.
 

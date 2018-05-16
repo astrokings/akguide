@@ -1,16 +1,18 @@
-## 1)Harvesting and Utilizing Resources
+#Resource
+
+### 1)Harvesting and Utilizing Resources
 
  You need resources to construct buildings, research projects, or build ships. They are essential in developing your planet. There are many ways to acquire resources.
 
 
 
-## 2)Improving Resource Production
+### 2)Improving Resource Production
 
  You can improve resource production rate by developing the resource production facilities located in the eastern area of the planet.
 
 
 
-## 3)Harvesting Resources
+### 3)Harvesting Resources
 
  You can deploy fleets to harvest resources from the Resource Sites dotting the space map.
 
@@ -24,7 +26,7 @@ If the fleet assigned to harvest resources is attacked and defeated by the enemy
 
 
 
-## 4)Using Resource Items
+### 4)Using Resource Items
 
  You can use Resource Items from your Inventory to boost the amount of available resources.
 
@@ -34,7 +36,7 @@ If the fleet assigned to harvest resources is attacked and defeated by the enemy
 
 
 
-## 5)Planet Raid
+### 5)Planet Raid
 
  If you successfully raid a planet owned by an enemy, you can loot the resources on that planet.
 

@@ -1,4 +1,4 @@
-## 1)Federation Contribution 
+# Federation Contribution 
 
  Federation Members may contribute to their Federation in many ways. Whenever their Contribution increases, they receive Federation Marks.
 

@@ -1,4 +1,4 @@
-## 1)Fleet Battle
+# Fleet Battle
 
  Battles against major enemy fleets displayed on the Galaxy Map are controlled manually.
 

@@ -1,4 +1,4 @@
-## 1)Rally Attack
+# Rally Attack
 
  Federation Members may rally for a coordinated attack on an enemy planet or Astronest.
 
@@ -6,7 +6,7 @@
 
 
 
-## 2)Rally Timer
+### 1)Rally Timer
 
  Participating fleets rally on the Joint Force Commander’s planet and launch together.
 
@@ -18,6 +18,6 @@ Fleets arrive after the timer ran out cannot participate in the attack.
 
 
 
-## 3)Number of Available Fleets for Rally
+### 2)Number of Available Fleets for Rally
 
 The number of fleets that can participate in the rally is determined by the level of the Joint Force Commander, ***<u>National Policies</u>***, and ***<u>the number of completed Federation Research projects.</u>***

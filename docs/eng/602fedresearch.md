@@ -1,4 +1,4 @@
-## 1)Federation Research
+# Federation Research
 
  Federation Members may participate in and benefit from Federation Research projects.
 

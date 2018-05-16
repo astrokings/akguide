@@ -1,4 +1,4 @@
-## 1)Conquest Points
+# Conquest Points
 
  The total Conquest Points of a Federation is calculated by its members’ PvP results.
 

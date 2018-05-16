@@ -1,4 +1,4 @@
-# 1.In-app Purchase
+# In-app Purchase
 
 Some of the products offered in game are purchased with real money.
 
