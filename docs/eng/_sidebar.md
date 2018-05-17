@@ -37,6 +37,6 @@
   - [9-1.Connect Account](eng/901connectaccount.md)
   - [9-2.Move Server](eng/902moveserver.md)
 * 10.Payment
-  - [10-1.In App Billing](eng/1001Inappbilling.md)
+  - [10-1.In App Billing](eng/1001inappbilling.md)
 * [11.FAQ](eng/1100faq.md)
 
