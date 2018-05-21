@@ -10,7 +10,7 @@ Players who are not a member of the federation cannot move their planet in the v
 
 ### 1)Construction and Withdrawal
 
- You can construct Astronest only after your Federation completes the [Construct Astronest] research project from the [***<u>Federation Research</u>***](602fedresearch.md) menu.
+ You can construct Astronest only after your Federation completes the [Construct Astronest] research project from the [***<u>Federation Research</u>***](eng/602fedresearch#Federation-Research) menu.
 
 <font color="red">**Note: You cannot construct your Astronest near someone else’s Astronest.**</font>
 

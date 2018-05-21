@@ -20,4 +20,4 @@ Fleets arrive after the timer ran out cannot participate in the attack.
 
 ### 2)Number of Available Fleets for Rally
 
-The number of fleets that can participate in the rally is determined by the level of the Joint Force Commander, [***<u>National Policies</u>***](101commandcenter.md), and [***<u>the number of completed Federation Research projects.</u>***](602fedresearch.md)
+The number of fleets that can participate in the rally is determined by the level of the Joint Force Commander, [***<u>National Policies</u>***](eng/101commandcenter#National-Policy), and [***<u>the number of completed Federation Research projects.</u>***](eng/602fedresearch#Federation-Research)
