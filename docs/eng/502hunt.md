@@ -1,6 +1,6 @@
 # Pirate
 
-###1)Defeating Pirates
+### 1)Defeating Pirates
 
  A variety of rewards can be earned by defeating space pirates. Access your Inventory to check and use the rewards.
 
@@ -18,7 +18,7 @@ To increase the odds, scout the ship composition of the pirates and organize you
 
 # Wanted Criminals
 
-###1)Hunting Wanted Criminals
+### 1)Hunting Wanted Criminals
 
  Use [Wanted Posters] to locate wanted criminals and defeat them for valuable rewards.
 
