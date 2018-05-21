@@ -1,4 +1,4 @@
-#Resource
+# Resource
 
 ### 1)Harvesting and Utilizing Resources
 
