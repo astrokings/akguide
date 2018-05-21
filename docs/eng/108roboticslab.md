@@ -48,7 +48,7 @@ If you fail to upgrade your Tron, the materials you used will not be reimbursed.
 
 # Tron
 
- Trons are AI robots created at the ***<u>Robotics Lab</u>*** and there are two types of Trons.
+ Trons are AI robots created at the Robotics Lab and there are two types of Trons.
 
 
 
