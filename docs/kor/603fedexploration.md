@@ -2,7 +2,7 @@
 
  연맹원들과 함께 우주 각지의 탐사 지역에 영웅을 파견하여 각종 탐사 보상을 획득할 수 있습니다. 각 연맹원은 탐사대 목록에서 원하는 곳에 한 명의 영웅을 파견할 수 있습니다.
 
-
+<br>
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/603_001FedExploration.PNG)
 

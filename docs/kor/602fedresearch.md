@@ -6,7 +6,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/602_001FedResearch.PNG)
 
-
+<br>
 
  많은 자원을 투자할수록 연구가 빠르게 진행되며, 많은 [***<u>연맹 공헌도</u>***](kor/607fedcontribution#연맹-공헌도)를 받습니다.
 

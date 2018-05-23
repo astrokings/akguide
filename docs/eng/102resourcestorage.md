@@ -7,4 +7,3 @@
 - Cannot be used on cooldown; there are several ways to reduce cooldown.
 - Cannot be used while Resource Storage is under construction.
 
-

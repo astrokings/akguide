@@ -8,25 +8,25 @@ Use the [Auto] button to automatically organize optimized fleets.
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/501_001FleetSetAuto.png)
 
-
+<br>
 
 ### 2)Assign Fleet Commander
 
  A fleet with a [***<u>hero</u>***](eng/300hero#Hero) assigned is more effective in combat due to Commander Buffs.
 
-
+<br>
 
 ### 3)Assign Flagship
 
  A fleet with a Flagship assigned is more effective in combat due to its combat bonuses.
 
-
+<br>
 
 ### 4)Set Formation
 
  Tactically use fleet formations to gain advantage in combat.
 
-
+<br>
 
 ### 5)Fleet Presets
 

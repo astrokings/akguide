@@ -8,11 +8,15 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/502_001Pirate.PNG)
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
+<br>
 
 # 현상 수배범
 
@@ -24,7 +28,15 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/502_002Bounty.PNG)
 
+<br>
 
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 # 외계 함대
 
@@ -36,7 +48,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/502_003Alien.PNG)
 
-
+<br>
 
 ### 2)외계 함대의 침공
 

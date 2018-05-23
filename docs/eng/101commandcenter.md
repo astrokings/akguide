@@ -8,7 +8,7 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_001Policy.PNG)
 
-
+<br>
 
 ### 2)Policy Points
 
@@ -16,7 +16,7 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_002PolicyPoint.PNG)
 
-
+<br>
 
 ### 3)Enforce Policy
 
@@ -24,7 +24,7 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_003PolicyPoint.PNG)
 
-
+<br>
 
 ### 4)Reset Policy
 
@@ -44,7 +44,7 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
  The five councils each have a specialized effect, of which power increases as the number of Heroes assigned to the respective council increases.
 
-
+<br>
 
 ### 1)Improving Council
 

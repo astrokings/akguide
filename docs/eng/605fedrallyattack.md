@@ -4,7 +4,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/605_001FedRallyAttack.png)
 
-
+<br>
 
 ### 1)Rally Timer
 
@@ -16,7 +16,7 @@ Fleets arrive after the timer ran out cannot participate in the attack.
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/605_002FedRallyTime.png)
 
-
+<br>
 
 ### 2)Number of Available Fleets for Rally
 

@@ -8,7 +8,7 @@ You can purchase items at the [***<u>Federation Store</u>***](eng/105tradingpost
 
 You can earn Contribution by the following activities:
 
-
+<br>
 
 - Federation Help: {0_value} points per help
 

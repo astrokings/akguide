@@ -8,7 +8,7 @@ There are four types of ships and each of them has its role, strengths, and weak
 
 If you know the composition of an enemy fleet, send ships that are strong against them to defeat it more easily.
 
-
+<br>
 
 ###1)Frigate
 
@@ -16,9 +16,7 @@ If you know the composition of an enemy fleet, send ships that are strong agains
 
 The Rail Gun, their primary weapon, has a good range and excellent Penetration. ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_002Frigate.PNG)
 
-
-
-
+<br>
 
 ###2)Destroyer
 
@@ -28,7 +26,7 @@ These ships are equipped with beam weapons. Beam weapons are accurate, but they 
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_003Destroyer.PNG)
 
-
+<br>
 
 ###3)Cruiser
 
@@ -38,7 +36,7 @@ Missile weapons boast a long range and excellent firepower, but they are not sui
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_004Cruiser.PNG)
 
-
+<br>
 
 ###4)Battleship
 

@@ -4,7 +4,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/605_001FedRallyAttack.png)
 
-
+<br>
 
 ### 1)집결 시간 선택
 
@@ -16,7 +16,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/605_002FedRallyTime.png)
 
-
+<br>
 
 ### 2)집결 참여 인원 제한
 

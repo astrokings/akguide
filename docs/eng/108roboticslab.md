@@ -8,13 +8,13 @@ To create a Tron, you need three of its components. Different Trons require diff
 
 You can cancel the components being manufactured, but you will not be reimbursed with the resources spent.
 
-
+<br>
 
 ### 2)Combine Tron Components
 
  You can combine components of the same type and tier to get a higher tier component.
 
-
+<br>
 
 ### 3)Create Tron
 
@@ -22,7 +22,7 @@ You can cancel the components being manufactured, but you will not be reimbursed
 
 The tier of the created Tron depends on the tier of the components used. However, the bonuses the Tron offers are chosen randomly.
 
-
+<br>
 
 ### 4)Upgrade Tron
 
@@ -30,27 +30,27 @@ The tier of the created Tron depends on the tier of the components used. However
 
 If you fail to upgrade your Tron, the materials you used will not be reimbursed.
 
-
+<br>
 
 ## 5)Disassemble Tron
 
  You can disassemble unwanted Trons to retrieve some of the materials used to create them.
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-
-
+<br>
 
 # Tron
 
  Trons are AI robots created at the Robotics Lab and there are two types of Trons.
 
-
+<br>
 
 ### 1)Battle-roid
 
@@ -58,7 +58,7 @@ If you fail to upgrade your Tron, the materials you used will not be reimbursed.
 
 ![IMG]()
 
-
+<br>
 
 ### 2)Advisor
 

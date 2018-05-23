@@ -4,9 +4,13 @@ Some of the products offered in game are purchased with real money.
 
 Please check the price before you make an in-app purchase.
 
+<br>
 
+<br>
 
-## 1)Transaction Error
+<br>
+
+## Transaction Error
 
  Sometimes you do not receive the product you successfully purchased. This is caused by a network error. If this happens, do the following:
 

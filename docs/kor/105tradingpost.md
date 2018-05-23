@@ -10,7 +10,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/105_001ListRefresh.png)
 
-
+<br>
 
 ### 2)연맹 상점
 

@@ -8,7 +8,7 @@ However, the number of available Flagships are very limited.
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/202_001FlagshipBuild.png)
 
-
+<br>
 
 ### 2)Flagship Limits and Scrapping
 
@@ -18,7 +18,7 @@ This means you cannot have all types of Flagships at the same time. If necessary
 
 While resources are partially refunded, you retain the equipment that were on the scrapped Flagship.
 
-
+<br>
 
 ###3)Damaged Flagship and Repairing
 
@@ -26,13 +26,11 @@ While resources are partially refunded, you retain the equipment that were on th
 
 If you win an encounter, your Flagship is not destroyed.
 
+<br>
 
+<br>
 
-
-
-
-
-
+<br>
 
 # Upgrade Flagship
 
@@ -44,7 +42,7 @@ There are six types of Upgrade Modules, from V1 to V6. Higher the module number,
 
 ![IMG]()
 
-
+<br>
 
 ### 2)Flagship Tier
 
@@ -54,7 +52,7 @@ The materials needed to promote a Flagship depends on the type and tier of the F
 
 ![IMG]()
 
-
+<br>
 
 ### 3)Command Buff
 
@@ -64,7 +62,7 @@ Command Buff can be upgraded by using [Buff Upgrade Modules]. However, as you up
 
 ![IMG]()
 
-
+<br>
 
 ### 4)Flagship Device
 

@@ -6,7 +6,7 @@ Players who are not a member of the federation cannot move their planet in the v
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/604_001FedAstronest.png)
 
-
+<br>
 
 ### 1)Construction and Withdrawal
 
@@ -14,7 +14,7 @@ Players who are not a member of the federation cannot move their planet in the v
 
 <font color="red">**Note: You cannot construct your Astronest near someone else’s Astronest.**</font>
 
-
+<br>
 
 If necessary, you can relocate your Astronest with the [Withdraw Astronest] item.
 
@@ -22,7 +22,7 @@ You do not lose the resources stored in the Astronest even when you relocate and
 
 When reconstructing destroyed or withdrawn Astronest, all the techs available through Federation Research will be automatically applied to your new Astronest.
 
-
+<br>
 
 ### 2)Deposit Resource
 
@@ -32,7 +32,7 @@ The resources stored in Astronest may be accessed at any time as long as the for
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/604_002FedStorage.png)
 
-
+<br>
 
 ### 3)Damaged Astronest and Repairing
 
@@ -46,7 +46,7 @@ If your Astronest is destroyed, you lose the zone of control and others may cons
 
 Of course, you can reconstruct a new Astronest. The resources that were stored in the previous Astronest become available again once you construct a new one.
 
-
+<br>
 
 ### 4)Astronest Defense and Support Fleet
 
@@ -58,7 +58,7 @@ When the Astronest is under attack, the fleets on the guard duty automatically j
 
 Federation Members may send support fleets to defend their Astronest.
 
-
+<br>
 
 ### 5)Scan Alien Fleets
 

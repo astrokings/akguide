@@ -6,7 +6,7 @@
 
 <font color="red">**Note: Heroes dismissed or assigned to a council duty become inactive and are removed from the list.**</font>
 
-
+<br>
 
 ### 2)Train Hero
 
@@ -16,7 +16,7 @@ As the facility gains levels, new trainings become available. A higher tier trai
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/104_001RookieHero.png)
 
-
+<br>
 
 ###3)Recruit Hero
 
@@ -26,6 +26,6 @@ If you do not like the Heroes currently offered, you can refresh the list.
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/104_002VeteranHero.png)
 
-
+<br>
 
 <font color="red">**Note: You will not be reimbursed with the Crystals spent when dismissing a Hero.**</font>

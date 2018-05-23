@@ -10,7 +10,7 @@ Upgrading the Trading Post increases the number of trading slots and Free Refres
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/105_001ListRefresh.png)
 
-
+<br>
 
 ### 2)Federation Store
 

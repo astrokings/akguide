@@ -6,7 +6,7 @@
 
 ![IMG]()
 
-
+<br>
 
 ### 2)Facility Administrator
 
@@ -14,7 +14,7 @@
 
 Heroes with Admin Skills confer additional bonuses when they are assigned as an administrator.
 
-
+<br>
 
 ### 3)Fleet Commander
 
@@ -22,13 +22,13 @@ Heroes with Admin Skills confer additional bonuses when they are assigned as an 
 
 You can manually assign the commander when you deploy a fleet. It is much easier if you pre-set your fleet commanders at the Space Dock.
 
-
+<br>
 
 ### 4)Hero Tier
 
  Heroes come in three different tiers. The tier of a hero determines their maximum level and skills.
 
-
+<br>
 
 ### 5)Hero Skills
 
@@ -36,7 +36,7 @@ You can manually assign the commander when you deploy a fleet. It is much easier
 
 Hero Skills can be improved with [New-type Skill Elements].
 
-
+<br>
 
 ### 6)Hero Dismissal and Council
 
@@ -44,7 +44,7 @@ Hero Skills can be improved with [New-type Skill Elements].
 
 <font color="red">**Note: Heroes dismissed or assigned to a council duty become permanently inactive.**</font>
 
-
+<br>
 
 ### 7)Lock Hero
 

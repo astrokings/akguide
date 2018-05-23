@@ -8,7 +8,7 @@
 
 적 함대와 교전 시, 함대를 상성 우위 중심으로 편성하면, 전투를 더욱 유리하게 이끌 수 있습니다.
 
-
+<br>
 
 ### 1)프리깃 특성
 
@@ -18,9 +18,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_002Frigate.PNG)
 
-
-
-
+<br>
 
 ### 2)디스트로이어 특성
 
@@ -30,7 +28,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_003Destroyer.PNG)
 
-
+<br>
 
 ### 3)크루저 특성
 
@@ -40,7 +38,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_004Cruiser.PNG)
 
-
+<br>
 
 ### 4)배틀쉽 특성
 

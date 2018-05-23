@@ -6,13 +6,13 @@
 
 The level of this facility determines ***the number of available ships including Flagships and the size of fleets you can deploy.***
 
-
+<br>
 
 ### 2)Fleet Presets
 
  You can use Fleet Presets to quickly deploy your fleets.
 
-
+<br>
 
 ### 3)Defense Settings
 

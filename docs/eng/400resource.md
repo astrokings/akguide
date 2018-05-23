@@ -4,13 +4,13 @@
 
  You need resources to construct buildings, research projects, or build ships. They are essential in developing your planet. There are many ways to acquire resources.
 
-
+<br>
 
 ### 2)Improving Resource Production
 
  You can improve resource production rate by developing the resource production facilities located in the eastern area of the planet.
 
-
+<br>
 
 ### 3)Harvesting Resources
 
@@ -24,7 +24,7 @@ If the fleet assigned to harvest resources is attacked and defeated by the enemy
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/400_001ResourceType.png)
 
-
+<br>
 
 ### 4)Using Resource Items
 
@@ -34,7 +34,7 @@ If the fleet assigned to harvest resources is attacked and defeated by the enemy
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/400_004Inventory.png)
 
-
+<br>
 
 ### 5)Planet Raid
 

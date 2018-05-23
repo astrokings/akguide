@@ -4,13 +4,13 @@
 
  자원은 건설과 연구, 함대 생산 등 국가 발전을 위해 필수적인 요소이며, 다양한 방법으로 확보할 수 있습니다.
 
-
+<br>
 
 ### 2)행성 내 자원 시설 발전
 
  행성의 동쪽에 위치한 자원시설 단지를 발전시키면, 더욱 많은 자원을 자체 조달할 수 있습니다.
 
-
+<br>
 
 ### 3)자원 채집
 
@@ -24,7 +24,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/400_001ResourceType.png)
 
-
+<br>
 
 ### 4)자원 아이템 사용
 
@@ -34,7 +34,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/400_004Inventory.png)
 
-
+<br>
 
 ### 5)적 행성 약탈
 

@@ -16,6 +16,10 @@ To harvest more resources, complete research projects or use items that boost ha
 
 <br>
 
+<br>
+
+<br>
+
 # Pirate Hunt Event
 
  This is an event in which players are rewarded for the number of space pirates and wanted criminals defeated. Players also receive Rank Reward at the end of the event.
@@ -87,11 +91,19 @@ To defeat more pirates, complete research projects or use items that are effecti
 
 <br>
 
+<br>
+
+<br>
+
 # Strengthen National Power Event
 
  This is an event in which players are rewarded for the amount of National Power increased by upgrading buildings, completing research projects, and building ships during the event. Players also receive Rank Reward at the end of the event.
 
 Never cease to upgrade your planet to increase National Power!
+
+<br>
+
+<br>
 
 <br>
 
@@ -111,6 +123,10 @@ If you’re not capable enough to defend your planet, it is recommended to shiel
 
 <br>
 
+<br>
+
+<br>
+
 # Alien Invasion Event
 
 The Aliens have sent an invasion force!
@@ -119,13 +135,13 @@ Large Recon Fleets are detected at the outer-rim of the galaxy.
 
 If players fail to defeat these Alien fleets in time, an armada of invasion force will arrive.
 
-
+<br>
 
 ### 1)Alien Recon Fleets
 
- The Alien Recon Fleets can be found on the Galaxy map. Engaging them will trigger a ***<u>Fleet Battle.</u>***
+ The Alien Recon Fleets can be found on the Galaxy map. Engaging them will trigger a [***<u>Fleet Battle.</u>***](eng/503fleetbattle#Fleet-Battle)
 
-
+<br>
 
 ### 2)Alien Main Fleet
 
@@ -133,4 +149,4 @@ If players fail to defeat these Alien fleets in time, an armada of invasion forc
 
 If players successfully defeat the main fleet, they will receive awesome reward.
 
-For more information on fighting the Aliens, refer to the ***<u>Alien Fleet Battle Help</u>*** section.
+For more information on fighting the Aliens, refer to the [***<u>Alien Fleet Battle Help</u>***](eng/502hunt#Alien-Fleets) section.

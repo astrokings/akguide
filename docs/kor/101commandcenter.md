@@ -8,7 +8,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_001Policy.PNG)
 
-
+<br>
 
 ### 2)정책 포인트
 
@@ -16,7 +16,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_002PolicyPoint.PNG)
 
-
+<br>
 
 ### 3)정책 시행
 
@@ -24,7 +24,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_003PolicyPoint.PNG)
 
-
+<br>
 
 ### 4)정책 초기화
 
@@ -44,7 +44,7 @@
 
  5개 분야의 위원회는 각기 전문화된 특수 효과를 발휘하며, 그 효과는 각각의 위원회에 귀속된 영웅의 수에 따라 점차 증가됩니다.
 
-
+<br>
 
 ### 1)위원회의 발전
 

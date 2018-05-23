@@ -6,7 +6,7 @@
 
 <font color="red">**주의 : 해임하거나 위원회에 귀속시킨 영웅은, 영웅 관리 목록에서 영원히 제외됩니다.**</font>
 
-
+<br>
 
 ### 2)신참 훈련
 
@@ -16,7 +16,7 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/104_001RookieHero.png)
 
-
+<br>
 
 ### 3)영웅 고용
 
@@ -28,6 +28,6 @@
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/104_002VeteranHero.png)
 
-
+<br>
 
 <font color="red">**주의 : 고용한 영웅을 해임해도 사용한 크리스탈은 회수되지 않습니다.**</font>

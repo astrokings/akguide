@@ -6,7 +6,7 @@ To participate in a project, select a project and invest the resources required.
 
 ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/602_001FedResearch.PNG)
 
-
+<br>
 
  The more resources you invest, the faster the project will be completed and you get more [***<u>Federation Contribution Points.</u>***](eng/607fedcontribution#Federation-Contribution)
 
