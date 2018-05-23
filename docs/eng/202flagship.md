@@ -20,7 +20,7 @@ While resources are partially refunded, you retain the equipment that were on th
 
 <br>
 
-###3)Damaged Flagship and Repairing
+### 3)Damaged Flagship and Repairing
 
  Unlike normal ships, Flagships cannot be destroyed. When your Flagship is severely damaged, it cannot be deployed until it is repaired.
 

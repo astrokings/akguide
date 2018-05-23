@@ -18,7 +18,7 @@ As the facility gains levels, new trainings become available. A higher tier trai
 
 <br>
 
-###3)Recruit Hero
+### 3)Recruit Hero
 
  You can use Crystals to hire Veteran Heroes. The Recruit Hero list reveals only some information of the available Heroes.
 

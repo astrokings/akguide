@@ -10,7 +10,7 @@ If you know the composition of an enemy fleet, send ships that are strong agains
 
 <br>
 
-###1)Frigate
+### 1)Frigate
 
  Frigates are small ships designed to penetrate the enemy formation and intercept large ships. They are strong against Battleships. While Frigates are small, agile, and cheap, they cannot withstand much damage.
 
@@ -18,7 +18,7 @@ The Rail Gun, their primary weapon, has a good range and excellent Penetration. 
 
 <br>
 
-###2)Destroyer
+### 2)Destroyer
 
  Destroyers are medium ships designed to defend large ships from smaller targets such as Frigates.
 
@@ -28,7 +28,7 @@ These ships are equipped with beam weapons. Beam weapons are accurate, but they 
 
 <br>
 
-###3)Cruiser
+### 3)Cruiser
 
  Cruisers are well-rounded medium ships that can deliver a devastating blow to Destroyers that are vulnerable to Missiles. 
 
@@ -38,7 +38,7 @@ Missile weapons boast a long range and excellent firepower, but they are not sui
 
 <br>
 
-###4)Battleship
+### 4)Battleship
 
  Theses large ships equipped with powerful long-range weapons dominate the battlefield.
 
