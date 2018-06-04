@@ -28,62 +28,47 @@ The amount of points players get is increased by the level of the pirates or wan
 
 To defeat more pirates, complete research projects or use items that are effective against pirates.
 
-| Pirate                     | Get Points                |
-| -------------------------- | ------------------------- |
-| Lv.1 Pirate                | {0_value} points per hunt |
-| Lv.2 Pirate                | {0_value} points per hunt |
-| Lv.3 Pirate                | {0_value} points per hunt |
-| Lv.4 Pirate                | {0_value} points per hunt |
-| Lv.5 Pirate                | {0_value} points per hunt |
-| Lv.6 Pirate                | {0_value} points per hunt |
-| Lv.7 Pirate                | {0_value} points per hunt |
-| Lv.8 Pirate                | {0_value} points per hunt |
-| Lv.9 Pirate                | {0_value} points per hunt |
-| Lv.10 Pirate               | {0_value} points per hunt |
-| Lv.11 Pirate               | {0_value} points per hunt |
-| Lv.12 Pirate               | {0_value} points per hunt |
-| Lv.13 Pirate               | {0_value} points per hunt |
-| Lv.14 Pirate               | {0_value} points per hunt |
-| Lv.15 Pirate               | {0_value} points per hunt |
-| Lv.16 Pirate               | {0_value} points per hunt |
-| Lv.17 Pirate               | {0_value} points per hunt |
-| Lv.18 Pirate               | {0_value} points per hunt |
-| Lv.19 Pirate               | {0_value} points per hunt |
-| Lv.20 Pirate               | {0_value} points per hunt |
-| Lv.21 Pirate               | {0_value} points per hunt |
-| Lv.22 Pirate               | {0_value} points per hunt |
-| Lv.23 Pirate               | {0_value} points per hunt |
-| Lv.24 Pirate               | {0_value} points per hunt |
-| Lv.25 Pirate               | {0_value} points per hunt |
-| Lv.26 Pirate               | {0_value} points per hunt |
-| Lv.27 Pirate               | {0_value} points per hunt |
-| Lv.28 Pirate               | {0_value} points per hunt |
-| Lv.29 Pirate               | {0_value} points per hunt |
-| Lv.30 Pirate               | {0_value} points per hunt |
-| Lv.31 Pirate               | {0_value} points per hunt |
-| Lv.32 Pirate               | {0_value} points per hunt |
-| Lv.33 Pirate               | {0_value} points per hunt |
-| Lv.34 Pirate               | {0_value} points per hunt |
-| Lv.35 Pirate               | {0_value} points per hunt |
-| Lv.36 Pirate               | {0_value} points per hunt |
-| Lv.37 Pirate               | {0_value} points per hunt |
-| Lv.38 Pirate               | {0_value} points per hunt |
-| Lv.39 Pirate               | {0_value} points per hunt |
-| Lv.40 Pirate               | {0_value} points per hunt |
-| Lv.41 Pirate               | {0_value} points per hunt |
-| Lv.42 Pirate               | {0_value} points per hunt |
-| Lv.43 Pirate               | {0_value} points per hunt |
-| Lv.44 Pirate               | {0_value} points per hunt |
-| Lv.45 Pirate               | {0_value} points per hunt |
-| Risk Lv.1 Wanted Criminals | {0_value} points per hunt |
-| Risk Lv.2 Wanted Criminals | {0_value} points per hunt |
-| Risk Lv.3 Wanted Criminals | {0_value} points per hunt |
-| Risk Lv.4 Wanted Criminals | {0_value} points per hunt |
-| Risk Lv.5 Wanted Criminals | {0_value} points per hunt |
-| Risk Lv.6 Wanted Criminals | {0_value} points per hunt |
-| Risk Lv.7 Wanted Criminals | {0_value} points per hunt |
-| Risk Lv.8 Wanted Criminals | {0_value} points per hunt |
-| Risk Lv.9 Wanted Criminals | {0_value} points per hunt |
+| Pirate                     | Get Points           |
+| -------------------------- | -------------------- |
+| Lv.1 Pirate                | 200 points per hunt  |
+| Lv.2 Pirate                | 210 points per hunt  |
+| Lv.3 Pirate                | 220 points per hunt  |
+| Lv.4 Pirate                | 230 points per hunt  |
+| Lv.5 Pirate                | 240 points per hunt  |
+| Lv.6 Pirate                | 250 points per hunt  |
+| Lv.7 Pirate                | 260 points per hunt  |
+| Lv.8 Pirate                | 270 points per hunt  |
+| Lv.9 Pirate                | 280 points per hunt  |
+| Lv.10 Pirate               | 290 points per hunt  |
+| Lv.11 Pirate               | 300 points per hunt  |
+| Lv.12 Pirate               | 310 points per hunt  |
+| Lv.13 Pirate               | 330 points per hunt  |
+| Lv.14 Pirate               | 340 points per hunt  |
+| Lv.15 Pirate               | 350 points per hunt  |
+| Lv.16 Pirate               | 370 points per hunt  |
+| Lv.17 Pirate               | 380 points per hunt  |
+| Lv.18 Pirate               | 390 points per hunt  |
+| Lv.19 Pirate               | 410 points per hunt  |
+| Lv.20 Pirate               | 420 points per hunt  |
+| Lv.21 Pirate               | 440 points per hunt  |
+| Lv.22 Pirate               | 450 points per hunt  |
+| Lv.23 Pirate               | 470 points per hunt  |
+| Lv.24 Pirate               | 480 points per hunt  |
+| Lv.25 Pirate               | 500 points per hunt  |
+| Lv.26 Pirate               | 510 points per hunt  |
+| Lv.27 Pirate               | 530 points per hunt  |
+| Lv.28 Pirate               | 550 points per hunt  |
+| Lv.29 Pirate               | 570 points per hunt  |
+| Lv.30 Pirate               | 590 points per hunt  |
+| Risk Lv.1 Wanted Criminals | 611 points per hunt  |
+| Risk Lv.2 Wanted Criminals | 713 points per hunt  |
+| Risk Lv.3 Wanted Criminals | 840 points per hunt  |
+| Risk Lv.4 Wanted Criminals | 967 points per hunt  |
+| Risk Lv.5 Wanted Criminals | 1120 points per hunt |
+| Risk Lv.6 Wanted Criminals | 1273 points per hunt |
+| Risk Lv.7 Wanted Criminals | 1375 points per hunt |
+| Risk Lv.8 Wanted Criminals | 1475 points per hunt |
+| Risk Lv.9 Wanted Criminals | 1575 points per hunt |
 
 <br>
 
