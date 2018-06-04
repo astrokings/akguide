@@ -6,4 +6,4 @@ Conquest Point is an indication of the dominance of a Federation. At the end of 
 
 Resources received this way are distributed to Federation Members by the Federation Leader. The ratio of distribution is determined by [***<u>Federation Contribution</u>***](eng/607fedcontribution#Federation-Contribution) and cannot be changed.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/606_001FedConquestScore.png)
+![](http://astrokings.s3.amazonaws.com/606_001fedconquestscore.png)

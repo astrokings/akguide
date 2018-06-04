@@ -4,7 +4,7 @@
 
 일반 함선은 4가지 타입으로 분류되며, 각 함선 마다 고유의 특성과 상성 관계를 가지고 있습니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_001ShipAttribute.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/201_001shipattribute.png)
 
 적 함대와 교전 시, 함대를 상성 우위 중심으로 편성하면, 전투를 더욱 유리하게 이끌 수 있습니다.
 
@@ -16,7 +16,7 @@
 
 주 무기로 사용되는 레일건은 준수한 사거리와 관통력을 보유하고 있습니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_002Frigate.PNG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/201_002frigate.png)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 주 무기로 사용되는 빔은 명중률이 뛰어나지만, 사거리가 짧은 편이고 빔 저항력이 높은 적에게 쉽게 무력화됩니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_003Destroyer.PNG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/201_003destroyer.png)
 
 <br>
 
@@ -36,7 +36,7 @@
 
 주 무기로 사용되는 미사일은 비교적 긴 사거리와 높은 공격력을 자랑하지만, 기동성이 좋은 소형 함선을 공격하기에는 적합하지 않습니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_004Cruiser.PNG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/201_004cruiser.png)
 
 <br>
 
@@ -48,4 +48,4 @@
 
 현존하는 가장 강력한 함선 답게 높은 생산 비용과 수리비가 뒤따릅니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_005Battleship.PNG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/201_005battleship.png)

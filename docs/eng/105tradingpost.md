@@ -8,7 +8,7 @@ If you do not like the items currently offered, you can refresh the list by usin
 
 Upgrading the Trading Post increases the number of trading slots and Free Refreshes.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/105_001ListRefresh.png)
+![](http://astrokings.s3.amazonaws.com/105_001listrefresh.png)
 
 <br>
 
@@ -20,4 +20,4 @@ Upgrading the Trading Post increases the number of trading slots and Free Refres
 
 Federation Marks do not disappear even when you leave your Federation.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/105_002FedStore.png)
+![](http://astrokings.s3.amazonaws.com/105_002fedstore.png)

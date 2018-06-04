@@ -6,7 +6,7 @@
 
 Once you decided a National Policy, you can enforce sub policies for buffs. Enforcing a policy costs some Policy Points.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_001Policy.PNG)
+![](http://astrokings.s3.amazonaws.com/101_001policy.png)
 
 <br>
 
@@ -14,7 +14,7 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
  A certain amount of Policy Points becomes available whenever your Commander or Command Center gains a level.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_002PolicyPoint.PNG)
+![](http://astrokings.s3.amazonaws.com/101_002policypoint.png)
 
 <br>
 
@@ -22,7 +22,7 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
  Higher the tier of a policy, the more Policy Points it requires.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_003PolicyPoint.PNG)
+![](http://astrokings.s3.amazonaws.com/101_003policypoint.png)
 
 <br>
 
@@ -54,4 +54,4 @@ Select a council and then a Hero to assign to that council. You can assign multi
 
 <font color="red">**Note: Heroes assigned to a council can never become active again. They are effectively retired.**</font>
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/101_004Council.PNG)
+![](http://astrokings.s3.amazonaws.com/101_004council.png)

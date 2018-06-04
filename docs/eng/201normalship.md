@@ -4,7 +4,7 @@
 
 There are four types of ships and each of them has its role, strengths, and weaknesses.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_001ShipAttribute.png)
+![](http://astrokings.s3.amazonaws.com/201_001shipattribute.png)
 
 If you know the composition of an enemy fleet, send ships that are strong against them to defeat it more easily.
 
@@ -14,7 +14,9 @@ If you know the composition of an enemy fleet, send ships that are strong agains
 
  Frigates are small ships designed to penetrate the enemy formation and intercept large ships. They are strong against Battleships. While Frigates are small, agile, and cheap, they cannot withstand much damage.
 
-The Rail Gun, their primary weapon, has a good range and excellent Penetration. ![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_002Frigate.PNG)
+The Rail Gun, their primary weapon, has a good range and excellent Penetration.
+
+![](http://astrokings.s3.amazonaws.com/201_002frigate.png)
 
 <br>
 
@@ -24,7 +26,7 @@ The Rail Gun, their primary weapon, has a good range and excellent Penetration. 
 
 These ships are equipped with beam weapons. Beam weapons are accurate, but they have a relatively short range and can be easily countered by high Beam Resistance. 
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_003Destroyer.PNG)
+![](http://astrokings.s3.amazonaws.com/201_003destroyer.png)
 
 <br>
 
@@ -34,7 +36,7 @@ These ships are equipped with beam weapons. Beam weapons are accurate, but they 
 
 Missile weapons boast a long range and excellent firepower, but they are not suitable for small, agile targets. 
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_004Cruiser.PNG)
+![](http://astrokings.s3.amazonaws.com/201_004cruiser.png)
 
 <br>
 
@@ -46,4 +48,4 @@ Particle Cannons, their main weapons, have the longest range and most firepower,
 
 For all their firepower, they cost a lot to build and repair. 
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/201_005Battleship.PNG)
+![](http://astrokings.s3.amazonaws.com/201_005battleship.png)

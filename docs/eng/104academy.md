@@ -14,7 +14,7 @@
 
 As the facility gains levels, new trainings become available. A higher tier training course offers better Heroes.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/104_001RookieHero.png)
+![](http://astrokings.s3.amazonaws.com/104_001rookiehero.png)
 
 <br>
 
@@ -24,7 +24,7 @@ As the facility gains levels, new trainings become available. A higher tier trai
 
 If you do not like the Heroes currently offered, you can refresh the list.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/104_002VeteranHero.png)
+![](http://astrokings.s3.amazonaws.com/104_002veteranhero.png)
 
 <br>
 

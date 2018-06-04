@@ -2,7 +2,7 @@
 
  You can launch a Federation expedition with other members to explore the unknown territories and leap the reward. Each member of a Federation can dispatch a Hero to one of the expedition destinations.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/603_001FedExploration.PNG)
+![](http://astrokings.s3.amazonaws.com/603_001fedexploration.png)
 
 The likelihood of such expeditions to succeed is calculated by the sum of the dispatched heroes’ stats.
 

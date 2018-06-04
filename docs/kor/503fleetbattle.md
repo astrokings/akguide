@@ -2,7 +2,7 @@
 
  갤럭시 맵에 표시되는 주요 적과의 전투는 직접 전투를 지휘하는 함대전 형식으로 진행됩니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/503_001FleetBattle.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/503_001fleetbattle.png)
 
 <br>
 

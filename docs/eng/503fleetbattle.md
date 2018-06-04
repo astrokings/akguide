@@ -2,7 +2,7 @@
 
  Battles against major enemy fleets displayed on the Galaxy Map are controlled manually.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/503_001FleetBattle.png)
+![](http://astrokings.s3.amazonaws.com/503_001fleetbattle.png)
 
 <br>
 

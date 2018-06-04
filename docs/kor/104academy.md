@@ -14,7 +14,7 @@
 
 아카데미 레벨에 따라 새로운 신참 훈련 코스가 해금됩니다. 상위 훈련 코스일수록 더욱 능력이 출중한 영웅들이 배출됩니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/104_001RookieHero.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/104_001rookiehero.png)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 목록에 마음에 드는 영웅이 없다면 소정의 비용으로 새로운 후보군을 불러올 수 있습니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/104_002VeteranHero.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/104_002veteranhero.png)
 
 <br>
 

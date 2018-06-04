@@ -4,7 +4,7 @@
 
 To participate in a project, select a project and invest the resources required.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/602_001FedResearch.PNG)
+![](http://astrokings.s3.amazonaws.com/602_001fedresearch.png)
 
 <br>
 

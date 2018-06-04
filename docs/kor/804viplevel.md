@@ -6,4 +6,4 @@ VIP 레벨이 상승하면 우주 상인 연합에서 제공하는 강력한 버
 
 VIP 레벨은 [VIP 포인트] 아이템을 사용하여 올릴 수 있습니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/804_001VIPLevel.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/804_001viplevel.png)

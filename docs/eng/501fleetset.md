@@ -6,7 +6,7 @@
 
 Use the [Auto] button to automatically organize optimized fleets.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/501_001FleetSetAuto.png)
+![](http://astrokings.s3.amazonaws.com/501_001fleetsetauto.png)
 
 <br>
 

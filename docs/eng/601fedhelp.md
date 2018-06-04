@@ -4,4 +4,4 @@
 
 Upgrade the Embassy to increase the number of available help and the time reduced per help.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/601_001FedHelp.png)
+![](http://astrokings.s3.amazonaws.com/601_001fedhelp.png)
