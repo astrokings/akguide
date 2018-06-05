@@ -50,4 +50,4 @@ Hero Skills can be improved with [New-type Skill Elements].
 
  You can lock a Hero to prevent them from being accidentally dismissed or assigned to the Council.
 
-![](http://astrokings.s3.amazonaws.com/300_001herolock.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/300_001herolock.png)

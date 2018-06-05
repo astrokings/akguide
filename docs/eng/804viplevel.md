@@ -6,4 +6,4 @@ As VIP Level increases, E.M.U. offers more powerful buffs.
 
 You can increase your VIP Level by using the [VIP Point] items.
 
-![](http://astrokings.s3.amazonaws.com/804_001viplevel.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/804_001viplevel.png)

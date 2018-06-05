@@ -8,7 +8,7 @@ E.M.U. offers special rewards when you defeat each level of space pirates for th
 
 To increase the odds, scout the ship composition of the pirates and organize your fleet with ships that are [***<u>strong</u>***](eng/201normalship#Strengths-and-Weaknesses-of-Ship) against the majority of their ship type.
 
-![](http://astrokings.s3.amazonaws.com/502_001pirate.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/502_001pirate.png)
 
 <br>
 
@@ -30,7 +30,7 @@ You sometimes loot a [Wanted Poster] when you defeat space pirates. You can acce
 
 Unlike their mundane brethren, you must [***<u>manually control your fleet</u>***](eng/503fleetbattle#Fleet-Battle) when fighting wanted criminals. They disappear if you do not defeat them within a given time.
 
-![](http://astrokings.s3.amazonaws.com/502_002bounty.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/502_002bounty.png)
 
 
 
@@ -52,7 +52,7 @@ Unlike their mundane brethren, you must [***<u>manually control your fleet</u>**
 
 Alien Fleets  [***<u>periodically invade</u>***](eng/701regularevent#Alien-Invasion-Event) the galaxy or you can actively spot them by using [***<u>Purposes of Federation.</u>***](eng/604fedastronest#Scan-Alien-Fleets)
 
-![](http://astrokings.s3.amazonaws.com/502_003alien.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/502_003alien.png)
 
 <br>
 

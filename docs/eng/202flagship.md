@@ -6,7 +6,7 @@
 
 However, the number of available Flagships are very limited.
 
-![](http://astrokings.s3.amazonaws.com/202_001flagshipbuild.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/202_001flagshipbuild.png)
 
 <br>
 
