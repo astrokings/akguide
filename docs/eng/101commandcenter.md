@@ -6,7 +6,7 @@
 
 Once you decided a National Policy, you can enforce sub policies for buffs. Enforcing a policy costs some Policy Points.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/101_001policy.jpg)
+![](http://astrokings.s3.amazonaws.com/html/img/help/101_001policy.JPG)
 
 <br>
 

@@ -4,4 +4,4 @@
 
 Each research costs you a certain amount of resources and time. Only one project can be researched at any given time.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/103research.jpg)
+![](http://astrokings.s3.amazonaws.com/html/img/help/103research.JPG)
