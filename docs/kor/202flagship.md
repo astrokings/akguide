@@ -6,7 +6,7 @@
 
 하지만, 보유할 수 있는 기함의 수는 극히 제한되므로 신중한 선택을 요합니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_001flagshipbuild.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/202_001flagshipbuild.JPG)
 
 <br>
 

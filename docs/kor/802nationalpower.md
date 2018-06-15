@@ -4,4 +4,4 @@
 
 국력을 구성하는 세부 내용은 국력 표시부를 터치하여 확인할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/802_001nationalpower.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/802_001nationalpower.JPG)

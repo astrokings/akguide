@@ -22,7 +22,7 @@ When the resources on the site is depleted or the fleet cargo load is full, the 
 
 If the fleet assigned to harvest resources is attacked and defeated by the enemy, it will return to the planet.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/400_001resourcetype.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/400_001resourcetype.JPG)
 
 <br>
 
@@ -32,7 +32,7 @@ If the fleet assigned to harvest resources is attacked and defeated by the enemy
 
 **Note that resources added to your storage can be looted by enemy raiding parties.**
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/400_004inventory.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/400_004inventory.JPG)
 
 <br>
 
@@ -42,4 +42,4 @@ If the fleet assigned to harvest resources is attacked and defeated by the enemy
 
 You can scout enemy planets to check how much resources they have before deploying a raiding party.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/400_005planetloot.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/400_005planetloot.JPG)

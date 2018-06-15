@@ -4,7 +4,7 @@
 
 There are four types of ships and each of them has its role, strengths, and weaknesses.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/201_001shipattribute.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/201_001shipattribute.JPG)
 
 If you know the composition of an enemy fleet, send ships that are strong against them to defeat it more easily.
 
@@ -16,7 +16,7 @@ If you know the composition of an enemy fleet, send ships that are strong agains
 
 The Rail Gun, their primary weapon, has a good range and excellent Penetration.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/201_002frigate.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/201_002frigate.JPG)
 
 <br>
 
@@ -26,7 +26,7 @@ The Rail Gun, their primary weapon, has a good range and excellent Penetration.
 
 These ships are equipped with beam weapons. Beam weapons are accurate, but they have a relatively short range and can be easily countered by high Beam Resistance. 
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/201_003destroyer.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/201_003destroyer.JPG)
 
 <br>
 
@@ -36,7 +36,7 @@ These ships are equipped with beam weapons. Beam weapons are accurate, but they 
 
 Missile weapons boast a long range and excellent firepower, but they are not suitable for small, agile targets. 
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/201_004cruiser.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/201_004cruiser.JPG)
 
 <br>
 
@@ -48,4 +48,4 @@ Particle Cannons, their main weapons, have the longest range and most firepower,
 
 For all their firepower, they cost a lot to build and repair. 
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/201_005battleship.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/201_005battleship.JPG)

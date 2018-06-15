@@ -22,7 +22,7 @@
 
 채집 중인 함대가 적의 공격을 받아 패배한 경우에도 함대는 행성으로 귀환합니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/400_001resourcetype.png)
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/400_001resourcetype.JPG)
 
 <br>
 
@@ -32,7 +32,7 @@
 
 **단, 자원 아이템은 자원 저장소로 옮겨진 이후부터 적의 침략에 의해 약탈될 수 있으니 주의해야 합니다.**
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/400_004inventory.png)
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/400_004inventory.JPG)
 
 <br>
 
@@ -42,4 +42,4 @@
 
 또한 적 행성을 공격하기 전에 정찰을 통해 약탈 가능한 자원량을 확인할 수도 있습니다.
 
-![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/400_005planetloot.png)
+![](https://s3.ap-northeast-2.amazonaws.com/an2img/guide/400_005planetloot.JPG)

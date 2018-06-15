@@ -4,4 +4,4 @@
 
 대사관을 업그레이드하면, 받을 수 있는 도움 횟수와 단축되는 작업 시간이 더욱 증가됩니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/601_001fedhelp.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/601_001fedhelp.JPG)

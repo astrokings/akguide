@@ -2,7 +2,7 @@
 
  아스트로네스트는 우주 공간의 일정 영역을 점유하고 보호하는 연맹 요새이며, 부가적으로 다양한 기능을 제공합니다. 아스트로네스트의 보호 영역은 다른 행성이 이동해 올 수 없으며, 일정 반경에 다른 연맹의 요새도 건설할 수 없습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/604_001fedastronest.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/604_001fedastronest.JPG)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 아스트로네스트에 보관한 자원은 필요할 때 언제든 회수하여 사용할 수 있으며, 아스트로네스트가 파괴되지 않는 한 안전하게 보관됩니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/604_002fedstorage.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/604_002fedstorage.JPG)
 
 <br>
 
@@ -58,4 +58,4 @@
 
 차원 에너지는 우주 해적 퇴치 시, 일정 확률로 획득할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/604_006fedscan.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/604_006fedscan.JPG)

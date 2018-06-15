@@ -6,7 +6,7 @@
 
 상대할 해적의 주력 함선을 확인하고 [***<u>상성</u>***](kor/201normalship#함선-상성-관계) 우위에 있는 함선으로 함대를 편성하면 승리 확률은 더욱 높아집니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_001pirate.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/502_001pirate.JPG)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 현상수배범은 일정 시간이 경과할 때까지 퇴치하지 못하면 도주하며, 일반 해적과 달리 직접 [***<u>함대 전투</u>***](kor/503fleetbattle#함대전)를 지휘하여 퇴치하여야 합니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_002bounty.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/502_002bounty.JPG)
 
 <br>
 
@@ -46,7 +46,7 @@
 
 외계함대는 [***<u>일정 주기로 침공</u>***](kor/701regularevent#외계-함대-침공-이벤트)해오기도 하고, [***<u>연맹의 목적</u>***](kor/604fedastronest#외계-함대-스캔)에 의해 은신한 함대를 찾아낼 수도 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_003alien.png)
+![](http://astrokings.s3.amazonaws.com/html/img/help/502_003alien.JPG)
 
 <br>
 

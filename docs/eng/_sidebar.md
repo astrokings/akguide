@@ -19,11 +19,10 @@
 * 6.Federation
   - [6-1.Help Federation](eng/601fedhelp.md)
   - [6-2.Federation Research](eng/602fedresearch.md)
-  - [6-3.Federation Exploration](eng/603fedexploration.md)
-  - [6-4.Astronest](eng/604fedastronest.md)
-  - [6-5.Rally Attack](eng/605fedrallyattack.md)
-  - [6-6.Conquest Score](eng/606fedconquestscore.md)
-  - [6-7.Contribution](eng/607fedcontribution.md)
+  - [6-3.Astronest](eng/604fedastronest.md)
+  - [6-4.Rally Attack](eng/605fedrallyattack.md)
+  - [6-5.Conquest Score](eng/606fedconquestscore.md)
+  - [6-6.Contribution](eng/607fedcontribution.md)
 
     ​
 * 7.Event

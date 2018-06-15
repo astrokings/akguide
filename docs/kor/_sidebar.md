@@ -19,11 +19,10 @@
 * 6.연맹
   - [6-1.연맹 도움](kor/601fedhelp.md)
   - [6-2.연맹 연구](kor/602fedresearch.md)
-  - [6-3.연맹 탐사](kor/603fedexploration.md)
-  - [6-4.아스트로네스트](kor/604fedastronest.md)
-  - [6-5.집결 공격](kor/605fedrallyattack.md)
-  - [6-6.정복 점수](kor/606fedconquestscore.md)
-  - [6-7.공헌도](kor/607fedcontribution.md)
+  - [6-3.아스트로네스트](kor/604fedastronest.md)
+  - [6-4.집결 공격](kor/605fedrallyattack.md)
+  - [6-5.정복 점수](kor/606fedconquestscore.md)
+  - [6-6.공헌도](kor/607fedcontribution.md)
 * 7.이벤트
   - [7-1.상시 이벤트](kor/701regularevent.md)
 * 8.국가 정보
