@@ -40,7 +40,7 @@ If you win an encounter, your Flagship is not destroyed.
 
 There are six types of Upgrade Modules, from V1 to V6. Higher the module number, the more effective its upgrading capacity becomes.
 
-![IMG]()
+![](http://astrokings.s3.amazonaws.com/html/img/help/202_002flagshiplevel.JPG)
 
 <br>
 
@@ -50,7 +50,7 @@ There are six types of Upgrade Modules, from V1 to V6. Higher the module number,
 
 The materials needed to promote a Flagship depends on the type and tier of the Flagship. You can check the necessary materials from the Promote Flagship screen.
 
-![IMG]()
+![](http://astrokings.s3.amazonaws.com/html/img/help/202_003flagshiptier.JPG)
 
 <br>
 
@@ -60,7 +60,7 @@ The materials needed to promote a Flagship depends on the type and tier of the F
 
 Command Buff can be upgraded by using [Buff Upgrade Modules]. However, as you upgrade the buff, it will less likely succeed when upgrading further.
 
-![IMG]()
+![](http://astrokings.s3.amazonaws.com/html/img/help/202_004flagshipbuff.JPG)
 
 <br>
 
