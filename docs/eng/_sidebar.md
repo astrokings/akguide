@@ -6,7 +6,6 @@
   - [1-5.Trading Post](eng/105tradingpost.md)
   - [1-6.Radar](eng/106radar.md)
   - [1-7.Space Dock](eng/107spacedock.md)
-  - [1-8.Robotics Lab](eng/108roboticslab.md)
 * 2.Ships
   - [2-1.Non-Flagships](eng/201normalship.md)
   - [2-2.Flagship](eng/202flagship.md)

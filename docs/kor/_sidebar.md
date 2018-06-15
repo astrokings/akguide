@@ -6,7 +6,6 @@
   - [1-5.교역소](kor/105tradingpost.md)
   - [1-6.레이더](kor/106radar.md)
   - [1-7.스페이스 도크](kor/107spacedock.md)
-  - [1-8.로보틱스 랩](kor/108roboticslab.md)
 * 2.함선
   - [2-1.일반 함선](kor/201normalship.md)
   - [2-2.기함](kor/202flagship.md)
