@@ -4,4 +4,4 @@
 
 Here, you can deploy fleets to support other Federation members or participate in a Rally Attack.
 
-![IMG]()
+![](http://astrokings.s3.amazonaws.com/html/img/help/106_001controltower.jpg)

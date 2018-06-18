@@ -7,8 +7,6 @@ You can transfer to a different server for free once if you meet the following r
 - Command Center Level 7 or lower
 - Less than 15 days from account creation
 
-![IMG]()
-
 <br>
 
 <font color="red">**Note: You cannot transfer if you are a member of a Federation or have a fleet deployed.**</font>

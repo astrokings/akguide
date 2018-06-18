@@ -64,4 +64,4 @@ If players fail to defeat the Recon Fleet of the forward contingents, the entire
 
 These forces are composed of a vast number of Recon Fleets with wide variety of ships. Attack suitable fleets and receive rewards.
 
-![IMG]()
+![](http://astrokings.s3.amazonaws.com/html/img/help/502_004alienmain.jpg)

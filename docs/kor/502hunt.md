@@ -58,4 +58,4 @@
 
 정찰 부대는 여러 종류의 규모로 구성된 함대의 집합체입니다. 적당한 수준의 상대를 골라 공격하면, 그에 상응하는 보상을 받을 수 있습니다.
 
-![IMG]()
+![](http://astrokings.s3.amazonaws.com/html/img/help/502_004alienmain.jpg)
