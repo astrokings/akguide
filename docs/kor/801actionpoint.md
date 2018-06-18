@@ -6,4 +6,4 @@
 
 자원 채집이나 행성 침공은 행동력과 무관하게 실행할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/801_001actionpoint.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/801_001actionpoint.jpg)

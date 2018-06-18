@@ -6,7 +6,7 @@
 
 하지만, 보유할 수 있는 기함의 수는 극히 제한되므로 신중한 선택을 요합니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_001flagshipbuild.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/202_001flagshipbuild.jpg)
 
 <br>
 
@@ -38,7 +38,7 @@
 
  기함의 레벨에 따라 기함이 가진 기본 능력치가 상승하며, 기함 레벨을 올리기 위해서는 [강화 모듈]이 필요합니다. 강화 모듈은 V1 ~ V6까지 6종류가 존재하며, 고급 모듈일수록 강화도가 큰 폭으로 상승합니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_002flagshiplevel.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/202_002flagshiplevel.jpg)
 
 <br>
 
@@ -48,7 +48,7 @@
 
 기함 티어 승급에 필요한 재료는 각 기함의 종류와 티어에 따라 달라지며, 기함 승급 화면에서 그 내용을 확인할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_003flagshiptier.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/202_003flagshiptier.jpg)
 
 <br>
 
@@ -58,7 +58,7 @@
 
 지휘 버프 능력은 [버프 강화 모듈]을 사용하여 강화할 수 있지만, 버프 레벨이 높아질수록 강화 성공률은 점차 낮아집니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_004flagshipbuff.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/202_004flagshipbuff.jpg)
 
 <br>
 

@@ -4,4 +4,4 @@
 
 Tap the National Power section for more detailed information.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/802_001nationalpower.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/802_001nationalpower.jpg)

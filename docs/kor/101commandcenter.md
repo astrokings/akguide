@@ -6,7 +6,7 @@
 
 정책 방향을 선택한 후에는, 하위에 포함된 세부 정책을 시행하여 다양한 버프 효과를 획득할 수 있으며, 정책 시행에는 일정량의 정책 포인트가 소모됩니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/101_001policy.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/101_001policy.jpg)
 
 <br>
 
@@ -14,7 +14,7 @@
 
  정책 포인트는 사령관이나 사령부의 레벨이 오를 때 마다 일정량을 획득할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/101_002policypoint.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/101_002policypoint.jpg)
 
 <br>
 
@@ -22,7 +22,7 @@
 
  고급 정책일수록 요구되는 정책 포인트의 양은 늘어납니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/101_003policypoint.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/101_003policypoint.jpg)
 
 <br>
 
@@ -54,4 +54,4 @@
 
 <font color="red">**주의 : 위원회 귀속은 은퇴와 같은 개념으로, 절대 돌이킬 방법이 없습니다.**</font>
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/101_004council.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/101_004council.jpg)

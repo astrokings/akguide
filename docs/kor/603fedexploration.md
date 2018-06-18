@@ -4,7 +4,7 @@
 
 <br>
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/603_001fedexploration.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/603_001fedexploration.jpg)
 
 탐사대의 탐사 성공 확률은 참여한 모든 영웅들의 능력치 합으로 결정됩니다.
 

@@ -2,7 +2,7 @@
 
  Federation Members may rally for a coordinated attack on an enemy planet or Astronest.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/605_001fedrallyattack.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/605_001fedrallyattack.jpg)
 
 <br>
 
@@ -14,7 +14,7 @@ A rally has a timer. Players who want to participate must send their fleet befor
 
 Fleets arrive after the timer ran out cannot participate in the attack.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/605_002fedrallytime.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/605_002fedrallytime.jpg)
 
 <br>
 

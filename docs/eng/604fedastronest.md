@@ -4,7 +4,7 @@
 
 Players who are not a member of the federation cannot move their planet in the vicinity of Astronest. Other Federation fortresses cannot be built within its vicinity.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/604_001fedastronest.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/604_001fedastronest.jpg)
 
 <br>
 
@@ -30,7 +30,7 @@ When reconstructing destroyed or withdrawn Astronest, all the techs available th
 
 The resources stored in Astronest may be accessed at any time as long as the fortress is intact.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/604_002fedstorage.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/604_002fedstorage.jpg)
 
 <br>
 
@@ -68,4 +68,4 @@ Anyone Federation Members who join the raid and defeat the aliens during the sca
 
 You have a chance to harvest some Dimensional Energy when defeating space pirates.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/604_006fedscan.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/604_006fedscan.jpg)

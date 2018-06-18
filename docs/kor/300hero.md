@@ -50,4 +50,4 @@
 
  실수로 영웅을 해임하거나, 위원회에 귀속시키는 것을 방지하기 위해 잠금 상태로 보호할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/300_001herolock.JPG)
+![](http://astrokings.s3.amazonaws.com/html/img/help/300_001herolock.jpg)
