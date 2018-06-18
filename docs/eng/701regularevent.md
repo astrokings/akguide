@@ -4,11 +4,11 @@
 
 To harvest more resources, complete research projects or use items that boost harvest efficiency.
 
-| Resource Type | Get Points                   |
-| ------------- | ---------------------------- |
-| Metal         | {0_value} points per harvest |
-| Thonium       | {0_value} points per harvest |
-| Dark Matter   | {0_value} points per harvest |
+| Resource Type | Get Points             |
+| ------------- | ---------------------- |
+| Metal         | 125 points per harvest |
+| Thonium       | 25 points per harvest  |
+| Dark Matter   | 5 points per harvest   |
 
 <br>
 
