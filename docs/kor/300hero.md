@@ -4,7 +4,7 @@
 
  영웅은 내정 및 함대 지휘 임무 등을 수행할 수 있는 중요 자산입니다. 아마데미를 통해 훌륭한 인재를 영입하고, 성장시켜보세요.
 
-![IMG]()
+![](http://astrokings.s3.amazonaws.com/html/img/help/300_001heroinfo.jpg)
 
 <br>
 
@@ -49,5 +49,3 @@
 ### 7)영웅 잠금
 
  실수로 영웅을 해임하거나, 위원회에 귀속시키는 것을 방지하기 위해 잠금 상태로 보호할 수 있습니다.
-
-![](http://astrokings.s3.amazonaws.com/html/img/help/300_001herolock.jpg)

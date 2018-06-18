@@ -4,7 +4,7 @@
 
  Heroes are your primary assets in developing the planet and commanding fleets. Utilize the Academy to recruit able-bodied Heroes and upgrade them.
 
-![IMG]()
+![](http://astrokings.s3.amazonaws.com/html/img/help/300_001heroinfo.jpg)
 
 <br>
 
@@ -49,5 +49,3 @@ Hero Skills can be improved with [New-type Skill Elements].
 ### 7)Lock Hero
 
  You can lock a Hero to prevent them from being accidentally dismissed or assigned to the Council.
-
-![](http://astrokings.s3.amazonaws.com/html/img/help/300_001herolock.jpg)
