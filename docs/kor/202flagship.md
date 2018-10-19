@@ -87,7 +87,7 @@
 함대를 편성하거나 출격시킬 때 기함의 타입이 출격 목적에 부합하는지 확인하여 함대 전력을 극대화할 수 있습니다.
 
 
-###A.공격형
+### A.공격형
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_offence.jpg)
 
@@ -95,7 +95,7 @@
 
 <br>
 
-###B.방어형
+### B.방어형
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_defensive.jpg)
 
@@ -103,7 +103,7 @@
 
 <br>
 
-###C.전술형
+### C.전술형
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_tactical.jpg)
 
