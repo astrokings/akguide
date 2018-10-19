@@ -74,3 +74,37 @@
 - 아머 : 기함의 저항력을 향상시킵니다.
 - 엔진 : 기함의 기동력과 회피 능력을 향상시킵니다.
 - 특수장치 : 다양한 부가 능력을 향상시킵니다.
+
+<br>
+
+<br>
+
+<br>
+
+# 기함 타입
+
+ 기함은 보유한 특성에 따라 몇 가지 종류가 나뉘어 분류됩니다. 
+함대를 편성하거나 출격시킬 때 기함의 타입이 출격 목적에 부합하는지 확인하여 함대 전력을 극대화할 수 있습니다.
+
+
+###A.공격형
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_offence.jpg)
+
+공격에 특화된 기함으로, 공격에 유리한 스탯과 특성을 가지고 있습니다.
+
+<br>
+
+###B.방어형
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_defensive.jpg)
+
+방어에 특화된 기함으로, 방어에 유리한 스탯과 특성을 가지고 있습니다.
+
+<br>
+
+###C.전술형
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_tactical.jpg)
+
+전투 외에 특수한 임무 수행에 유리한 특성을 가지고 있습니다.
