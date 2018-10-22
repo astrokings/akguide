@@ -14,7 +14,7 @@
 
 ## 할로윈 함대장 영웅
 
-#### "전투 조각가" 테일러
+#### "조각가" 테일러
 
 ![](https://s3.ap-northeast-2.amazonaws.com/astrokings/html/img/help/Event_Hero_Taylor.jpg)
 
