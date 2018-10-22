@@ -9,6 +9,7 @@
 * 2.함선
   - [2-1.일반 함선](kor/201normalship.md)
   - [2-2.기함](kor/202flagship.md)
+  - [2-4.테스트2](kor/204test2.md)
 * [3.영웅](kor/300hero.md)
 * [4.자원](kor/400resource.md)
 * 5.전투
