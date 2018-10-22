@@ -16,7 +16,7 @@
 
 #### "조각가" 테일러
 
-![](https://s3.ap-northeast-2.amazonaws.com/astrokings/html/img/help/Event_Hero_Taylor.jpg)
+![](http://astrokings.s3.amazonaws.com/html/img/help/Event_Hero_Taylor.jpg)
 
 <br>
 
@@ -24,4 +24,4 @@
 
 #### "갬블러" 타냐
 
-![](https://s3.ap-northeast-2.amazonaws.com/astrokings/html/img/help/Event_Hero_Tanya.jpg)
+![](http://astrokings.s3.amazonaws.com/html/img/help/Event_Hero_Tanya.jpg)

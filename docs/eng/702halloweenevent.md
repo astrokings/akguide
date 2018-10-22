@@ -16,7 +16,7 @@ Eliminate Halloween monsters and gain rank! Ranking rewards are waiting for you!
 
 #### "Sculptor" Taylor
 
-![](https://s3.ap-northeast-2.amazonaws.com/astrokings/html/img/help/Event_Hero_Taylor.jpg)
+![](http://astrokings.s3.amazonaws.com/html/img/help/Event_Hero_Taylor.jpg)
 
 <br>
 
@@ -24,4 +24,4 @@ Eliminate Halloween monsters and gain rank! Ranking rewards are waiting for you!
 
 #### "Gambler" Tanya
 
-![](https://s3.ap-northeast-2.amazonaws.com/astrokings/html/img/help/Event_Hero_Tanya.jpg)
+![](http://astrokings.s3.amazonaws.com/html/img/help/Event_Hero_Tanya.jpg)
