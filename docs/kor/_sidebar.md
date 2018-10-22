@@ -24,7 +24,7 @@
   - [6-6.공헌도](kor/607fedcontribution.md)
 * 7.이벤트
   - [7-1.상시 이벤트](kor/701regularevent.md)
-  - [7-2.할로윈 이벤트](kor/702halloween.md)
+  - [7-2.할로윈 이벤트](kor/702halloweenevent.md)
 * 8.국가 정보
   - [8-1.행동력](kor/801actionpoint.md)
   - [8-2.국력](kor/802nationalpower.md)

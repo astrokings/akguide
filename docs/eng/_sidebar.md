@@ -26,7 +26,7 @@
     ​
 * 7.Event
   - [7-1.Regular Event](eng/701regularevent.md)
-  - [7-2.Halloween Event](eng/702halloween.md)
+  - [7-2.Halloween Event](eng/702halloweenevent.md)
 * 8.National Info
   - [8-1.Action Points](eng/801actionpoint.md)
   - [8-2.National Power](eng/802nationalpower.md)
