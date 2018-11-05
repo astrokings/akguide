@@ -76,3 +76,42 @@ The lootable devices are as follows:
 - Armor: Increases the Resistance of the Flagship.
 - Engine: Increases the Mobility and Evasion of the Flagship.
 - Special Device: Adds a variety of additional abilities to the Flagship.
+
+<br>
+
+<br>
+
+<br>
+
+# Flagship Type
+
+Flagships are categorized by their special characteristics.
+You can maximize fleet power by checking to see if the Flagship type is better suited to its task when organizing or deploying a fleet.
+
+<br>
+
+
+### A. Striker Type
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_offence.jpg)
+
+A Flagship specialized for offense, it has stats and talents suited for attacking. 
+It is more effective against pirates and enemy planets.
+
+<br>
+
+### B. Guardian Type
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_defensive.jpg)
+
+A flagship specialized for defense, it has stats and talents suited for defending. It is more effective when fighting defensively.
+It is recommended you prepare a Guardian Flagship for planetary defense.
+
+<br>
+
+### C. Tactician Type
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_tactical.jpg)
+
+This Flagship has special characteristics for special missions other than battles.
+It may possess faster resource harvesting speed, ambush attacks based on quick marching speed, etc.
