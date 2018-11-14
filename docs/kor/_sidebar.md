@@ -16,7 +16,7 @@
   - [5-1.함대 구성](kor/501fleetset.md)
   - [5-2.사냥](kor/502hunt.md)
   - [5-3.함대전](kor/503fleetbattle.md)
-* [6.연맹](600fedmain.md)
+* [6.연맹](kor/600fedmain.md)
   - [6-1.연맹 도움](kor/601fedhelp.md)
   - [6-2.연맹 연구](kor/602fedresearch.md)
   - [6-3.아스트로네스트](kor/604fedastronest.md)
