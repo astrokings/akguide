@@ -2,12 +2,15 @@
 
 You can craft Flagship equipment with blueprints and crafting materials.
 
+![](http://astrokings.s3.amazonaws.com/html/img/help/203_01slot.jpg)
+
+<br>
 
 ### 1) Select Blueprint
 
 Select the blueprint of the equipment you wish to craft. A higher grade blueprint will likely yield higher grade equipment.<br>The amount of material consumption will be decided by the grade of the blueprint.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_001flagshipbuild.jpg)
+![](http://astrokings.s3.amazonaws.com/html/img/help/203_02blueprint.jpg)
 
 <br>
 
@@ -15,6 +18,7 @@ Select the blueprint of the equipment you wish to craft. A higher grade blueprin
 
 Select the materials needed for crafting. The type of materials used will depend on the location of the equipment you wish to craft.<br>The higher the grade of the materials used, the higher the grade of the crafted equipment.
 
+![](http://astrokings.s3.amazonaws.com/html/img/help/203_03material.jpg)
 
 <br>
 
@@ -22,8 +26,13 @@ Select the materials needed for crafting. The type of materials used will depend
 
 Combine lower grade materials to create a higher grade material.
 
+![](http://astrokings.s3.amazonaws.com/html/img/help/203_04combine.jpg)
+
 <br>
 
 ### 4) Production
 
 Completed equipment can be confirmed by tapping it.
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/203_05result.jpg)
+
