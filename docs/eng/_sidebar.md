@@ -23,11 +23,8 @@
   - [6-4.Rally Attack](eng/605fedrallyattack.md)
   - [6-5.Conquest Score](eng/606fedconquestscore.md)
   - [6-6.Contribution](eng/607fedcontribution.md)
-
-    ​
 * 7.Event
   - [7-1.Regular Event](eng/701regularevent.md)
-  - [7-2.Halloween Event](eng/702halloweenevent.md)
 * 8.National Info
   - [8-1.Action Points](eng/801actionpoint.md)
   - [8-2.National Power](eng/802nationalpower.md)
