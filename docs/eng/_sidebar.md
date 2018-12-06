@@ -10,6 +10,7 @@
   - [2-1.Non-Flagships](eng/201normalship.md)
   - [2-2.Flagship](eng/202flagship.md)
   - [2-3.Flagship Equipment Crafting](eng/203flagshipequip.md)
+  - [2-4.Flagship Equipment Disassemble](eng/204disassemble.md)
 * [3.Hero](eng/300hero.md)
 * [4.Resource](eng/400resource.md)
 * 5.Battle
