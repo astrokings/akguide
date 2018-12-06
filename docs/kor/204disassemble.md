@@ -9,10 +9,6 @@
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/204_01disassemble.jpg)
 
-장비 분해를 시작하면 아래와 같은 화면으로 표시됩니다.
-
-![](http://astrokings.s3.amazonaws.com/html/img/help/204_02start.jpg)
-
 <br>
 
 ### 2) 분해할 장비 선택
