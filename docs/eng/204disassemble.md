@@ -19,7 +19,7 @@ You cannot select equipment that is already equipped on the Flagship
 <br>
 
 ### 3) Auto Select
-You can choose ¡®Auto¡¯ and select all the low grade equipment at once
+You can choose "Auto" and select all the low grade equipment at once
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/204_04autoselect.jpg)
 
