@@ -61,15 +61,26 @@ To defeat more pirates, complete research projects or use items that are effecti
 | Lv.28 Pirate               | 550 points per hunt  |
 | Lv.29 Pirate               | 570 points per hunt  |
 | Lv.30 Pirate               | 590 points per hunt  |
-| Risk Lv.1 Wanted Criminals | 611 points per hunt  |
-| Risk Lv.2 Wanted Criminals | 713 points per hunt  |
-| Risk Lv.3 Wanted Criminals | 840 points per hunt  |
-| Risk Lv.4 Wanted Criminals | 967 points per hunt  |
-| Risk Lv.5 Wanted Criminals | 1120 points per hunt |
-| Risk Lv.6 Wanted Criminals | 1273 points per hunt |
-| Risk Lv.7 Wanted Criminals | 1375 points per hunt |
-| Risk Lv.8 Wanted Criminals | 1475 points per hunt |
-| Risk Lv.9 Wanted Criminals | 1575 points per hunt |
+| Risk Lv.1 Wanted Criminals | 534 points per hunt  |
+| Risk Lv.2 Wanted Criminals | 585 points per hunt  |
+| Risk Lv.3 Wanted Criminals | 687 points per hunt  |
+| Risk Lv.4 Wanted Criminals | 815 points per hunt  |
+| Risk Lv.5 Wanted Criminals | 916 points per hunt |
+| Risk Lv.6 Wanted Criminals | 1018 points per hunt |
+| Risk Lv.7 Wanted Criminals | 1120 points per hunt |
+| Risk Lv.8 Wanted Criminals | 1222 points per hunt |
+| Risk Lv.9 Wanted Criminals | 1324 points per hunt |
+| Risk Lv.10 Wanted Criminals | 1426 points per hunt |
+| Risk Lv.11 Wanted Criminals | 1528 points per hunt |
+| Lv.5 Pirate Base | 576 points per hunt |
+| Lv.10 Pirate Base | 696 points per hunt |
+| Lv.15 Pirate Base | 816 points per hunt |
+| Lv.20 Pirate Base | 936 points per hunt |
+| Lv.25 Pirate Base | 1056 points per hunt |
+| Lv.30 Pirate Base | 1176 points per hunt |
+| Lv.35 Pirate Base | 1296 points per hunt |
+| Lv.40 Pirate Base | 1416 points per hunt |
+| Lv.45 Pirate Base | 1536 points per hunt |
 
 <br>
 
