@@ -26,7 +26,7 @@ You can manually assign the commander when you deploy a fleet. It is much easier
 
 ### 4)Hero Tier
 
- Heroes come in three different tiers. The tier of a hero determines their maximum level and skills.
+ Heroes come in four different tiers. The tier of a hero determines their maximum level and skills.
 
 <br>
 
@@ -35,6 +35,8 @@ You can manually assign the commander when you deploy a fleet. It is much easier
  There are two sets of skills: Combat Skills and Admin Skills. Combat Skills are used in combat, while Admin Skills are used while developing the planet. Passive combat skills are automatically used, while active combat skills need to be manually used.
 
 Hero Skills can be improved with [New-type Skill Elements].
+
+S Grade heroes can use [Advanced Skill Element] to upgrade their specialized skills.
 
 <br>
 

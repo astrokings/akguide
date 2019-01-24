@@ -1,31 +1,44 @@
 # Manage Heroes & Recruit Hero
 
-### 1)Manage Heroes
+### 1) Manage Heroes
 
  Here, you can increase the level of your Heroes and their Skills or dismiss unnecessary Heroes.
 
 <font color="red">**Note: Heroes dismissed or assigned to a council duty become inactive and are removed from the list.**</font>
 
-<br>
-
-### 2)Train Hero
-
- Rookie Heroes available at the Academy can be recruited at no cost.
-
-As the facility gains levels, new trainings become available. A higher tier training course offers better Heroes.
-
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_001rookiehero.jpg)
+![](http://astrokings.s3.amazonaws.com/html/img/help/104_001_Manage_Heroes.jpg)
 
 <br>
 
-### 3)Recruit Hero
+### 2) Recruit Heroes
 
- You can use Crystals to hire Veteran Heroes. The Recruit Hero list reveals only some information of the available Heroes.
+You can recruit Heroes at the Academy.
 
-If you do not like the Heroes currently offered, you can refresh the list.
+The Hero grade varies by Hero Training Course. You can recruit Heroes from Train Hero section at no cost. You can use Recruit Tickets, or use Crystals to hire Heroes. 
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_002veteranhero.jpg)
+Certain type of Heroes cannot be recruited for free.
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/104_002_Recruit_Hero.jpg)
 
 <br>
 
-<font color="red">**Note: You will not be reimbursed with the Crystals spent when dismissing a Hero.**</font>
+### 3) One time recruitment/Ten times Recruitment
+
+One time recruitment only hires one Hero. If use cystals to hire ten Heroes, you will receive 11 Heroes. If you use Recruit tickets to hire ten heroes, you will receive 10 Heroes.
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/104_003_Recruit_Type.jpg)
+
+<br>
+
+### 4) Recruit S-grade Heroes
+
+You can use Mileges to hire S grade Heroes. 
+
+You can obtain mileges by every Hero recruitment.  
+
+You can obtain more mileges when you recruit higher grade Heroes. 
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/104_004_Rcruit_S.jpg)
+
+<br>
+
