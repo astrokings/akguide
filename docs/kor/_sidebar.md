@@ -24,6 +24,7 @@
   - [6-4.집결 공격](kor/605fedrallyattack.md)
   - [6-5.정복 점수](kor/606fedconquestscore.md)
   - [6-6.공헌도](kor/607fedcontribution.md)
+  - [6-7.연맹권한](kor/608fedpermission.md)
 * 7.이벤트
   - [7-1.상시 이벤트](kor/701regularevent.md)
 * 8.국가 정보
@@ -31,10 +32,12 @@
   - [8-2.국력](kor/802nationalpower.md)
   - [8-3.명성](kor/803fame.md)
   - [8-4.VIP 레벨](kor/804viplevel.md)
-* 9.계정
-  - [9-1.계정 연동](kor/901connectaccount.md)
-  - [9-2.서버 이전](kor/902moveserver.md)
-* 10.결제
-  - [10-1.인앱 결제](kor/1001inappbilling.md)
-* [11.FAQ](kor/1100faq.md)
+* 9.무역행성
+  - [9-1.무역행성](kor/1200tradeplanet.md)
+* 10.계정
+  - [10-1.계정 연동](kor/901connectaccount.md)
+  - [10-2.서버 이전](kor/902moveserver.md)
+* 11.결제
+  - [11-1.인앱 결제](kor/1001inappbilling.md)
+* [12.FAQ](kor/1100faq.md)
 
