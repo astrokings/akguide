@@ -24,6 +24,7 @@
   - [6-4.Rally Attack](eng/605fedrallyattack.md)
   - [6-5.Conquest Score](eng/606fedconquestscore.md)
   - [6-6.Contribution](eng/607fedcontribution.md)
+  - [6-7.Roles](eng/608fedpermission.md)
 * 7.Event
   - [7-1.Regular Event](eng/701regularevent.md)
 * 8.National Info
@@ -31,10 +32,12 @@
   - [8-2.National Power](eng/802nationalpower.md)
   - [8-3.Renown](eng/803fame.md)
   - [8-4.VIP Level](eng/804viplevel.md)
-* 9.Account
-  - [9-1.Connect Account](eng/901connectaccount.md)
-  - [9-2.Move Server](eng/902moveserver.md)
-* 10.Payment
-  - [10-1.In App Billing](eng/1001inappbilling.md)
-* [11.FAQ](eng/1100faq.md)
+* 9.Trde Planet
+  - [9-1.Trade Planet](eng/1200tradeplanet.md)
+* 10.Account
+  - [10-1.Connect Account](eng/901connectaccount.md)
+  - [10-2.Move Server](eng/902moveserver.md)
+* 11.Payment
+  - [11-1.In App Billing](eng/1001inappbilling.md)
+* [12.FAQ](eng/1100faq.md)
 
