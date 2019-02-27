@@ -34,6 +34,7 @@
   - [8-4.VIP 레벨](kor/804viplevel.md)
 * 9.무역행성
   - [9-1.무역행성](kor/1200tradeplanet.md)
+  - [9-2.무역행성 점령전](kor/1201conquest.md)
 * 10.계정
   - [10-1.계정 연동](kor/901connectaccount.md)
   - [10-2.서버 이전](kor/902moveserver.md)
