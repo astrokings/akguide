@@ -34,6 +34,7 @@
   - [8-4.VIP Level](eng/804viplevel.md)
 * 9.Trde Planet
   - [9-1.Trade Planet](eng/1200tradeplanet.md)
+  - [9-2.Trade Planet Occupation](eng/1201conquest.md)
 * 10.Account
   - [10-1.Connect Account](eng/901connectaccount.md)
   - [10-2.Move Server](eng/902moveserver.md)
