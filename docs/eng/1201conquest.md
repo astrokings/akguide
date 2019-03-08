@@ -27,7 +27,8 @@ Trade Planets cannot be scouted.
 
 Trade Planets can only be attacked by rally attack.
 
-You can attack multiple Trade Planets at the same time, but only one Trade Planet can be occupied.
+You can attack multiple Trade Planets at the same time, but only one Trade Planet can be occupied.<br>
+(When Federation seize a Trade Planet, other rallied fleets will withdraw after they reach the Planet.)
 
 If the rally win from the battle against the Defense Force, the winner will occupy the Trade Planet.
 
@@ -36,15 +37,21 @@ If the Trade Planet is not occupied by any Federation, NPC Defense Force will.
 
 ### 3) Trade Planet Defense
 
-When the Trade Planet is temporarily occupied, you can organize a Defense Force and defend the planet.
-(The winner from the battle automatically becomes a Defense Force.)
+When the Trade Planet is temporarily occupied, you can organize a Defense Force and defend the planet.<br>
+(When you win from the battle, attack fleets automatically becomes Defense Force, other attack fleets arrives after, will automatically return back to your planet.  Thus, sending support fleet as soon as your Federation becomes occupant is recommend.)<br>
+When a Defense Force withdraw from the Trade Planet, ongoing Defense support fleet will automatically withdraw.
 
 Federation members can participate in the Defense Force when the Federation is currently occupying the planet.
 
 Only 8 Federation members can participate in Defense Force. 
 
+Defense Force Commander can transfer the authority to another the Defense Force member.<br>
+When the Defense Force Commander withdraw fleets, other highest combat rating Defense Force member will automatically become the Commander.
+
 You can activated defense strategies such as defense buff - fleet reinforcement or ship repair.
 If you do not participate in Defense Force, you can contribute to the Federation by investing in defense strategies.
+
+Trade Planet will be occupiable when all the Defense Force withdraw from the Planet completely.
 
 
 #### 3-1) Activate defense Buff by executing Defense Strategies
@@ -56,8 +63,8 @@ The defense strategy can be activated by the investment from the Federation memb
 
 Damaged Ship Repair function has usage limits.
 
-Each defense strategy has levels. When a lower level of defense strategy has been activated, the next level will be available after a certain period of time.
-The buff will be stronger as the defense strategy level goes higher.
+Each defense strategy has levels. When a lower level of defense strategy has been activated, the next level will be available after a certain period of time.<br>
+The buff will be stronger as the defense strategy level goes higher.<br>
 You will have more advantage in defense if you occupy the planet as soon as possible, invest in defense strategy, and have higher level of defense buff.
 
 
