@@ -8,12 +8,16 @@ Since each protocol has different effects and costs, it is important to consider
 
 ### 1) How to start Federation Protocol
 
+![](http://astrokings.s3.amazonaws.com/html/img/help/609_01howtostart.jpg)
+
 To enter the Federation Protocol Menu, Federation Protocol Research must be completed.<br>
 Once the Research level 1 is achieved, the Federation Protocol Menu will be opened and ready for entry.
 
 <br>
 
 ### 2) Unlock Federation Protocol
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/609_02unlock.jpg)
 
 Federation Protocols are initially locked, and each protocol must be unlocked before it can be activated.
 
@@ -32,6 +36,8 @@ Contribution Points can be earned by donating Alien Relics.
 <br>
 
 ### 4) Types of Federation Protocol
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/609_03types.jpg)
 
 The Federation Protocol consists of 6 types of Protocol: Production, Maintenance, Battle,  Harvest, Policy, and Trade.
 
@@ -67,6 +73,8 @@ Trade Protocol includes three buffs:<br>
 <br>
 
 ### 5) Federation Protocol Activation and Upgrades
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/609_04activationn.jpg)
 
 Federation resources and Alien Relics are required to activate Federation Protocols.<br>
 Each Protocol has a different duration therefore, the buff effect is retained only during that time.
