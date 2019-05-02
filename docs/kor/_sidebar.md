@@ -25,6 +25,7 @@
   - [6-5.정복 점수](kor/606fedconquestscore.md)
   - [6-6.공헌도](kor/607fedcontribution.md)
   - [6-7.연맹권한](kor/608fedpermission.md)
+  - [6-8.연맹 프로토콜](kor/609fedprotocol.md)
 * 7.이벤트
   - [7-1.상시 이벤트](kor/701regularevent.md)
 * 8.국가 정보

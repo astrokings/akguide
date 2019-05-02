@@ -25,6 +25,7 @@
   - [6-5.Conquest Score](eng/606fedconquestscore.md)
   - [6-6.Contribution](eng/607fedcontribution.md)
   - [6-7.Roles](eng/608fedpermission.md)
+  - [6-8.protocol](eng/609fedprotocol.md)
 * 7.Event
   - [7-1.Regular Event](eng/701regularevent.md)
 * 8.National Info
