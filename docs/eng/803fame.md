@@ -4,9 +4,9 @@
 
 You can attack the same player up to three times for a day for Renown points.
 
-The amount of Notoriety points you get depends on the difference of National Power as follows:
+The amount of Notoriety points you get depends on the difference of Fleet Combat Rating as follows:
 
-| PVP Results | Enemy National Power Rate | Get Renown Points Rate | Get Renown Points |
+| PVP Results | Enemy Combat Rating Rate | Get Renown Points Rate | Get Renown Points |
 | ----------- | ------------------------- | ---------------------- | ----------------- |
 | Win         | 100% ~                    | 150%                   | + 30              |
 |             | 85% ~ 100%                | 100%                   | + 20              |
