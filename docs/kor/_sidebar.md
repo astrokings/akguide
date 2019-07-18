@@ -6,6 +6,7 @@
   - [1-5.교역소](kor/105tradingpost.md)
   - [1-6.레이더](kor/106radar.md)
   - [1-7.스페이스 도크](kor/107spacedock.md)
+  - [1-8.함대 강화시설](kor/108fleetenhance.md)
 * 2.함선
   - [2-1.일반 함선](kor/201normalship.md)
   - [2-2.기함](kor/202flagship.md)
@@ -18,6 +19,7 @@
   - [5-2.사냥](kor/502hunt.md)
   - [5-3.함대전](kor/503fleetbattle.md)
   - [5-4.현상수배](kor/504wanted.md)
+  - [5-5.차원 균열](kor/505rift.md)
 * [6.연맹](kor/600fedmain.md)
   - [6-1.연맹 도움](kor/601fedhelp.md)
   - [6-2.연맹 연구](kor/602fedresearch.md)
