@@ -24,7 +24,7 @@ While resources are partially refunded, you retain the equipment that were on th
 
  Unlike normal ships, Flagships cannot be destroyed. When your Flagship is severely damaged, it cannot be deployed until it is repaired.
 
-If you win an encounter, your Flagship is not destroyed.
+※ If you become incapable of combat during battle, there is a chance that your Flagship will be damaged even if you win.
 
 <br>
 
