@@ -6,6 +6,7 @@
   - [1-5.Trading Post](eng/105tradingpost.md)
   - [1-6.Radar](eng/106radar.md)
   - [1-7.Space Dock](eng/107spacedock.md)
+  - [1-8.Ship Enhancement Facility](eng/108fleetenhance.md)
 * 2.Ships
   - [2-1.Non-Flagships](eng/201normalship.md)
   - [2-2.Flagship](eng/202flagship.md)
@@ -18,6 +19,7 @@
   - [5-2.Hunt](eng/502hunt.md)
   - [5-3.Fleet Battle](eng/503fleetbattle.md)
   - [5-4.Wanted Pirates](eng/504wanted.md)
+  - [5-5.Dimension Rift](eng/505rift.md)
 * [6.Federation](eng/600fedmain.md)
   - [6-1.Help Federation](eng/601fedhelp.md)
   - [6-2.Federation Research](eng/602fedresearch.md)
