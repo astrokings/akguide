@@ -5,10 +5,13 @@ It had an important role in providing warp points that could transfer to the emp
 Because it was made in the Tetmes era that has been lost, we have to get the Tenebris from CRUX, which can not be rebuilt now.<br>
 E.M.U. and the entire galaxies are watching who will be the Federation to defeat numerous competitors and regain Tenebris and reconnect the Galaxy.<br>
 
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_01.jpg)
 
 <br>
 
 ### 1) Time and Info
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_02.jpg)
 
 The battle starts at 00:00 UTC (Saturday) and will be held once every 4 weeks.<br>
 
@@ -21,6 +24,8 @@ If you win the battle, you will take control of the Tenebris and the 6 satellite
 <br>
 
 ### 2) How to Win
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_03.jpg)
 
 The Federation which charges all the energy needed to run Tenebris wins the battle. <br>
 
@@ -45,6 +50,8 @@ All charged energy point records will be accumulated and the rankings will be de
 
 ### 3) Attack
 
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_04.jpg)
+
 Tenebris and satellites cannot be scouted.<br>
 
 Attack Type: Rally<br>
@@ -59,6 +66,8 @@ At the start of the battle, the NPC defense fleet will be defending Tenebris and
 <br>
 
 ### 4) Defense
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_05.jpg)
 
 If you win from the Tenebris or satellite attacks and in occupation state, you can form a defense fleet to defend it.<br>
 
@@ -82,6 +91,7 @@ If you withdraw the defense fleets before the support fleet arrives, it will no 
 
 ### 5) Satellites Special Function
 
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_06.jpg)
 
 #### 5-1) Satellite Bombarding
 
@@ -107,7 +117,6 @@ Depending on the number of occupied satellites, the reduction rate increases by 
 
 The shield effect will be more powerful as much as the occupied satellites.<br>
 
-
 <br>
 
 ### 6) Rewards
@@ -115,53 +124,64 @@ The shield effect will be more powerful as much as the occupied satellites.<br>
 
 #### 6-1) Rewards for the winning Federation members
 
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_07.jpg)
+
 Victory rewards will be sent to all winning Federation members.<br>
 
 
 #### 6-2) Tenebris Controller Power
 
-Federation leader from the winning Federation will be Tenebris’ controller.<br>
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_08.jpg)
+
+Federation leader from the winning Federation will be Tenebris’ controller.<br><br>
 
 The controller can distribute special rewards for contributors.
-- There are 5 levels of loots, and there are limitations that can be contributed.<br>
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_09.jpg)
+- There are 5 levels of loots, and there are limitations that can be contributed.<br><br>
 
 Tenebris controller can assign the owners for 6 satellites.
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_10.jpg)
 - You can only assign once. Delegate wisely.
 - If you transfer the Tenebris ownership, all power will be transferred immediately.
-- Tenebris controller can only be assigned within the winning Federation members, and for the 6 satellites, there is no restrictions for the assignment.<br>
+- Tenebris controller can only be assigned within the winning Federation members, and for the 6 satellites, there is no restrictions for the assignment.<br><br>
 
-You can use a special buff for Tenebris. 
-- You can give a special buff to the galaxy.
+You can use a special buff for Tenebris.<br>
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_11.jpg)
+- You can give a special buff to the galaxy.<br>
 1)  Marching Speed 30% for 24hrs
-- Two special buffs can be applied to you with no limitation
-1) Increase Attack Speed 15%
-2) Increase Fleet Critical Damage 15%<br>
+- Two special buffs can be applied to you with no limitation<br>
+1) Increase Attack Speed 15%<br>
+2) Increase Fleet Critical Damage 15%<br><br>
 
 You can send a message to all Commanders in the galaxy with ‘Controller's Voice’ function.
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_12.jpg)
 - The message limit will be 300 characters.
 - The message will be sent 3 times and can be seen by all Commanders who are logged in.<br>
 
 
 #### 6-3) Six Satellite Owners Access
 
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_13.jpg)
+
 - Six satellite owners will be appointed by Tenebris ruler.<br>
 
 The owner can use special buffs from the satellite.<br>
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_14.jpg)
 
-- This can only be appointed to Federation members. 
-   1) Horeundal: Increase the Harvest Speed by 40% for 12hrs
-   2) Quirinus: Increase the Fleet Accuracy by 30% for 12hrs
-   3) Bellona: Increase Fleet Resistance by 30% for 12hrs
-   4) Nona: Increase Ship production rate by 30% for 12hrs
-   5) Decimal: Fleet destruction prevention +300 for 12hrs
+- This can only be appointed to Federation members.<br>
+   1) Horeundal: Increase the Harvest Speed by 40% for 12hrs<br>
+   2) Quirinus: Increase the Fleet Accuracy by 30% for 12hrs<br>
+   3) Bellona: Increase Fleet Resistance by 30% for 12hrs<br>
+   4) Nona: Increase Ship production rate by 30% for 12hrs<br>
+   5) Decimal: Fleet destruction prevention +300 for 12hrs<br>
    6) Morta: Increase Enemy Fleet Destruction +300 for 12hrs<br>
 
-- The buff will be applied to the owner without restrictions. 
-   1) Horeundal: Resource production speed increased by 20%
-   2) Quirinus: Fleet Attack Power 15%
-   3) Bellona: Fleet Durability 15%
-   4) Nona: Deployed Fleet Limit + 20%
-   5) Decimal: Fleet Damage Prevention + 600
+- The buff will be applied to the owner without restrictions.<br>
+   1) Horeundal: Resource production speed increased by 20%<br>
+   2) Quirinus: Fleet Attack Power 15%<br>
+   3) Bellona: Fleet Durability 15%<br>
+   4) Nona: Deployed Fleet Limit + 20%<br>
+   5) Decimal: Fleet Damage Prevention + 600<br>
    6) Morta: Enemy Fleet Damage + 600<br>
 
 
