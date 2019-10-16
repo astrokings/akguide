@@ -39,10 +39,12 @@
 * 9.무역행성
   - [9-1.무역행성](kor/1200tradeplanet.md)
   - [9-2.무역행성 점령전](kor/1201conquest.md)
-* 10.계정
-  - [10-1.계정 연동](kor/901connectaccount.md)
-  - [10-2.서버 이전](kor/902moveserver.md)
-* 11.결제
-  - [11-1.인앱 결제](kor/1001inappbilling.md)
-* [12.FAQ](kor/1100faq.md)
+* 10.테네브리스
+  - [10-1.테네브리스 쟁탈전](kor/1300tenebris.md)
+* 11.계정
+  - [11-1.계정 연동](kor/901connectaccount.md)
+  - [11-2.서버 이전](kor/902moveserver.md)
+* 12.결제
+  - [12-1.인앱 결제](kor/1001inappbilling.md)
+* [13.FAQ](kor/1100faq.md)
 

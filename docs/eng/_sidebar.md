@@ -6,7 +6,6 @@
   - [1-5.Trading Post](eng/105tradingpost.md)
   - [1-6.Radar](eng/106radar.md)
   - [1-7.Space Dock](eng/107spacedock.md)
-  - [1-8.Ship Enhancement Facility](eng/108fleetenhance.md)
 * 2.Ships
   - [2-1.Non-Flagships](eng/201normalship.md)
   - [2-2.Flagship](eng/202flagship.md)
@@ -19,7 +18,6 @@
   - [5-2.Hunt](eng/502hunt.md)
   - [5-3.Fleet Battle](eng/503fleetbattle.md)
   - [5-4.Wanted Pirates](eng/504wanted.md)
-  - [5-5.Dimension Rift](eng/505rift.md)
 * [6.Federation](eng/600fedmain.md)
   - [6-1.Help Federation](eng/601fedhelp.md)
   - [6-2.Federation Research](eng/602fedresearch.md)
@@ -39,10 +37,12 @@
 * 9.Trde Planet
   - [9-1.Trade Planet](eng/1200tradeplanet.md)
   - [9-2.Trade Planet Occupation](eng/1201conquest.md)
-* 10.Account
-  - [10-1.Connect Account](eng/901connectaccount.md)
-  - [10-2.Move Server](eng/902moveserver.md)
-* 11.Payment
-  - [11-1.In App Billing](eng/1001inappbilling.md)
-* [12.FAQ](eng/1100faq.md)
+* 10.Tenebris
+  - [10-1.Tenebris Battle](eng/1300tenebris.md)
+* 11.Account
+  - [11-1.Connect Account](eng/901connectaccount.md)
+  - [11-2.Move Server](eng/902moveserver.md)
+* 12.Payment
+  - [12-1.In App Billing](eng/1001inappbilling.md)
+* [13.FAQ](eng/1100faq.md)
 
