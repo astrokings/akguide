@@ -1,0 +1,49 @@
+* 1.惑星主要機能
+  - [1-1.司令部](jpn/101commandcenter.md)
+  - [1-2.資源保存所](jpn/102resourcestorage.md)
+  - [1-3.研究所](jpn/103research.md)
+  - [1-4.アカデミー](jpn/104academy.md)
+  - [1-5.交易所](jpn/105tradingpost.md)
+  - [1-6.レーダー](jpn/106radar.md)
+  - [1-7.スペースドック](jpn/107spacedock.md)
+  - [1-8.艦隊強化施設](jpn/108fleetenhance.md)
+* 2.艦船
+  - [2-1.一般艦船](jpn/201normalship.md)
+  - [2-2.旗艦](jpn/202flagship.md)
+  - [2-3.旗艦の装備製作](jpn/203flagshipequip.md)
+  - [2-4.旗艦の装備分解](jpn/204disassemble.md)
+* [3.英雄](jpn/300hero.md)
+* [4.資源](jpn/400resource.md)
+* 5.戦闘
+  - [5-1.艦隊の構成](jpn/501fleetset.md)
+  - [5-2.狩り](jpn/502hunt.md)
+  - [5-3.艦隊戦](jpn/503fleetbattle.md)
+  - [5-4.指名手配](jpn/504wanted.md)
+  - [5-5.次元の亀裂](jpn/505rift.md)
+* [6.連盟](jpn/600fedmain.md)
+  - [6-1.連盟支援](jpn/601fedhelp.md)
+  - [6-2.連盟研究](jpn/602fedresearch.md)
+  - [6-3.アストロネスト](jpn/604fedastronest.md)
+  - [6-4.集結攻撃](jpn/605fedrallyattack.md)
+  - [6-5.征服スコア](jpn/606fedconquestscore.md)
+  - [6-6.貢献度](jpn/607fedcontribution.md)
+  - [6-7.連盟権限](jpn/608fedpermission.md)
+  - [6-8.連盟プロトコル](jpn/609fedprotocol.md)
+* 7.イベント
+  - [7-1.常時イベント](jpn/701regularevent.md)
+* 8.国家情報
+  - [8-1.行動力](jpn/801actionpoint.md)
+  - [8-2.国力](jpn/802nationalpower.md)
+  - [8-3.名声](jpn/803fame.md)
+  - [8-4.VIPレベル](jpn/804viplevel.md)
+* 9.貿易惑星
+  - [9-1.貿易惑星](jpn/1200tradeplanet.md)
+  - [9-2.貿易惑星占領戦](jpn/1201conquest.md)
+* 10.テネブリース
+  - [10-1.テネブリース争奪戦](jpn/1300tenebris.md) 
+* 11.アカウント
+  - [11-1.アカウント連動](jpn/901connectaccount.md)
+  - [11-2.サーバー移転](jpn/902moveserver.md)
+* 12.決済
+  - [12-1.ゲーム内決済](jpn/1001inappbilling.md)
+* [13.FAQ](jpn/1100faq.md)
