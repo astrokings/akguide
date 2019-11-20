@@ -2,7 +2,7 @@
 
 銀河マップに表示される主要敵との戦闘は直接戦闘を指揮する艦隊戦形式で行われます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/503_001fleetbattle.jpg)
+![](http://astrokings.s3.amazonaws.com/html/img/help/503_001fleetbattle_1.jpg)
 
 <br>
 

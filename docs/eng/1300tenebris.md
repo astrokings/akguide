@@ -13,7 +13,7 @@ E.M.U. and the entire galaxies are watching who will be the Federation to defeat
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/1300_02.jpg)
 
-The battle starts at 00:00 UTC (Saturday) and will be held once every 4 weeks.<br>
+The battle starts at  UTC (Saturday) and will be held for 8 hours once every 4 weeks. <br>
 
 Commanders will fight to take control of Tenebris and the 6 satellites.
 6 satellites will serve as the bridgeheads for the Tenebris and can only be owned by one Federation.<br>
@@ -27,17 +27,18 @@ If you win the battle, you will take control of the Tenebris and the 6 satellite
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/1300_03.jpg)
 
-The Federation which charges all the energy needed to run Tenebris wins the battle. <br>
+The Federation which charges all the energy needed to run Tenebris wins the battle.<br>
 
-The energy charge is divided into 5 stages when enough energy is collected, it will progress to the next stage. 
-Energy is charged when you maintain the Tenebris occupation. 
-When you take control of Tenebris, 1 energy point is charged per minute. <br>
+The energy charge is divided into 5 stages when enough energy is collected, it will progress to the next stage.<br>
+Energy is charged when you maintain the Tenebris occupation.<br>
+When you take control of Tenebris, 1 energy point is charged per minute.<br>
 
-- Stage 1: 30 Points (Required Time: 30min/Accumulated Time: 30min)
-- Stage 2: 60 Points (Required Time: 1hr/Accumulated Time: 1hr 30min)
-- Stage 3: 90 Points (Required Time: 1hr 30min/Accumulated Time: 3hrs)
-- Stage 4: 120 Points (Required Time: 2hrs /Accumulated Time: 5hrs)
-- Stage 5: 150 Points (Required Time: 2hrs 30min/Accumulated Time: 7hrs 30min)<br>
+ - Stage 1: 10 Points (Required Time: 10min/Accumulated Time: 10min)
+ - Stage 2: 15 Points (Required Time: 15min/Accumulated Time:: 25min)
+ - Stage 3: 20 Points (Required Time: 20min/Accumulated Time: 45min)
+ - Stage 4: 120 Points (Required Time: 30min/Accumulated Time: 1hr 15min)
+ - Stage 5: 150 Points (Required Time: 45min/Accumulated Time: 2hrs)<br>
+
 
 If a Federation captured the Tenebris during your occupation, the energy charge stage will be maintained. <br>
 However, the energy point that was charged during the stage will be reset. 
@@ -58,12 +59,15 @@ Attack Type: Rally<br>
 
 If the rally attack wins against the defense fleet, the attacker’s Federation will take over the target.<br>
 
-There is no limit to the simultaneous occupation of the Tenebris and satellites.<br> 
-
 At the start of the battle, the NPC defense fleet will be defending Tenebris and its satellites.<br>
+
+In order to attack Tenebris, your federation has to occupy at least one satellite.<br>
+
+You can only occupy satellites equal to the Tenebris charge level achieved by your Federation.<br>
 
 
 <br>
+
 
 ### 4) Defense
 
@@ -78,6 +82,8 @@ Defense commander can be transferred to another Federation member who is a part 
 
 
 #### 4-1) NOTE
+
+During Tenebris War (Includes Satillite battle) fleets will not be destroyed.<br>
 
 The fleet that wins will automatically become the defense fleet and incoming rallies from the winning Federation will automatically return to their respective planets. It is advisable to immediately deploy additional support fleets during the occupation.<br>
 
@@ -98,6 +104,7 @@ If you withdraw the defense fleets before the support fleet arrives, it will no 
 By occupying the satellites, you can attack the Tenebris’ defense fleet or other satellites with its ‘Satellite Bombarding’ skill.<br>
 
 Satellite Bombarding skill can damage 1% (minimum number of damage = 1) of the defense fleet once every 60 seconds.<br>
+Satellite Bombarding power increases depending on the charge level achieved by the Federation that occupies Tenebris.<br>
 
 The target has to be the closest two satellites and Tenebris.<br>
 
