@@ -1,4 +1,4 @@
-# Quest Challenge Event
+# Quest Challenge
 
 Complete various quests to receive event points and obtain random rewards.<br>
 <br>
