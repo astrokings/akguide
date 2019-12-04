@@ -31,12 +31,13 @@
   - [6-8.protocol](eng/609fedprotocol.md)
 * 7.Event
   - [7-1.Regular Event](eng/701regularevent.md)
+  - [7-2.Quest Challenge](eng/703event.md)
 * 8.National Info
   - [8-1.Action Points](eng/801actionpoint.md)
   - [8-2.National Power](eng/802nationalpower.md)
   - [8-3.Renown](eng/803fame.md)
   - [8-4.VIP Level](eng/804viplevel.md)
-* 9.Trde Planet
+* 9.Trade Planet
   - [9-1.Trade Planet](eng/1200tradeplanet.md)
   - [9-2.Trade Planet Occupation](eng/1201conquest.md)
 * 10.Tenebris

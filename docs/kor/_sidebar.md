@@ -31,6 +31,7 @@
   - [6-8.연맹 프로토콜](kor/609fedprotocol.md)
 * 7.이벤트
   - [7-1.상시 이벤트](kor/701regularevent.md)
+  - [7-2.퀘스트에 도전하라](kor/703event.md)
 * 8.국가 정보
   - [8-1.행동력](kor/801actionpoint.md)
   - [8-2.국력](kor/802nationalpower.md)

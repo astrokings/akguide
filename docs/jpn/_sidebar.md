@@ -31,6 +31,7 @@
   - [6-8.連盟プロトコル](jpn/609fedprotocol.md)
 * 7.イベント
   - [7-1.常時イベント](jpn/701regularevent.md)
+  - [7-2.クエストに挑戦せよ](jpn/703event.md)
 * 8.国家情報
   - [8-1.行動力](jpn/801actionpoint.md)
   - [8-2.国力](jpn/802nationalpower.md)
