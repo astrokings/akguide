@@ -20,6 +20,7 @@
   - [5-3.艦隊戦](jpn/503fleetbattle.md)
   - [5-4.指名手配](jpn/504wanted.md)
   - [5-5.次元の亀裂](jpn/505rift.md)
+  - [5-6.戦闘規則](jpn/506combatrule.md)
 * [6.連盟](jpn/600fedmain.md)
   - [6-1.連盟支援](jpn/601fedhelp.md)
   - [6-2.連盟研究](jpn/602fedresearch.md)

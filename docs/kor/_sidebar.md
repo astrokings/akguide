@@ -20,6 +20,7 @@
   - [5-3.함대전](kor/503fleetbattle.md)
   - [5-4.현상수배](kor/504wanted.md)
   - [5-5.차원 균열](kor/505rift.md)
+  - [5-6.전투 규칙](kor/506combatrule.md)
 * [6.연맹](kor/600fedmain.md)
   - [6-1.연맹 도움](kor/601fedhelp.md)
   - [6-2.연맹 연구](kor/602fedresearch.md)

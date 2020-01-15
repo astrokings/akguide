@@ -20,6 +20,7 @@
   - [5-3.Fleet Battle](eng/503fleetbattle.md)
   - [5-4.Wanted Pirates](eng/504wanted.md)
   - [5-5.Dimension Rift](eng/505rift.md)
+  - [5-6.Battle Rules](eng/506combatrule.md)
 * [6.Federation](eng/600fedmain.md)
   - [6-1.Help Federation](eng/601fedhelp.md)
   - [6-2.Federation Research](eng/602fedresearch.md)
