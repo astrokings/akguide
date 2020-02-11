@@ -1,7 +1,7 @@
 ## Core artifact for "Multi-dimensional Resource Concentrator"
 
 - Core artifact buffs are automatically applied when all artifacts are equipped on the system.
-- Core artifact effect is determined based on the lowest level of the installed artifact level.다.
+- Core artifact effect is determined based on the lowest level of the installed artifact level.
 
 ### Multi-dimensional Compact Portal Connecter
 
