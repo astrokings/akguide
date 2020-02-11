@@ -61,7 +61,7 @@ You can only equip or replace the artifact from the Artifact System info page.<b
 
 ## Unidentified Relic Research
 
-You can obtain the Unidentified Relics when you defeat space pirates, wanted pirates, pirate base or dimension rift. 
+You can obtain the Unidentified Relics when you defeat wanted pirates, alien recon fleet, dimension rift or federation exploration. 
 Unidentified Relics has five levels and can obtain level 1 artifacts and level 1 core artifacts at random through research.<br> 
 
 You can obtain 1 general or core artifact from a certain level of relics.
