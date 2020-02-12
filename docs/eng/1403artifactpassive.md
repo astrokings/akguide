@@ -7,9 +7,9 @@
 
 | Levels | Effects |
 | - | - |
-| 1 | Destroyer Durability +5% |
-| 2 | Destroyer Durability +7% |
-| 3 | Destroyer Durability +9% |
+| 1 | Destroyer Durability +3% |
+| 2 | Destroyer Durability +5% |
+| 3 | Destroyer Durability +8% |
 | 4 | Destroyer Durability +12% |
 | 5 | Destroyer Durability +17% |
 | 6 | Destroyer Durability +23% |

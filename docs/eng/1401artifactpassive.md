@@ -7,9 +7,9 @@
 
 | Levels | Effects |
 | - | - |
-| 1 | Frigate Durability +5% |
-| 2 | Frigate Durability +7% |
-| 3 | Frigate Durability +9% |
+| 1 | Frigate Durability +3% |
+| 2 | Frigate Durability +5% |
+| 3 | Frigate Durability +8% |
 | 4 | Frigate Durability +12% |
 | 5 | Frigate Durability +17% |
 | 6 | Frigate Durability +23% |
@@ -23,9 +23,9 @@
 
 | Levels | Effects |
 | - | - |
-| 1 | All ships' Durability +5% |
-| 2 | All ships' Durability +7% |
-| 3 | All ships' Durability +9% |
+| 1 | All ships' Durability +3% |
+| 2 | All ships' Durability +5% |
+| 3 | All ships' Durability +8% |
 | 4 | All ships' Durability +12% |
 | 5 | All ships' Durability +17% |
 | 6 | All ships' Durability +23% |
