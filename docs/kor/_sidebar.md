@@ -48,5 +48,11 @@
   - [11-2.서버 이전](kor/902moveserver.md)
 * 12.결제
   - [12-1.인앱 결제](kor/1001inappbilling.md)
-* [13.FAQ](kor/1100faq.md)
+* 13.아티팩트]
+  - [13-1.아티팩트](kor/1400artifact.md)
+  - [13-2.<투시형 광역 스캔 장치> 전용 코어 아티팩트](kor/1401artifactpassive.md)
+  - [13-3.<건설 AI> 전용 코어 아티팩트](kor/1402artifactpassive.md)
+  - [13-4.<함대 전술 AI> 전용 코어 아티팩트](kor/1403artifactpassive.md)
+  - [13-5.<다차원 자원 집적기> 전용 코어 아티팩트](kor/1404artifactpassive.md)
+* [14.FAQ](kor/1100faq.md)
 
