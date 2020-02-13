@@ -48,5 +48,6 @@
   - [11-2.Move Server](eng/902moveserver.md)
 * 12.Payment
   - [12-1.In App Billing](eng/1001inappbilling.md)
-* [13.FAQ](eng/1100faq.md)
+* [13.Artifact](eng/1400artifact.md)
+* [14.FAQ](eng/1100faq.md)
 

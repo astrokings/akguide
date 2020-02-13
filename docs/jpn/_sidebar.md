@@ -48,4 +48,6 @@
   - [11-2.サーバー移転](jpn/902moveserver.md)
 * 12.決済
   - [12-1.ゲーム内決済](jpn/1001inappbilling.md)
-* [13.FAQ](jpn/1100faq.md)
+* [13.アーティファクト](jpn/1400artifact.md)
+* [14.FAQ](jpn/1100faq.md)
+
