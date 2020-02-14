@@ -48,6 +48,11 @@
   - [11-2.Move Server](eng/902moveserver.md)
 * 12.Payment
   - [12-1.In App Billing](eng/1001inappbilling.md)
-* [13.Artifact](eng/1400artifact.md)
+* 13.Artifact
+  - [13-1. Artifact](eng/1400artifact.md)
+  - [13-2. Core artifact for "Pen. WR Scanner"](eng/1401artifactpassive.md)
+  - [13-3. Core artifact for "Const. Mgmt. AI"](eng/1402artifactpassive.md)
+  - [13-4. Core artifact for "Fleet Tactic AI"](eng/1403artifactpassive.md)
+  - [13-5. Core artifact for "Dim. Rss Concentrator"](eng/1404artifactpassive.md)
 * [14.FAQ](eng/1100faq.md)
 

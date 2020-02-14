@@ -1,4 +1,4 @@
-## Core artifact for "Fleet Management AI"
+## Core artifact for "Fleet Tactic AI"
 
 - Core artifact buffs are automatically applied when all artifacts are equipped on the system.
 - Core artifact effect is determined based on the lowest level of the installed artifact level.

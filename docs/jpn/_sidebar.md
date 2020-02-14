@@ -48,6 +48,11 @@
   - [11-2.サーバー移転](jpn/902moveserver.md)
 * 12.決済
   - [12-1.ゲーム内決済](jpn/1001inappbilling.md)
-* [13.アーティファクト](jpn/1400artifact.md)
+* 13.アーティファクト
+  - [13-1.アーティファクト](jpn/1400artifact.md)
+  - [13-2.<透視型広域スキャン装置>専用コアアーティファクト](jpn/1401artifactpassive.md)
+  - [13-3.<建設管理AI>専用コアアーティファクト](jpn/1402artifactpassive.md)
+  - [13-4.<艦隊戦術AI>専用コアアーティファクト](jpn/1403artifactpassive.md)
+  - [13-5.<多次元資源集積機>専用コアアーティファクト](jpn/1404artifactpassive.md)
 * [14.FAQ](jpn/1100faq.md)
 
