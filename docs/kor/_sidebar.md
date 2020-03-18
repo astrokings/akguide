@@ -54,5 +54,6 @@
   - [13-3.<건설 AI>전용 코어 아티팩트](kor/1402artifactpassive.md)
   - [13-4.<함대 전술 AI>전용 코어 아티팩트](kor/1403artifactpassive.md)
   - [13-5.<다차원 자원 집적기>전용 코어 아티팩트](kor/1404artifactpassive.md)
+  - [13-6.<차원 분광기> 전용 코어 아티팩트](kor/1405artifactpassive.md)
 * [14.FAQ](kor/1100faq.md)
 

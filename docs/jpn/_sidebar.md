@@ -54,5 +54,6 @@
   - [13-3.<建設管理AI>専用コアアーティファクト](jpn/1402artifactpassive.md)
   - [13-4.<艦隊戦術AI>専用コアアーティファクト](jpn/1403artifactpassive.md)
   - [13-5.<多次元資源集積機>専用コアアーティファクト](jpn/1404artifactpassive.md)
+  - [13-6.<次元分光器>専用コアアーティファクト](jpn/1405artifactpassive.md)
 * [14.FAQ](jpn/1100faq.md)
 

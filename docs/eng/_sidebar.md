@@ -54,5 +54,6 @@
   - [13-3. Core artifact for "Const. Mgmt. AI"](eng/1402artifactpassive.md)
   - [13-4. Core artifact for "Fleet Tactic AI"](eng/1403artifactpassive.md)
   - [13-5. Core artifact for "Dim. Rss Concentrator"](eng/1404artifactpassive.md)
+  - [13-6. Core artifact for "Dim. Spectroscope"](eng/1405artifactpassive.md)
 * [14.FAQ](eng/1100faq.md)
 
