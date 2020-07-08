@@ -100,3 +100,13 @@ Depends on Trade items, Trade Token and CP deduction can be different.
 When you activate 'Auto Trade', you can trade automatically as long as you are connected to the game.
 
 <br>
+
+### 5) VIP Trading
+
+From VIP Level 8, you can automatically trade even when you close the game.
+
+VIP trade is only possible on one trade planet, and CP is also consumed during VIP trade.
+
+The time limit for VIP trading is extended as the VIP level increases, and when used in parallel with CP charging, you can trade longer.
+
+<br>
