@@ -6,11 +6,15 @@
 Merit Points can be earned based on the outcome of the match.
  - The amount of Merit Points earned varies depending on the result of the battle and rank level.
  - Merit Points can be exchanged with items from the Merit Shop.<br>
+ 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_13.jpg)
 
 
 ## Weekly Settlement Reward
 
 Merit Points and crystals can be received as rewards based on the rank level you have achieved in the weekly settlement.<br>
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11.jpg)
 
 
 ## Season Reward
@@ -25,6 +29,8 @@ Merit Points earned from the Empire Arena can be exchanged with items from the M
  - To access the shop, tap the Merit Shop button on your Empire Arena's main page.<br>
 
 Please note that the availability and quantity of the items from the Merit Shop are limited.<br>
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_12.jpg)
 
 
 #### Item List

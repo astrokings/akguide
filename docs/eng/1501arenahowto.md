@@ -1,5 +1,7 @@
 ## Empire Arena Battle Info
 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_01.jpg)
+
 In the Empire Arena, each participant is required to form three fleets to engage in a virtual fleet war with other participants.<br>
 	
 Based on the current ranking, you can battle by selecting an opponent from the list of matching targets.

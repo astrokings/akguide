@@ -9,6 +9,8 @@ Command Center level 25 or higher can participate in the Empire Arena.<br>
 
 Unless it's settlement period, the Empire Arena is always accessible.<br>
 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_02.jpg)
+
 
 ## Weekly Arena Setting
 
@@ -22,6 +24,8 @@ There are four Arena Settings available.
 
 The outcome of the battle may vary depending on the arena settings, forming a fleet based on the current arena setting for the week could give more advantage to win the battle.<br>
 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_03.jpg)
+
 
 ## Command Formation
 
@@ -30,7 +34,7 @@ A command formation is a strategic arrangement required for multiple fleets to b
 
 Command formations are largely divided into offensive, defensive, and mobility, providing effects and forming a mutual relationship.
  - The relationship between the command formation is as follows:<br>
-    * Mobility > Defense > Attack > Mobility
+    * Maneuver > Defense > Attack > Maneuver
  - Each formation has its own buff effect, and depending on the oppponent's formation, additional buffs or debuffs effect through match relationship is applied.<br>
 
 To be provided with the buff effect for command formation, certain conditions must be met.
@@ -38,6 +42,8 @@ To be provided with the buff effect for command formation, certain conditions mu
 
 Each formation has its own 'Tactic Operation' value in addition to the buff and debuff effect.
  - 'Tactic Operation' affects the priority each fleet needs to select an opponent fleet and battle.<br>
+ 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_04.jpg)
 
 
 ## Organize Fleet
@@ -54,3 +60,5 @@ Freely organize your fleet within the limits of the size of your fleet formation
 
 Enhancement, equipment, and buffs are saved based on the time of registration of the three fleets. 
  - Select registration and play based on the saved data.<br>
+ 
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_05.jpg)

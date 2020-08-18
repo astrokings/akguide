@@ -6,11 +6,15 @@
 매치 승패 결과에 따라 공훈 포인트를 획득할 수 있습니다.<br>
  - 승패 결과 및 자신의 랭크 등급에 따라 공훈 포인트 획득량이 달라집니다.
  - 공훈 포인트로 공훈 상점에서 다양한 보상 아이템과 교환이 가능합니다.<br>
+ 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_13.jpg)
 
 
 ## 주간 정산 보상
 
 매주 정산에서 자신이 달성한 랭크 등급에 따라 공훈 포인트와 크리스탈을 보상으로 받을 수 있습니다.<br>
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11.jpg)
 
 
 ## 시즌 보상
@@ -25,6 +29,8 @@
  - 공훈 상점은 교역소 또는 제국 가상 함대전 메인 화면에서 공훈 상점 버튼을 통해 입장할 수 있습니다.<br>
 
 공훈 상점에서 제공되는 상품은 각기 판매 기간과 수량이 제한되어 있으므로 주의하시기 바랍니다.<br>
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_12.jpg)
 
 
 #### 공훈 상점 아이템 목록
