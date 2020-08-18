@@ -45,4 +45,12 @@ If you activate the 'Fast Battle' function, a simplified battle will proceed.<br
 When the 'Fast Battle' function is enabled, the fleet commander skills will be automatically used.<br>
 If a battle is already in progress, it will be applied from the next round.<br>
 
+### Auto-Target
+When you activate 'Auto-Target', the fleet with the priority of choice automatically selects the nearest enemy fleet.<br>
+If you already at a target selection step, it will apply at the next target selection point.<br>
+
+### Final Results
+After all battle rounds, the one who won two times and more will be the winner in the Empire Arena match.<br>
+When the match ended, it will redirect you to the matching lobby.<br>
+
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_09.jpg)
