@@ -30,6 +30,6 @@
 | 5 | Damaged ships storage +17% |
 | 6 | Damaged ships storage +23% |
 | 7 | Damaged ships storage +32% |
-| 8 | Damaged ships storage +45% |
-| 9 | Damaged ships storage +60% |
+| 8 | Damaged ships storage +43% |
+| 9 | Damaged ships storage +59% |
 | 10 | Damaged ships storage +80% |
