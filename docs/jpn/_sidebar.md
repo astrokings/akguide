@@ -55,5 +55,14 @@
   - [13-4.<艦隊戦術AI>専用コアアーティファクト](jpn/1403artifactpassive.md)
   - [13-5.<多次元資源集積機>専用コアアーティファクト](jpn/1404artifactpassive.md)
   - [13-6.<次元分光器>専用コアアーティファクト](jpn/1405artifactpassive.md)
-* [14.FAQ](jpn/1100faq.md)
+* [14.仮想艦隊戦](jpn/1500arenamain.md)
+  - [14-1.進行方式](jpn/1501arenahowto.md)
+  - [14-2.参加準備](jpn/1502arenastanby.md)
+  - [14-3.プレイ](jpn/1503arenaplaying.md)
+  - [14-4.ランキング](jpn/1504arenarank.md)
+  - [14-5.報酬](jpn/1505arenareward.md)
+  - [14-6.その他](jpn/1506arenaothers.md)
+* 15.その他
+  - [15-1.チャット機能](jpn/1601otherschatting.md)  
+* [16.FAQ](jpn/1100faq.md)
 

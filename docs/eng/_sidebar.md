@@ -55,5 +55,14 @@
   - [13-4. Core artifact for "Fleet Tactic AI"](eng/1403artifactpassive.md)
   - [13-5. Core artifact for "Dim. Rss Concentrator"](eng/1404artifactpassive.md)
   - [13-6. Core artifact for "Dim. Spectroscope"](eng/1405artifactpassive.md)
-* [14.FAQ](eng/1100faq.md)
+* [14.Empire Arena](eng/1500arenamain.md)
+  - [14-1.Empire Arena Battle Info](eng/1501arenahowto.md)
+  - [14-2.Participation](eng/1502arenastanby.md)
+  - [14-3.Gameplay](eng/1503arenaplaying.md)
+  - [14-4.Ranking](eng/1504arenarank.md)
+  - [14-5.Rewards](eng/1505arenareward.md)
+  - [14-6.Others](eng/1506arenaothers.md)
+* 15.Others
+  - [15-1.Chat Function](eng/1601otherschatting.md)
+* [16.FAQ](eng/1100faq.md)
 

@@ -21,3 +21,14 @@ Upgrading the Exchange Center increases the number of exchange slots and Free Re
 Federation Marks do not disappear even when you leave your Federation.
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/105_002fedstore.jpg)
+
+<br>
+
+### 3) Merit Shop
+
+Merit Points earned from the Empire Arena can be exchanged with items from the Merit Shop. 
+ - To access the shop, tap the Merit Shop button on your Empire Arena's main page.<br>
+
+Please note that the availability and quantity of the items from the Merit Shop are limited. 
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_12.jpg)

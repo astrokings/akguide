@@ -27,7 +27,7 @@ When you join the Federation, basic rank is G1.
 |  | Approve Federation joining request | **O** | **O** |  |  |  | 
 |  | Expel a member from Federation | **O** | **O** |  |  |  | 
 |  | Change the Fedeation Member levels | **O** | **O** | **O** |  |  | 
-| Federation Activity Settings | Activate Dimensional Radar | **O** | **O** |  |  |  |
+| Federation Activity Settings | Activate Dimensional Radar | **O** | **O** | **O** |  |  |
 |  | Set a Federation Research Prioritization | **O** | **O** |  |  |  | 
 |  | Open a new Federation Research category | **O** | **O** |  |  |  | 
 |  | Build Astronest | **O** | **O** |  |  |  | 

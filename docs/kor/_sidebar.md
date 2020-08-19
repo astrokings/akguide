@@ -55,5 +55,14 @@
   - [13-4.<함대 전술 AI>전용 코어 아티팩트](kor/1403artifactpassive.md)
   - [13-5.<다차원 자원 집적기>전용 코어 아티팩트](kor/1404artifactpassive.md)
   - [13-6.<차원 분광기> 전용 코어 아티팩트](kor/1405artifactpassive.md)
-* [14.FAQ](kor/1100faq.md)
+* [14.가상 함대전](kor/1500arenamain.md)
+  - [14-1.진행 방식](kor/1501arenahowto.md)
+  - [14-2.참여 준비](kor/1502arenastanby.md)
+  - [14-3.플레이](kor/1503arenaplaying.md)
+  - [14-4.랭킹](kor/1504arenarank.md)
+  - [14-5.보상](kor/1505arenareward.md)
+  - [14-6.기타](kor/1506arenaothers.md)
+* 15.기타
+  - [15-1.채팅창 기능](kor/1601otherschatting.md)
+* [16.FAQ](kor/1100faq.md)
 
