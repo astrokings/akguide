@@ -40,7 +40,7 @@ Each fleet receives additional effects based on the weekly arena setting.<br>
 Each fleet receives an additional effect depending on the effect of the selected command formation.<br>
 Battles are conducted in 1:1 fleet battles, and the outcome of the battle determines the victory or defeat of the round.<br>
 
-### Fast Battle(Coming soon)
+### Fast Battle
 If you activate the 'Fast Battle' function, a simplified battle will proceed.<br>
 When the 'Fast Battle' function is enabled, the fleet commander skills will be automatically used.<br>
 If a battle is already in progress, it will be applied from the next round.<br>
