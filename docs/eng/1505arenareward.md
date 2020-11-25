@@ -7,6 +7,11 @@ Merit Points can be earned based on the outcome of the match.
  - The amount of Merit Points earned varies depending on the result of the battle and rank level.
  - Merit Points can be exchanged with items from the Merit Shop.<br>
  
+[Cumulative Rewards] Winning Streak points will be added.
+ - If you win 6 times in a row, you will get victory points and it increases upto 20 wins.
+ - 20% will be added for each stages, up to 300%.
+ - Winning Streak points will be reset when you lose. <br>
+ 
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_13.jpg)
 
 
@@ -14,7 +19,7 @@ Merit Points can be earned based on the outcome of the match.
 
 Merit Points and crystals can be received as rewards based on the rank level you have achieved in the weekly settlement.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11.jpg)
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11_1.jpg)
 
 
 ## Season Reward

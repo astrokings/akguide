@@ -7,6 +7,11 @@
  - 勝敗結果及び自分のランク等級に応じて功勲ポイント獲得量が異なります。
  - 功勲ポイントは功勲ショップにて様々な報酬アイテムと交換できます。<br>
  
+「累積等級」マッチング報酬にボーナス連勝ポイントが追加されます。
+ - 6連勝からボーナス連勝ポイントが支給され、20連勝までが対象となります。
+ - 各段階ごとに、20%ずつ追加され、最大300%まで増加します。
+ - 敗北すると、ボーナス連勝ポイントは初期化されます。<br>
+ 
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_13.jpg)
 
 
@@ -14,7 +19,7 @@
 
 毎週の集計で達成したランク等級に応じて功勲ポイントとクリスタルを報酬として獲得できます。<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11.jpg)
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11_1.jpg)
 
 
 ## シーズン報酬

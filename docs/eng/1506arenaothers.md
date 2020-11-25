@@ -3,7 +3,7 @@
 
 ## Additional Info
 
-If there is no match recorded for a week while participating in the season, the rank will be adjusted down one level at the time of the weekly settlement.
+If you have no weekly match record during the season, you will be dropped one grade in the [cumulative rank] section at the weekly settlement, based on the settlement period.
  - Ranking points are also adjusted to the minimum required for the lowered grade.
  - Sailor and Skipper ratings will not be adjusted to a lower grade.
  - Participating in battle through Empire Arena will make you a part of the season.<br>

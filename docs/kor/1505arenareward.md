@@ -7,6 +7,11 @@
  - 승패 결과 및 자신의 랭크 등급에 따라 공훈 포인트 획득량이 달라집니다.
  - 공훈 포인트로 공훈 상점에서 다양한 보상 아이템과 교환이 가능합니다.<br>
  
+[누적 등급] 매칭 보상에 보너스 연승 포인트가 추가됩니다.<br>
+ - 6연승부터 보너스 연승포인트가 지급되며, 20연승까지 증가합니다. 
+ - 각 단계당, 20%씩 추가되어, 최대 300%까지 증가합니다. 
+ - 패배할 경우, 보너스 연승 포인트는 초기화 됩니다. <br>
+ 
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_13.jpg)
 
 
@@ -14,7 +19,7 @@
 
 매주 정산에서 자신이 달성한 랭크 등급에 따라 공훈 포인트와 크리스탈을 보상으로 받을 수 있습니다.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11.jpg)
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11_1.jpg)
 
 
 ## 시즌 보상

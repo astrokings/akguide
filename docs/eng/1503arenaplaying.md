@@ -6,11 +6,14 @@
 Tap the MATCH button located on the main page of the Empire Arena to enter the Matching List page.<br>
 
 The matching page selects 5 potential opponents and displays them as a list. 
- - Matching opponents are randomly selected among the other commanders participating in the Empire Arena, with the most similar targets based on their ranking and combat power.<br>
+ - The matching opponent is selected from 5 commanders that has higher rankings(less than 30 rankings above) based on the commander's current ranking. <br>
 
 Matching list can be refreshed for free every 4 hours.
  - Refreshing the list using crystals is also possible.
- - If you won against all the matching targets on your list, the list will be updated for free.<br>
+ - To reset matching opponents list, you need to battle with 5 opponents from the ranking list.
+ - Can use [Discard] and can use up to 10 times. 
+ - When you use daily discard cards, you can purchase Empire Arena tickes.
+ - However, from the [Competitive Grade] matching, you cannot use [Discard] or paid reset.<br>
 
 In the Skipper and Sailor levels, if the number of matching people is insufficient, NPC targets may be matched.
  - At other higher levels, you must wait for the minimum number of players required to participate.<br>
