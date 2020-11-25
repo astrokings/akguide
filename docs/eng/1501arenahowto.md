@@ -11,7 +11,7 @@ Based on the current ranking, you can battle by selecting an opponent from the l
 	
 Empire Arena Entrance Ticket is needed to proceed with the battle. 	
  - One free ticket can be obtained per hour. 	
- - The free ticket can only be obtained if you have 5 or fewer tickets.<br>
+ - The free ticket can only be obtained if you less than 5 tickets.<br>
 	
 No ships will be destroyed or damaged from this virtual battle.<br>
 	
