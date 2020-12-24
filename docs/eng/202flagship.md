@@ -58,7 +58,7 @@ The materials needed to promote a Flagship depends on the type and tier of the F
 
  Command Buff is a unique ability of a Flagship. It affects entire fleet, and up to two Command Buffs are available as you promote your Flagship.
 
-Command Buff can be upgraded by using [Buff Upgrade Modules]. However, as you upgrade the buff, it will less likely succeed when upgrading further.
+Command Buff can be upgraded by using [Buff Upgrade Modules].
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/202_004flagshipbuff.jpg)
 
