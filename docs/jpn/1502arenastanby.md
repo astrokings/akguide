@@ -3,16 +3,19 @@
 
 ## 進入する
 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_02.jpg)
+
 ワープゲートを通して帝国仮想艦隊戦に進入可能です。<br>
 
 司令部レベル25以上から帝国仮想艦隊戦に参加できます。<br>
 
 集計時間外であれば、帝国仮想艦隊戦は常時プレイが可能です。<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_02.jpg)
 
 
 ## ウィークリー環境特性
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_03.jpg)
 
 艦隊戦が行われる戦場は環境特性というものが存在し、毎週集計時に順番に入れ替わります。<br>
 
@@ -24,10 +27,11 @@
 
 環境特性に応じて戦闘の結果が変わってきます。毎週のウィークリー環境特性に合わせて艦隊を編成して帝国仮想艦隊戦に参加する事が勝利への第一歩です。<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_03.jpg)
 
 
 ## 指揮陣形
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_04.jpg)
 
 指揮陣形とは多数の艦隊が布陣する上で必要な戦略的配置構成です。
  - 艦隊陣形の上位概念です。<br>
@@ -43,10 +47,11 @@
 各陣形はバフまたはデバフ効果とは別に固有の「戦術機動」数値をもっています。
  - 「戦術機動」は各艦隊が戦闘を望む相手艦隊を選択するために必要な優先権に影響を及ぼします。<br>
  
- ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_04.jpg)
-
+ 
 
 ## 艦隊編成
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_05.jpg)
 
 帝国仮想艦隊戦に参加するためには3つの艦隊を編成する必要があります。
  - 3つの艦隊で1回のマッチングにつき合計3回の戦闘を行います。<br>
@@ -60,5 +65,3 @@
 
 編成を完了した3つの艦隊を登録する時点を基準として強化、装備、バフによる各種数値の増加や変化の保存が行われます。
  - 登録を選択し保存したデータを基盤に帝国仮想艦隊戦が行われます。<br>
- 
- ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_05.jpg)

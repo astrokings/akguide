@@ -6,7 +6,7 @@
 
 [자동 편성] 기능을 활용하면 원터치로 최적의 함대를 구성할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/501_001fleetsetauto.jpg)
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/501_001fleetsetauto.jpg)
 
 <br>
 
@@ -28,6 +28,13 @@
 
 <br>
 
-### 5)함대 프리셋
+### 5)강화 슬롯 지정
+
+ 아군 함대에 적용할 함선 강화 슬롯을 지정할 수 있습니다.<br>
+ 적 함대의 상황에 따라 함선 강화 슬롯을 선택하여 전투를 더욱 유리하게 이끌 수 있습니다.
+
+<br>
+
+### 6)함대 프리셋
 
  스페이스 도크에서 함대를 편성해두면 상황에 맞는 최적의 함대를 빠르게 출격시킬 수 있습니다.

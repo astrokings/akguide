@@ -3,16 +3,19 @@
 
 ## 진입하기
 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_02.jpg)
+
 워프게이트를 통하여 제국 가상 함대전 진입이 가능합니다.<br>
 
 사령부 레벨 25 이상부터 제국 가상 함대전 참여가 가능합니다.<br>
 
 정산 시간이 아니라면 제국 가상 함대전은 항상 플레이가 가능합니다.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_02.jpg)
 
 
 ## 주간 환경 특성
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_03.jpg)
 
 함대전이 벌어지는 전장은 환경 특성이라는 것이 존재하며, 매주 정산 시 순차적으로 전환됩니다.<br>
 
@@ -24,10 +27,11 @@
 
 환경 특성에 따라 전투의 결과가 달라질 수 있으므로, 매주 주간 환경 특성에 따라 함대 편성을 하여 제국 가상 함대전에 참여하는 것이 승리에 유리합니다.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_03.jpg)
 
 
 ## 지휘 진형
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_04.jpg)
 
 지휘 진형이란 다수의 함대가 포진하는데에 필요한 전략적 배치 구성입니다.
  - 함대 진형의 상위 개념입니다.<br>
@@ -42,11 +46,13 @@
 
 각 진형은 버프 또는 디버프 효과 말고도 고유의 '전술 기동' 수치를 가지고 있습니다.
  - '전술 기동'은 각 함대가 원하는 상대 함대와 전투를 선택하기 위해 필요한 우선권에 영향을 미칩니다.<br>
+ - '전술 기동' 점수는 함대의 함선 구성에 따라 추가됩니다. 크기가 작은 함선 비율이 높을수록 전술 기동 점수는 높아집니다.<br>
  
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_04.jpg)
 
 
 ## 함대 편성
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_05.jpg)
 
 제국 가상 함대전에 참여하기 위해서는 총 세 개의 함대를 편성해야 합니다.
  - 세 개의 함대로 매칭 당 총 세 번의 전투를 진행합니다.<br>
@@ -60,5 +66,3 @@
 
 편성을 마친 세 개 함대를 등록하는 시점을 기준으로 강화, 장비, 버프로 인한 증가/변화 수치 저장이 이루어집니다.
  - 등록을 선택하여 저장된 데이터를 기반으로 제국 가상 함대전 플레이가 진행됩니다.<br>
-
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_05.jpg)

@@ -3,16 +3,19 @@
 
 ## Access
 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_02.jpg)
+
 Empire Arena can be accessed through the Warp Gate facility.<br>
 
 Command Center level 25 or higher can participate in the Empire Arena.<br>
 
 Unless it's settlement period, the Empire Arena is always accessible.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_02.jpg)
 
 
 ## Weekly Arena Setting
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_03.jpg)
 
 The battlefield in which the fleet war takes place is an environmental setting and it is switched sequentially at the time of weekly settlement.<br>
 
@@ -24,10 +27,11 @@ There are four Arena Settings available.
 
 The outcome of the battle may vary depending on the arena settings, forming a fleet based on the current arena setting for the week could give more advantage to win the battle.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_03.jpg)
 
 
 ## Command Formation
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_04.jpg)
 
 A command formation is a strategic arrangement required for multiple fleets to be deployed.
   - It is a high-level concept of fleet formation.<br>
@@ -43,10 +47,11 @@ To be provided with the buff effect for command formation, certain conditions mu
 Each formation has its own 'Tactic Operation' value in addition to the buff and debuff effect.
  - 'Tactic Operation' affects the priority each fleet needs to select an opponent fleet and battle.<br>
  
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_04.jpg)
 
 
 ## Organize Fleet
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_05.jpg)
 
 To participate in the Empire Arena, a total of three fleets must be formed.
  - A total of three battles per match with three fleets.<br>
@@ -60,5 +65,3 @@ Freely organize your fleet within the limits of the size of your fleet formation
 
 Enhancement, equipment, and buffs are saved based on the time of registration of the three fleets. 
  - Select registration and play based on the saved data.<br>
- 
- ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_05.jpg)
