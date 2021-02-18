@@ -39,19 +39,22 @@ Enhancing the parts will increase the ship's level. <br>
 Each ship level has restrictions, so consider wisely when you enhance the parts of your ship.
 <br>
 
-### 3) Required Materials and Resources
+### 3) Ship Enhancement Slot and Activation
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_04.jpg)
+![](http://astrokings.s3.amazonaws.com/html/img/help/108_06.jpg)
 
-You need Gold, Metal, Thonium, Dark Matter, and Ship Enhancement Materials.
+It consists of a total of 5 enhancement slots, and each slot allows you to enhance a different ship.<br>
+By default, enhancements can be configured up to 3 slots and 2 additional slots can be unlocked using crystals.
+One of the 5 slots can be selected to apply the enhancement configuration for fleet, planet defense, and Empire Arena battles.<br><br>
 
-There are three types of Ship Enhancement Materials.
-- Ship Weapon Enhancement Materials
-- Ship Armor Enhancement Materials
-- Ship Engine Enhancement Materials
+Deployment Activation applies to all participating fleets, and for Defense Activation, this applies to all ships defending the planet.<br>
+※ Crystals are consumed when changing the Deployment Activation, and this cannot be changed when all fleets are deployed. 
 
-Enhancement items can be obtained from the Dimension Rift battle. 
-<br>
+![](http://astrokings.s3.amazonaws.com/html/img/help/108_07.jpg)
+
+Different enhancement slots can be applied to the three fleets from the Empire Arena Battle.<br>
+※ No crystals will be used when changing the enhancement slot for Defense Fleet and Empire Arena Fleets.  <br>
+
 
 ### 4) Reset the Ship Enhancement
 
@@ -59,11 +62,13 @@ You can reset each enhanced parts with reset items in the Ship Enhancement Facil
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/108_05.jpg)
 
-Resetting allows you to obtain some of the items used for enhancement.<br>
-Recovery rate will vary depending on the type of item used. 
+For ship enhancement reset, enhancement materials and resources can be recovered.<br>
+The recovery rate of materials and resources may vary depending on the enhance reset module used.  
 
 There are two types of Ship Enhance Reset Module.
 - Ship Enhance Reset Module Type-alpha : When you reset the enhanced parts, you'll get 40% of materials that were used for enhancement.
 - Ship Enhance Reset Module Type-beta : When you reset the enhanced parts, you'll get 80% of materials that were used for enhancement.
+- Ship Enhance Reset Module Type-γ: An enhance reset module that recovers 50% of used enhancement materials and resources.
+- Ship Enhance Reset Module Type-δ: An enhance reset module that recovers 100% of used enhancement materials and resources.
 
 Reset Modules are available at E.M.U. 

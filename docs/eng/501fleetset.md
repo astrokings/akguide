@@ -28,6 +28,12 @@ Use the [Auto] button to automatically organize optimized fleets.
 
 <br>
 
-### 5)Fleet Presets
+### 5) Enhancement Slot Designation
+
+A specific ship enhancement slot can be applied to the fleet. <br>
+Depending on the enemy fleets' composition, you can make better strategies with each ship enhancement slot.
+
+
+### 6)Fleet Presets
 
  You can preset fleet composition at the Space Dock to quickly deploy new fleets.
