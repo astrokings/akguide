@@ -45,7 +45,8 @@ To be provided with the buff effect for command formation, certain conditions mu
  - Each formation requires specific types of Flagship such as Striker, Guardian, or Tactician. Formation effects are only applied when the required Flagship is included in the fleet setup.<br>
 
 Each formation has its own 'Tactic Operation' value in addition to the buff and debuff effect.
- - 'Tactic Operation' affects the priority each fleet needs to select an opponent fleet and battle.<br>
+ - 'Tactic Operation' affects the priority each fleet needs to select an opponent fleet and battle.
+ - 'Tactic Operation' score will be added depends on the ship distribution of the fleet. The higher the percentage of smaller ships, the higher the tactic operation score.<br>
  
 
 
@@ -60,6 +61,7 @@ Freely organize your fleet within the limits of the size of your fleet formation
  - You can organize your fleet regardless of the number of ships you currently own.
  - It is not possible to assign duplicate flagships or heroes in each fleet.
  - The ships are based on the highest tier you can currently produce, and the current enhancement level is applied.
+ - The current ship enhancement is applied to the ship enhancement information, and different enhancement slots for each fleet can be applied.
  - All the enhancements, equipment, and buffs of flagships and ships on the commander's planet are applied except for external buffs.
  - Completing the fleet formation and registering for participation is necessary to be able to proceed with the battle.<br>
 
