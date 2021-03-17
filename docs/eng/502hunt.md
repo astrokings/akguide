@@ -65,3 +65,23 @@ If players fail to defeat the Recon Fleet of the forward contingents, the entire
 These forces are composed of a vast number of Recon Fleets with wide variety of ships. Attack suitable fleets and receive rewards.
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/502_004alienmain.jpg)
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+# Priora Squad
+
+The Priora Squad, which appears outside the Tenebris area, is pirate squad composed of a powerful fleet called the Vigilante and several followers linked to the Vigilante.
+
+Linked followers give a stronger effect to the Vigilante, and when the follower is defeated, the effect given to the Vigilante disappears.
+
+You have to defeat the Vigilante to get a rare reward, and you can get more rewards if you defeat the Vigilante with a lot of connected followers.
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502_005.jpg)

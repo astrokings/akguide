@@ -1,44 +1,59 @@
 # Manage Heroes & Recruit Hero
 
-### 1) Manage Heroes
-
- Here, you can increase the level of your Heroes and their Skills or dismiss unnecessary Heroes.
-
-<font color="red">**Note: Heroes dismissed or assigned to a council duty become inactive and are removed from the list.**</font>
+## 1) Manage Heroes
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/104_001_Manage_Heroes.jpg)
 
+You can level up your heroes or strengthen the skills.<br>
+A hero can be retired and placed into the council.<br>
+Caution: Heroes who have been retired or have been placed on the council will be permanently excluded from the hero list.
+
 <br>
 
-### 2) Recruit Heroes
+## 2) Hero Recruitment
 
-You can recruit Heroes at the Academy.
-
-The Hero grade varies by Hero Training Course. You can recruit Heroes from Train Hero section at no cost. You can use Recruit Tickets, or use Crystals to hire Heroes. 
-
-Certain type of Heroes cannot be recruited for free.
+Can recruit heroes from Academy.
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/104_002_Recruit_Hero.jpg)
 
+
+### A. Hero Recruitment
+
+Certain hero slots offer free hero recruitment opportunities.<br>
+There are hero recruit tickets available for each employment slot.
+
+### B. Milege Recruitment
+
+You can earn the mileage to earn a S-class hero by recruiting a hero.<br>
+The higher grade you hire a hero, the more miles you earn.<br>
+(For S-class heroes that were recruited with mileage, only legendary 'Galaxy' heroes can be recruited.)
+
 <br>
 
-### 3) One time recruitment/Ten times Recruitment
-
-One time recruitment only hires one Hero. If use cystals to hire ten Heroes, you will receive 11 Heroes. If you use Recruit tickets to hire ten heroes, you will receive 10 Heroes.
+## 3) One Recruitment and Ten Recruitments
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/104_003_Recruit_Type.jpg)
 
-<br>
-
-### 4) Recruit S-grade Heroes
-
-You can use Mileges to hire S grade Heroes. 
-
-You can obtain mileges by every Hero recruitment.  
-
-You can obtain more mileges when you recruit higher grade Heroes. 
-
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_004_Rcruit_S.jpg)
+Can recruit one hero for One recruitment.<br>
+If you recruit 10 heroes with recruit tickets, you'll obtain 10 heroes and if you recruit 10 heroes with crystal, you'll obtain 11 heroes.<br>
+(For certain recruitment slots, crystal recruitment is not available.)
 
 <br>
 
+## 4) Hero Retire
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/104_004_Retire.jpg)
+
+You can retire unnecessary heroes when you recruite the heroes, or from manage hero page.<br>
+Depends on the Grade and enhancement level, you can get DNA element refund by skill level, and skill elements refund by its grade or enhancement.
+
+### DNA Element Recall by Grades
+
+- When a Class C Hero is retired, depends on the hero enhancement, about 10% of 'DNA element : C' will be refunded.
+- When a Class B Hero is retired, depends on the hero enhancement, about 10% of 'DNA element : B' will be refunded.
+- When a Class A Hero is retired, depends on the hero enhancement, about 10% of 'DNA element : A' will be refunded.
+- When a Class S Hero is retired, depends on the hero enhancement, about 10% of Recombinant DNA Element' will be refunded.
+
+### Skill Element Recall
+
+Can get 50% refund based on the amount of 'Advanced Skill Element' and 'New Type Skill Element' used to level up skills
