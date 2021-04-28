@@ -18,6 +18,7 @@ Merit Points can be earned based on the outcome of the match.
 ## Weekly Settlement Reward
 
 Merit Points and crystals can be received as rewards based on the rank level you have achieved in the weekly settlement.<br>
+However, players who do not have Empire Arena record of the week will not be able to receive weekly reward.
 
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11_1.jpg)
 

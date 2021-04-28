@@ -49,7 +49,12 @@ The overload conditions found so far are as follows:
  - Reduced Beam Resistance
  - Reduced Cannon Resistance
  - Reduced Missile Resistance
-
+<br>
+<br>
+ - Interdiction to Railgun Damage
+ - Interdiction to Beam Damage
+ - Interdiction to Missile Damage
+ - Interdiction to Cannon Damage
 
 
 ## Ranking and Rewards
