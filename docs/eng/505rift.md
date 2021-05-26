@@ -44,8 +44,8 @@ When you start the next Dimension Rift Battle, it will proceed from the previous
 
 ### 3) Wave Map
 
-There are 200 Waves in the Dimension Rift map.<br>
-- Alien Force Attack region has 20 Sectors, and each sector has 10 waves.<br>
+There are 250 Waves in the Dimension Rift map.<br>
+- Alien Force Attack region has 25 Sectors, and each sector has 10 waves.<br>
 - From Sector 16, Wave 151 onwards it will be separated from the previous series of Waves.<br>
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/505_04.jpg)<br>
