@@ -7,7 +7,7 @@ E.M.U. and the entire galaxies are watching who will be the Federation to defeat
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/1300_01.jpg)
 
-<br>
+
 
 ### 1) Time and Info
 
@@ -21,7 +21,6 @@ Commanders will fight to take control of Tenebris and the 6 satellites.
 If you win the battle, you will take control of the Tenebris and the 6 satellites in which you could receive various benefits, rewards, and function.<br>
 
 
-<br>
 
 ### 2) How to Win
 
@@ -47,7 +46,7 @@ All charged energy point records will be accumulated and the rankings will be de
  In the absence of a winner, the Federation with the highest level and accumulated points will take control of Tenebris. <br>
 
 
-<br>
+
 
 ### 3) Attack
 
@@ -65,8 +64,6 @@ In order to attack Tenebris, your federation has to occupy at least one satellit
 
 You can only occupy satellites equal to the Tenebris charge level achieved by your Federation.<br>
 
-
-<br>
 
 
 ### 4) Defense
@@ -93,7 +90,6 @@ When the defense fleet has been disbanded, the status of the occupation will be 
 If you withdraw the defense fleets before the support fleet arrives, it will no longer be occupied and will automatically be withdrawn even if the support fleet reached the Tenebris or satellites.<br>
 
 
-<br>
 
 ### 5) Satellites Special Function
 
@@ -124,7 +120,7 @@ Depending on the number of occupied satellites, the reduction rate increases by 
 
 The shield effect will be more powerful as much as the occupied satellites.<br>
 
-<br>
+
 
 ### 6) Rewards
 
@@ -133,20 +129,20 @@ The shield effect will be more powerful as much as the occupied satellites.<br>
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/1300_07.jpg)
 
-Victory rewards will be sent to all winning Federation members.<br>
+The winning federation and its members will instantly receive the victory rewards consisting of resources and Tenebris Battle Victory Merit Token.<br>
 
 
 #### 6-2) Tenebris Controller Power
 
 ![](http://astrokings.s3.amazonaws.com/html/img/help/1300_08.jpg)
 
-Federation leader from the winning Federation will be Tenebris’ controller.<br><br>
+Federation leader from the winning Federation will be Tenebris’ controller.<br>Tenebris controllers can distribute the Tenebris Battle Victory Merit Token to contributors.
 
-The controller can distribute special rewards for contributors.
 ![](http://astrokings.s3.amazonaws.com/html/img/help/1300_09.jpg)
-- There are 5 levels of loots, and there are limitations that can be contributed.<br><br>
+- The quantity of Tenebris Battle Victory Merit Tokens that can be distributed is limited.<br><br>
 
 Tenebris controller can assign the owners for 6 satellites.
+
 ![](http://astrokings.s3.amazonaws.com/html/img/help/1300_10.jpg)
 - You can only assign once. Delegate wisely.
 - If you transfer the Tenebris ownership, all power will be transferred immediately.
@@ -161,6 +157,7 @@ You can use a special buff for Tenebris.<br>
 2) Increase Fleet Critical Damage 15%<br><br>
 
 You can send a message to all Commanders in the galaxy with ‘Controller's Voice’ function.
+
 ![](http://astrokings.s3.amazonaws.com/html/img/help/1300_12.jpg)
 - The message limit will be 300 characters.
 - The message will be sent 3 times and can be seen by all Commanders who are logged in.<br>
@@ -192,7 +189,13 @@ The owner can use special buffs from the satellite.<br>
    6) Morta: Enemy Fleet Damage + 600<br>
 
 
-<br>
+#### 6-4) Tenebris Battle Merit Shop
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/1300_15.jpg)
+
+ - This is a shop where you can exchange your Tenebris Battle Victory Merit Token with various items.
+ - This is a regular shop and the inventory of items is updated on the 1st of every month.<br>
+ 
    
 ### 7) Restrictions
 
