@@ -77,6 +77,24 @@ The lootable devices are as follows:
 - Engine: Increases the Mobility and Evasion of the Flagship.
 - Special Device: Adds a variety of additional abilities to the Flagship.
 
+
+### 5) Crew and Flagship Special Skill
+
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/202_005spskill.jpg)
+
+When the flagship is promoted to tier 6 or higher, you can assign a hero on board as a crew member.<br>
+The following are the levels of heroes that can board the flagship as crew members.
+- C grade: Level 30 or higher
+- B grade: Level 40 or higher
+- A grade: Level 50 or higher
+- S grade: Level 50 or higher
+
+Also, the hero's trait type and stat will be reflected in the flagship when boarding the crew member.<br>
+Depending on the required trait type and stat on the flagship, you can activate the flagship's special skill.
+
+The flagship special skill effect will remain when no changes are made with the assigned crew members, trait type, and stat.  
+
+
 <br>
 
 <br>
