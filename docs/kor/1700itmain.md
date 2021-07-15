@@ -1,4 +1,5 @@
 # 인터스페이스
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1700_01.jpg)
 
 <인터스페이스>는 본래 인류가 크룩스의 손아귀에서 벗어나 은둔했던 최초의 은신처였습니다.
 ​

@@ -1,4 +1,5 @@
 # 지역 구성
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_01.jpg)
 
 ## 섹터
 
@@ -12,6 +13,7 @@
 
 
 ## 거점
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_02.jpg)
 
 거점은 보통 "등대"라고 불리우는 건물을 중심으로 함대가 정박할 수 있는 반경 13셀의 영역을 의미합니다.
 
@@ -23,6 +25,7 @@
 ## 거점 건물
 
 ### 아웃포스트
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_03.jpg)
 
 가장 기본적인 단위 거점으로, 최대 3개의 방어함대 지원을 받을 수 있습니다.<br>
 보통 이 거점을 점령하는 목적은 이동 경로를 확보하기 위함입니다.
@@ -30,6 +33,7 @@
 
 
 ### 시타델
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_04.jpg)
 
 섹터 전체의 소유권을 결정하는 핵심 거점입니다.<br>
 섹터 내 모든 거점을 점령하는 순간 섹터의 소유권이 변경됩니다.
@@ -38,6 +42,7 @@
 
 
 ### 게이트
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_05.jpg)
 
 각각의 섹터들을 연결하는 장거리 이동 거점입니다.<br>
 기본적으로 다른 섹터로 이동하기 위해서는 연결된 게이트를 통과해야 합니다.
@@ -48,6 +53,7 @@
 
 
 ### 캐피탈
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_06.jpg)
 
 캐피탈은 세력의 중심이 되는 곳으로 적 세력이 침공할 수 없는 보호 지역입니다.<br>
 캐피탈은 원정단의 출발과 귀환, 보급이 이루어지는 곳입니다.
@@ -92,6 +98,7 @@
 - 침공, 중립 상태일 경우 : 180초
 
 ## 방어함대
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_07.jpg)
 
 점령된 섹터에는 기본적인 수준의 방어함대가 일괄 배치됩니다.<br>
 방어함대는 강화-보급기능을 통해 레벨을 성장시킬 수 있습니다. (일일 3회 제한)

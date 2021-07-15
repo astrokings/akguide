@@ -1,6 +1,9 @@
 # 원정단
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1702_01.jpg)
 
 원정단은 여러 기의 기함, 함선 및 영웅들로 구성되며, 인터스페이스 공역에서 모든 활동은 원정단을 중심으로 진행됩니다.
+
+
 
 
 ## 편성
@@ -45,6 +48,7 @@
 
 
 ### 함대 출격
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1702_02.jpg)
 
 원정단의 기함과 함선, 영웅은 함대로 편성하여 특정 거점이나, 적 세력의 원정단을 공격할 수 있습니다.
 
@@ -52,6 +56,7 @@
 
 
 ### 보급 및 행성 복귀
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1702_03.jpg)
 
 원정단 편성 한도 내에서 내 행성에 대기 중인 기함과 함선, 영웅들을 추가로 인터스페이스로 보급할 수 있습니다.<br>
 보급이 시작되면 완료까지 1시간이 소요되며, 보급이 완료되면 캐피탈 거점 내에 있는 보급소에 임시 배치됩니다.
