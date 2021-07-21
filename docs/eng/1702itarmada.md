@@ -12,7 +12,6 @@ The minimum conditions for forming an expedition to participate in Interspace ar
 - 1000 or more T8 ships
 
 As the level of research related to the expedition increases, the number of flagships that can be organized and the size of the ships increase.<br>
-If all research is carried out to the maximum, a maximum of 6 flagships and 50% of the maximum size of the ships of the Space Dock can be formed in the expedition.	
 	
 There is no limit to the formation of heroes, and the crew members on the flagship are automatically included in the expedition team when participating in Interspace.	
 	
@@ -27,7 +26,7 @@ If there is a federation that occupies Tenebris, a certain amount of the navigat
 However, if the federation you belong to has occupied Tenebris, the navigation fee is free.	
 	
 Immediately after payment of the navigation fee, the entire expedition departs from the planet and moves to Tenebris for a certain period of time.<br>
-Flagship is displayed on the galaxy map while moving and set as a carrier	
+Flagship is displayed on the universe map while moving and set as a carrier	
 	
 The expedition cannot return until reaching Tenebris and will enter the Interspace after the travel time has elapsed.	
 	
@@ -36,7 +35,7 @@ The expedition cannot return until reaching Tenebris and will enter the Interspa
 	
 The expedition that enters the Interspace is located in the Capital sector of the faction to which it belongs.	
 	
-Expedition can only move to sectors and bases occupied by their faction.<br>
+Expedition can only move to bases occupied by their faction.<br>
 The expedition can only move when all the fleets that are deployed or sent for reinforcement have returned.	
 	
 If a flagship or ship is damaged, it can be repaired only by moving the expedition to the capital or a sector occupied by its own faction.	

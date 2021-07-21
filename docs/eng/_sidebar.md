@@ -65,7 +65,7 @@
   - [14-6.Others](eng/1506arenaothers.md)
 * [15.Interspace](eng/1700itmain.md)
   - [15-1.Entrance](eng/1701itentrance.md)
-  - [15-2.Armada](eng/1702itarmada.md)
+  - [15-2.Expedition](eng/1702itarmada.md)
   - [15-3.Area](eng/1703itmap.md)
   - [15-4.Battle](eng/1704itbattle.md)
   - [15-5.Faction](eng/1705itfaction.md)
