@@ -63,7 +63,14 @@
   - [14-4.Ranking](eng/1504arenarank.md)
   - [14-5.Rewards](eng/1505arenareward.md)
   - [14-6.Others](eng/1506arenaothers.md)
-* 15.Others
-  - [15-1.Chat Function](eng/1601otherschatting.md)
-* [16.FAQ](eng/1100faq.md)
+* [15.Interspace](eng/1700itmain.md)
+  - [15-1.Entrance](eng/1701itentrance.md)
+  - [15-2.Armada](eng/1702itarmada.md)
+  - [15-3.Area](eng/1703itmap.md)
+  - [15-4.Battle](eng/1704itbattle.md)
+  - [15-5.Faction](eng/1705itfaction.md)
+  - [15-6.Rewards](eng/1706itreward.md)    
+* 16.Others
+  - [16-1.Chat Function](eng/1601otherschatting.md)
+* [17.FAQ](eng/1100faq.md)
 

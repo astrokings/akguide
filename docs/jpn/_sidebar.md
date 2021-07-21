@@ -63,7 +63,14 @@
   - [14-4.ランキング](jpn/1504arenarank.md)
   - [14-5.報酬](jpn/1505arenareward.md)
   - [14-6.その他](jpn/1506arenaothers.md)
-* 15.その他
-  - [15-1.チャット機能](jpn/1601otherschatting.md)  
-* [16.FAQ](jpn/1100faq.md)
+* [15.インタースペース](jpn/1700itmain.md)
+  - [15-1.入場条件](jpn/1701itentrance.md)
+  - [15-2.遠征団](jpn/1702itarmada.md)
+  - [15-3.地域構成](jpn/1703itmap.md)
+  - [15-4.戦闘](jpn/1704itbattle.md)
+  - [15-5.勢力](jpn/1705itfaction.md)
+  - [15-6.報酬](jpn/1706itreward.md)    
+* 16.その他
+  - [16-1.チャット機能](jpn/1601otherschatting.md)  
+* [17.FAQ](jpn/1100faq.md)
 

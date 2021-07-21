@@ -63,7 +63,14 @@
   - [14-4.랭킹](kor/1504arenarank.md)
   - [14-5.보상](kor/1505arenareward.md)
   - [14-6.기타](kor/1506arenaothers.md)
-* 15.기타
-  - [15-1.채팅창 기능](kor/1601otherschatting.md)
-* [16.FAQ](kor/1100faq.md)
+* [15.인터스페이스](kor/1700itmain.md)
+  - [15-1.입장](kor/1701itentrance.md)
+  - [15-2.원정단](kor/1702itarmada.md)
+  - [15-3.지역](kor/1703itmap.md)
+  - [15-4.전투](kor/1704itbattle.md)
+  - [15-5.세력](kor/1705itfaction.md)
+  - [15-6.보상](kor/1706itreward.md)  
+* 16.기타
+  - [16-1.채팅창 기능](kor/1601otherschatting.md)
+* [17.FAQ](kor/1100faq.md)
 
