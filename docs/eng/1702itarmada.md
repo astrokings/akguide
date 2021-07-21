@@ -75,4 +75,7 @@ In the state of annihilation, movement outside the Capital Sector is not possibl
 	
 ### Disbandment	
 	
-If you leave a faction you belong to, all fleets in the expedition and Capital Depot will be disbanded and will immediately return to your planet.	
+If you leave a faction you belong to, all fleets in the expedition and Capital Depot will be disbanded and will immediately return to your planet.
+
+When the expedition's assigned ships return to the planet, all the ship units that exceed the capacity of the Space Dock will be discarded.<br>
+However, E.M.U. will issue ship purchase order items to 10% of the discarded units.
