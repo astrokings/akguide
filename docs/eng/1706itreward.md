@@ -29,3 +29,12 @@ As a battle reward, you gain the experience and contribution of the participatin
 
 Battle rewards are calculated and paid according to the damaged ship.<br>
 The more ship damage is done, the more contribution points are paid.
+
+
+## Faction Occupancy Rewards
+
+Every Wednesday, a faction member who achieves 100 or more weekly contribution points will receive an occupation rate reward.
+
+Additional contributions are paid according to the basic reward and the sector occupied.
+
+Contribution to occupation is given differently for each sector.

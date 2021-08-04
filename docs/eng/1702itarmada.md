@@ -79,3 +79,14 @@ If you leave a faction you belong to, all fleets in the expedition and Capital D
 
 When the expedition's assigned ships return to the planet, all the ship units that exceed the capacity of the Space Dock will be discarded.<br>
 However, E.M.U. will issue ship purchase order items to 10% of the discarded units.
+
+
+## Long-distance travel
+
+It is energized by the capital and moves to the target sector in one step.
+
+This can only be used if the expedition is located in the Capital.<br>
+Movement is possible only when the target sector is occupied and protected by the faction it belongs to, and long-distance movement is possible only when the movement path is safe.
+
+Move latency is added by 2 minutes per move sector.<br>
+It is moved to a movable position among several gates present in the target sector.
