@@ -12,6 +12,7 @@
   - [2-2.Flagship](eng/202flagship.md)
   - [2-3.Flagship Equipment Crafting](eng/203flagshipequip.md)
   - [2-4.Flagship Equipment Disassemble](eng/204disassemble.md)
+  - [2-5.Flagship Equipment Upgrades & Remodeling](eng/205promotion.md)
 * [3.Hero](eng/300hero.md)
 * [4.Resource](eng/400resource.md)
 * 5.Battle

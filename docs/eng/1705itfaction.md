@@ -55,6 +55,16 @@ Also, all faction contributions acquired until just before the resignation will 
 
 You cannot join a faction for 24 hours after leaving a faction.
 
+### Refuge
+
+It is a function to move to a lower position in the faction structure.
+
+In case of refuge progress, you can move immediately without the cooldown time to re-join.<br>
+During the refuge, the expedition will return to the planet, and you can send the expedition to the faction.
+
+In the case of refuge, your contribution will be reset in the same way as with the withdrawal.<br>
+After completing the refuge process, you will need to wait for 1-day to apply for another. 
+
 
 ## Position and Authority
 

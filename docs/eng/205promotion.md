@@ -1,56 +1,54 @@
-# 장비 승급 및 개조
+# Equipment Upgrades and Remodeling
 
-티어 5(T5) 등급의 장비는 승급을 통해서만 획득할 수 있습니다.
-또한 T5 등급 이상의 장비는 개조 기능을 통해 보조 옵션 일부를 다른 옵션으로 변경할 수 있습니다.
+Tier 5 (T5) grade equipment can only be obtained through upgrades.
 
-<br>
-
-
-## 장비 승급
+In addition, T5 grade and higher equipment can change some of the secondary options to other options through the remodeling function.
 
 
-### 1) 승급 조건
-- 장비의 등급이 티어 4(T4) 이상이어야 합니다.
-- 장비의 강화도가 +30 이상이어야 합니다.
+## Equipment Upgrade
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/205_01.jpg)
 
-<br>
-
-
-### 2) 승급 재료
-
-승급을 진행하려면 아래의 장비 및 아이템들이 필수적으로 필요합니다.
-
-- 승급할 T4 장비 : 장비 승급 조건을 만족하는 승급 대상
-- T5 장비 도면 : 승급할 T4 장비와 같은 장비 타입의 도면 필요
-- T5 장비 재료 3종
-- 외계 기술 연구 자료(영문명 : Crux Tech Data)
+### 1) Conditions
+- Equipment grade must be Tier 4 (T4) or higher.
+- Equipment must have an enhancement level of +30 or higher.
 
 
-또한 장비 승급에는 성공률이 적용되며, 성공률을 20% 증가시켜 주는 아이템을 선택적으로 사용할 수 있습니다.
+### 2) Upgrade Materials
+
+The following equipment and items are essential to progress.
+
+- T4 equipment to be upgraded: Upgrade target that meets the equipment upgrade conditions
+- T5 equipment blueprint : Requires a blueprint of the same equipment type as the T4 equipment to be upgraded
+- 3 types of T5 equipment materials
+- Crux Tech Data
 
 
-
-### 3) 승급 과정
-
-T4 장비를 T5로 승급 시, T4 장비에 부여된 보조 옵션을 승계하거나 변경할 수 있습니다.<br>
-승계할 보조 옵션의 개수에 따라 승급 성공률이 변동됩니다.<br>
-단 T4 장비의 보조 옵션 승계는 승급 성공 시에만 확정됩니다.
-
-승급 성공 시 승급 대상인 T4 장비가 T5 등급으로 변경됩니다.<br>
-단, T4 장비의 장비 타입 및 주 옵션 속성과 수치값은 승급에 관계없이 유지됩니다.
+In addition, the success rate is applied to equipment upgrades, and you can selectively use items that increase the success rate by 20%.
 
 
-### 4) 승급 성공 시 변경점
+### 3) Upgrade Process
+
+When upgrading T4 equipment to T5, you can inherit or change the secondary options granted to T4 equipment.<br>
+The success rate of upgrade varies depending on the number of secondary options to be succeeded.<br>
+However, the succession of secondary options for T4 equipment is only confirmed when the upgrade is successful.
+
+Upon successful promotion, the target T4 equipment will be changed to T5 grade.<br>
+However, the equipment type and main option properties, and numerical values of T4 equipment are maintained regardless of promotion.
 
 
-T5 등급으로 승급 시, 전용 특수 옵션 2종이 보조 옵션으로 추가됩니다.<br>
-또한 장비의 최대 강화도가 +50까지 확장됩니다.
+### 4) Changes when the upgrade is successful
+
+When upgrading to T5 grade, two special options are added as secondary options..<br>
+Also, the maximum enhancement level of the equipment is increased to +50.
+
+Upcoming) The maximum enhancement level will be increased additionally through research.
 
 
 
+## Equipment Remodeling
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/205_02.jpg)
 
-## 장비 개조
+For equipment with T5 grade or higher, you can change the 2 types of exclusive options granted when upgrading to other exclusive options through remodeling.<br>
 
-T5 등급 이상의 장비는 개조를 통해 승급 시 부여된 전용 옵션 2종을 다른 전용 옵션으로 변경할 수 있습니다.<br>
-
-장비를 개조할 때마다 개조 횟수가 누적되며, 개조 비용은 누적 횟수에 따라 증가합니다.
+Each time the equipment is modified, the number of modifications is accumulated, and the remodeling cost increases according to the number of modifications.<br>
+However, the cost increase is applied to up to 20 remodels.
