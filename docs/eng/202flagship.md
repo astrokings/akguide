@@ -76,6 +76,7 @@ The lootable devices are as follows:
 - Armor: Increases the Resistance of the Flagship.
 - Engine: Increases the Mobility and Evasion of the Flagship.
 - Special Device: Adds a variety of additional abilities to the Flagship.
+- Interceptor: Increases the attack power of the flagship. (Limited to flagships that can be equipped with Interceptor)
 
 
 ### 5) Crew and Flagship Special Skill
