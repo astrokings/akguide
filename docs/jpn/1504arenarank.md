@@ -10,7 +10,7 @@
 マッチング戦闘の勝敗によってランキングポイントを獲得もしくは喪失します。
  - 獲得または喪失するランキングポイントは自分と相手のランク等級の差によって異なります。<br>
  
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_10.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_10.jpg)
 
 
 ## ランク等級

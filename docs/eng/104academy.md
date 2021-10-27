@@ -2,7 +2,7 @@
 
 ## 1) Manage Heroes
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_001_Manage_Heroes.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_001_Manage_Heroes.jpg)
 
 You can level up your heroes or strengthen the skills.<br>
 A hero can be retired and placed into the council.<br>
@@ -14,7 +14,7 @@ Caution: Heroes who have been retired or have been placed on the council will be
 
 Can recruit heroes from Academy.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_002_Recruit_Hero.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_002_Recruit_Hero.jpg)
 
 
 ### A. Hero Recruitment
@@ -32,7 +32,7 @@ The higher grade you hire a hero, the more miles you earn.<br>
 
 ## 3) One Recruitment and Ten Recruitments
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_003_Recruit_Type.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_003_Recruit_Type.jpg)
 
 Can recruit one hero for One recruitment.<br>
 If you recruit 10 heroes with recruit tickets, you'll obtain 10 heroes and if you recruit 10 heroes with crystal, you'll obtain 11 heroes.<br>
@@ -42,7 +42,7 @@ If you recruit 10 heroes with recruit tickets, you'll obtain 10 heroes and if yo
 
 ## 4) Hero Retire
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_004_Retire.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_004_Retire.jpg)
 
 You can retire unnecessary heroes when you recruite the heroes, or from manage hero page.<br>
 Depends on the Grade and enhancement level, you can get DNA element refund by skill level, and skill elements refund by its grade or enhancement.

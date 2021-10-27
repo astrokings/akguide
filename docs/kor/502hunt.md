@@ -6,7 +6,7 @@
 
 상대할 해적의 주력 함선을 확인하고 [***<u>상성</u>***](kor/201normalship#함선-상성-관계) 우위에 있는 함선으로 함대를 편성하면 승리 확률은 더욱 높아집니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_001pirate.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_001pirate.jpg)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 현상수배범은 일정 시간이 경과할 때까지 퇴치하지 못하면 도주하며, 일반 해적과 달리 직접 [***<u>함대 전투</u>***](kor/503fleetbattle#함대전)를 지휘하여 퇴치하여야 합니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_002bounty.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_002bounty.jpg)
 
 <br>
 
@@ -46,7 +46,7 @@
 
 외계함대는 [***<u>일정 주기로 침공</u>***](kor/701regularevent#외계-함대-침공-이벤트)해오기도 하고, [***<u>연맹의 목적</u>***](kor/604fedastronest#외계-함대-스캔)에 의해 은신한 함대를 찾아낼 수도 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_003alien.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_003alien.jpg)
 
 <br>
 
@@ -58,7 +58,7 @@
 
 정찰 부대는 여러 종류의 규모로 구성된 함대의 집합체입니다. 적당한 수준의 상대를 골라 공격하면, 그에 상응하는 보상을 받을 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_004alienmain.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_004alienmain.jpg)
 
 <br>
 
@@ -78,6 +78,6 @@
 
 처단자를 퇴치해야만 진귀한 보상을 얻을 수 있으며, 추종자가 많이 연결된 상태에서 처단자를 퇴치하면 더욱 많은 보상을 얻을 수 있습니다.
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502_005.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_005.jpg)
 
 

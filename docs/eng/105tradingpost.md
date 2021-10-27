@@ -8,7 +8,7 @@ If you do not like the items currently offered, you can refresh the list by usin
 
 Upgrading the Exchange Center increases the number of exchange slots and Free Refreshes.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/105_001listrefresh.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/105_001listrefresh.jpg)
 
 <br>
 
@@ -20,7 +20,7 @@ Upgrading the Exchange Center increases the number of exchange slots and Free Re
 
 Federation Marks do not disappear even when you leave your Federation.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/105_002fedstore.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/105_002fedstore.jpg)
 
 <br>
 
@@ -31,4 +31,4 @@ Merit Points earned from the Empire Arena can be exchanged with items from the M
 
 Please note that the availability and quantity of the items from the Merit Shop are limited. 
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_12.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_12.jpg)

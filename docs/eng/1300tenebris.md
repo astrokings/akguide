@@ -5,13 +5,13 @@ It had an important role in providing warp points that could transfer to the emp
 Because it was made in the Tetmes era that has been lost, we have to get the Tenebris from CRUX, which can not be rebuilt now.<br>
 E.M.U. and the entire galaxies are watching who will be the Federation to defeat numerous competitors and regain Tenebris and reconnect the Galaxy.<br>
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_01.jpg)
 
 
 
 ### 1) Time and Info
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_02.jpg)
 
 The battle starts at  UTC (Saturday) and will be held for 8 hours once every 4 weeks. <br>
 
@@ -24,7 +24,7 @@ If you win the battle, you will take control of the Tenebris and the 6 satellite
 
 ### 2) How to Win
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_03.jpg)
 
 The Federation which charges all the energy needed to run Tenebris wins the battle.<br>
 
@@ -50,7 +50,7 @@ All charged energy point records will be accumulated and the rankings will be de
 
 ### 3) Attack
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_04.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_04.jpg)
 
 Tenebris and satellites cannot be scouted.<br>
 
@@ -68,7 +68,7 @@ You can only occupy satellites equal to the Tenebris charge level achieved by yo
 
 ### 4) Defense
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_05.jpg)
 
 If you win from the Tenebris or satellite attacks and in occupation state, you can form a defense fleet to defend it.<br>
 
@@ -93,7 +93,7 @@ If you withdraw the defense fleets before the support fleet arrives, it will no 
 
 ### 5) Satellites Special Function
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_06.jpg)
 
 #### 5-1) Satellite Bombarding
 
@@ -127,29 +127,29 @@ The shield effect will be more powerful as much as the occupied satellites.<br>
 
 #### 6-1) Rewards for the winning Federation members
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_07.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_07.jpg)
 
 The winning federation and its members will instantly receive the victory rewards consisting of resources and Tenebris Battle Victory Merit Token.<br>
 
 
 #### 6-2) Tenebris Controller Power
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_08.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_08.jpg)
 
 Federation leader from the winning Federation will be Tenebris’ controller.<br>Tenebris controllers can distribute the Tenebris Battle Victory Merit Token to contributors.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_09.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_09.jpg)
 - The quantity of Tenebris Battle Victory Merit Tokens that can be distributed is limited.<br><br>
 
 Tenebris controller can assign the owners for 6 satellites.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_10.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_10.jpg)
 - You can only assign once. Delegate wisely.
 - If you transfer the Tenebris ownership, all power will be transferred immediately.
 - Tenebris controller can only be assigned within the winning Federation members, and for the 6 satellites, there is no restrictions for the assignment.<br><br>
 
 You can use a special buff for Tenebris.<br>
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_11.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_11.jpg)
 - You can give a special buff to the galaxy.<br>
 1)  Marching Speed 30% for 24hrs
 - Two special buffs can be applied to you with no limitation<br>
@@ -158,19 +158,19 @@ You can use a special buff for Tenebris.<br>
 
 You can send a message to all Commanders in the galaxy with ‘Controller's Voice’ function.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_12.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_12.jpg)
 - The message limit will be 300 characters.
 - The message will be sent 3 times and can be seen by all Commanders who are logged in.<br>
 
 
 #### 6-3) Six Satellite Owners Access
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_13.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_13.jpg)
 
 - Six satellite owners will be appointed by Tenebris ruler.<br>
 
 The owner can use special buffs from the satellite.<br>
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_14.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_14.jpg)
 
 - This can only be appointed to Federation members.<br>
    1) Horeundal: Increase the Harvest Speed by 40% for 12hrs<br>
@@ -191,7 +191,7 @@ The owner can use special buffs from the satellite.<br>
 
 #### 6-4) Tenebris Battle Merit Shop
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_15.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_15.jpg)
 
  - This is a shop where you can exchange your Tenebris Battle Victory Merit Token with various items.
  - This is a regular shop and the inventory of items is updated on the 1st of every month.<br>

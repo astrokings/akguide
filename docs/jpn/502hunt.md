@@ -6,7 +6,7 @@
 
 相手の海賊の艦船を確認して [***<u>相性</u>***](jp/201normalship#艦船-相性-関係) 優位にある艦船で編成すると勝つ確率がさらに高まります。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_001pirate.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_001pirate.jpg)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 指名手配犯は、一定時間が経過するまでに退治できないと逃亡し、一般海賊とは違い直接 [***<u>艦隊戦闘</u>***](jp/503fleetbattle#艦隊戦)指揮して退治しなければなりません。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_002bounty.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_002bounty.jpg)
 
 <br>
 
@@ -46,7 +46,7 @@
 
 外界艦隊は、[***<u>一定周期で侵攻</u>***](jp/701regularevent#宇宙-艦隊-侵攻-イベント)してきたり、 [***<u>連盟の目的</u>***](jp/604fedastronest#宇宙-艦隊-スキャン)に隠れている艦隊を探し出すこともできます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_003alien.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_003alien.jpg)
 
 <br>
 
@@ -58,7 +58,7 @@
 
 偵察部隊は、様々な種類と規模で構成された艦隊の集合体です。 適当な水準の相手を選んで攻撃すると、それ相応の報酬を受けることができます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_004alienmain.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_004alienmain.jpg)
 <br>
 
 <br>
@@ -77,4 +77,4 @@
 
 処断者を退治すると希少度の高い報酬を獲得でき、追従者の数が多い状態で処断者を退治するとより多くの報酬を獲得できます。
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502_005.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_005.jpg)

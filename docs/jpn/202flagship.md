@@ -6,7 +6,7 @@
 
 しかし、保有できる旗艦の数はとても限られるので慎重な選択を要します。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_001flagshipbuild.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_001flagshipbuild.jpg)
 
 <br>
 
@@ -37,7 +37,7 @@
 
 艦隊のレベルにより、艦隊が持っている能力値が上昇すると、艦隊レベルを上げるための [強化モジュール]が、必要になります。強化モジュールは、 V1 ~ V6まで6種類が存在し、高級モジュールほど強化度が大幅に上昇します。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_002flagshiplevel.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_002flagshiplevel.jpg)
 
 <br>
 
@@ -47,7 +47,7 @@
 
 旗艦グレード昇級に必要な材料は、各旗箱の種類とグレードによって異なり、旗艦昇級画面でその内容を確認することが出来ます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_003flagshiptier.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_003flagshiptier.jpg)
 
 <br>
 
@@ -57,7 +57,7 @@
 
 指揮バフの能力は、 [バフ強化モジュール]を、使用すると、強化することが出来ます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_004flagshipbuff.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_004flagshipbuff.jpg)
 
 <br>
 
@@ -78,7 +78,7 @@
 
 ### 5)乗務員及び旗艦効果
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/202_005spskill.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_005spskill.jpg)
 
 旗艦がT6以上に昇級すると、英雄を乗務員として搭乗させる事ができます。<br>
 乗務員として旗艦に搭乗できる英雄のレベルは以下の通りです。
@@ -109,7 +109,7 @@
 
 ### A.攻撃型
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_offence.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/ico_flagship_type_offence.jpg)
 
 攻撃に特化した旗艦で、攻撃に有利なステータスと特性を持っています。 海賊や敵の惑星を攻撃する際,他のタイプの旗艦よりも効率的です。
 
@@ -117,7 +117,7 @@
 
 ### B.防御型
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_defensive.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/ico_flagship_type_defensive.jpg)
 
 防御に特化した旗艦で、防御に有利なステータスと特性を持っています。 防御戦闘を行うとき、他のタイプの旗艦よりも効率的です。 惑星防御のために1台ほどの防御旗艦を備えた方が良いです。
 
@@ -125,7 +125,7 @@
 
 ### C.戦術型
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_tactical.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/ico_flagship_type_tactical.jpg)
 
 戦闘のほかに特殊な任務遂行に有利な特性を持っています。 資源採集や速い行軍速度を利用した奇襲攻撃など合理性を備えたタイプの旗艦です。
 

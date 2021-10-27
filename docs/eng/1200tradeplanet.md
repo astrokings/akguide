@@ -1,6 +1,6 @@
 # Trade Planet
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_00_tradeplanet.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_00_tradeplanet.jpg)
 
 There are six Trade Planets in the Galaxy.
 Each Trade Planet has unique characteristics
@@ -10,7 +10,7 @@ You can obtain buffs and items from trading with Trade Planets.
 
 ### 1) Trade
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_01_trade.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_01_trade.jpg)
 
 You need to build a Trade Center (Command Center 19) to trade.
 
@@ -25,7 +25,7 @@ You can obtain Trade Token and Trade Planet Factions by trading.
 
 ### 2) Rewards from Trading
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_02_reward.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_02_reward.jpg)
 
 **Buffs and gifts** : You can obtain Factions by trading. If you obtain certain amount of Factions, you can get powerful buffs or gifts. Buffs and gifts vary by each Trade Planet's characteristics. 
 
@@ -35,7 +35,7 @@ You can obtain Trade Token and Trade Planet Factions by trading.
 
 ### 3) Increase the Trading scale
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_03_tradeship.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_03_tradeship.jpg)
 
 You can increase the number of Trade Vessels by upgrading Trade Center. 
 
@@ -48,12 +48,12 @@ When you upgrade Trade Vessel, you can obtain more Token, Faction, and marching 
 
 # Trade Center
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_04_tradecenter.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_04_tradecenter.jpg)
 <br>
 
 ### 1) Trade progress
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_05_tradestatus.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_05_tradestatus.jpg)
 
 You can check the trade progress of the planet and Federation information that occupied the Trade Planet.
 
@@ -67,7 +67,7 @@ When you upgrade Trade Vessel, you can obtain more Token, Faction, and marching 
 
 ### 2) Trade Planet Information
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_06_planetinfo.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_06_planetinfo.jpg)
 
 You can check each Trade Planet's information, obtainted Faction, and Faction buffs.
 
@@ -79,7 +79,7 @@ You can start trading by clicking 'Trade' button.
 
 ### 3) Trade Shop
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_07_tradeshop.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_07_tradeshop.jpg)
 
 You can check and purchase items in each Trade Planet's view. 
 
@@ -91,7 +91,7 @@ If you would like to purchase rare items, you will need the Trade Planet's Facti
 
 ### 4) Trade
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_08_sendtrade.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_08_sendtrade.jpg)
 
 Send Trade Vessels to Trade Planets.
 

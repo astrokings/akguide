@@ -16,7 +16,7 @@
 
 ### 1) 解禁
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_01.jpg)
 
 アーティファクトシステムを使用するには、システムの解禁が必要です。
 各システム別に司令部が特定のレベルを達成すればアーティファクトシステムを解禁できます。<br>
@@ -24,7 +24,7 @@
 
 ### 2) アーティファクト装着
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_02.jpg)
 
 アーティファクトシステムが解禁されると、詳細情報を確認できます。詳細情報に表示されたシステムスロットにアーティファクトを装着できます。
 アーティファクトは一般アーティファクトとコアアーティファクトに分けられ、各システム毎に最大6個の一般アーティファクトと1個のコアアーティファクトを装着できます。<br>
@@ -49,7 +49,7 @@
 
 ### 4) アーティファクトレベルと合成
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_03.jpg)
 
 全てのアーティファクトは合成を通して最大10までレベルを上げる事ができます。
 アーティファクトのレベルはシステム効果とコアアーティファクトバフ数値に影響を与え、装着されたアーティファクトのうち一番低いレベルを基準として決定されます。<br>
@@ -63,7 +63,7 @@
 
 ## アーティファクト保存ボックス
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_04.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_04.jpg)
 
 保有中の全てのアーティファクトは保存ボックスにて管理されます。
 特定の条件に合ったアーティファクトだけ選別して表示する事が可能で、アーティファクトの詳細な情報確認と合成を保存ボックス内でも行えます。<br>
@@ -74,7 +74,7 @@
 
 ## 未確認の遺物分析.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_05.jpg)
 
 指名手配、外界偵察艦隊、次元の亀裂, 連盟探査等を行うと未確認の遺物を獲得できます。
 未確認の遺物は5個の等級に分類され、分析を通してアイテム、1レベル一般アーティファクト、1レベルコアアーティファクトを報酬の個数分無作為に獲得できます。<br>
@@ -88,7 +88,7 @@
 
 ## アーティファクト復元
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_06.jpg)
 
 アーティファクトは復元からでも獲得できます。<br>
 

@@ -1,6 +1,6 @@
 ﻿# 貿易惑星
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_00_tradeplanet.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_00_tradeplanet.jpg)
 
 貿易惑星は宇宙のあちこちから遠く離れた6つの惑星から成り立っています。
 
@@ -12,7 +12,7 @@
 
 ### 1) 貿易
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_01_trade.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_01_trade.jpg)
 
 貿易をする上では、貿易センター(司令部 レベル 19 以上)を先に建設しなければなりません。
 
@@ -27,7 +27,7 @@
 
 ### 2) 貿易を通じた報酬
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_02_reward.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_02_reward.jpg)
 
 **バフとプレゼント** : 貿易を通じて、各惑星の評判を獲得することができ、一定量の評判数値を累積すると、段階別に強力なバフまたはプレゼントを得ることができます。バフまたはプレゼントは、各貿易惑星の特徴により違いがあります。
 
@@ -37,7 +37,7 @@
 
 ### 3) 貿易規模を拡大する
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_03_tradeship.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_03_tradeship.jpg)
 
 貿易センターのアップグレードを通して、貿易船の保有量を増やすことができます。
 
@@ -50,12 +50,12 @@
 
 # 貿易センター
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_04_tradecenter.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_04_tradecenter.jpg)
 <br>
 
 ### 1) 貿易の現況
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_05_tradestatus.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_05_tradestatus.jpg)
 
 全体の貿易惑星との現在の貿易状態と獲得評判、現在占領中の連盟の情報を確認することができます。
 
@@ -69,7 +69,7 @@
 
 ### 2) 貿易惑星情報
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_06_planetinfo.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_06_planetinfo.jpg)
 
 該当の貿易惑星の情報、現在の累積評判と評判のバフ情報を確認することができます。
 
@@ -81,7 +81,7 @@
 
 ### 3) 貿易ショップ
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_07_tradeshop.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_07_tradeshop.jpg)
 
 各貿易惑星で販売しているアイテムを確認したり、購入したりすることができます。
 
@@ -93,7 +93,7 @@
 
 ### 4) 貿易
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_08_sendtrade.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_08_sendtrade.jpg)
 
 待機中の貿易船を該当の貿易惑星に貿易を送ります。
 

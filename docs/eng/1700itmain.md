@@ -1,5 +1,5 @@
 # Interspace
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1700_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1700_01.jpg)
 
 [Interspace] was originally the first hideout for humans to escape from the grip of the extraterrestrial force, CRUX.
 

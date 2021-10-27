@@ -4,4 +4,4 @@
 
 게스트 계정에서 외부 서비스로 계정 연동을 하시려면 다음 이미지를 참고해주세요.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/901_001accountset.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/901_001accountset.jpg)

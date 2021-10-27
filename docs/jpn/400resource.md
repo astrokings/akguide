@@ -22,7 +22,7 @@
 
 採取中の艦隊が敵の攻撃を受けて敗北した場合も、艦隊は惑星に帰還します。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/400_001resourcetype.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/400_001resourcetype.jpg)
 
 <br>
 
@@ -32,7 +32,7 @@
 
 **ただし、資源アイテムは、資源保存所に動かした後、敵の侵略によって略奪される恐れがあるので注意しなければなりません。**
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/400_004inventory.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/400_004inventory.jpg)
 
 <br>
 
@@ -42,4 +42,4 @@
 
 また、敵の惑星を攻撃する前に、偵察を通じて略奪可能な資源量を確認することもできます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/400_005planetloot.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/400_005planetloot.jpg)

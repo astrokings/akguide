@@ -2,4 +2,4 @@
 
  연맹은 구성원들이 모여 강력한 힘을 발휘할 수 있는 집단입니다. 연맹을 창설하여 구성원들을 모을 수 있으며, 구성원들이 많이 모인 연맹에 가입할 수도 있습니다. 연맹에 대한 상세 내용은 카테고리 별 도움말에서 확인할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/600fedmain.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/600fedmain.jpg)

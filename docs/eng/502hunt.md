@@ -8,7 +8,7 @@ E.M.U. offers special rewards when you defeat each level of space pirates for th
 
 To increase the odds, scout the ship composition of the pirates and organize your fleet with ships that are [***<u>strong</u>***](eng/201normalship#Strengths-and-Weaknesses-of-Ship) against the majority of their ship type.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_001pirate.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_001pirate.jpg)
 
 <br>
 
@@ -30,7 +30,7 @@ You sometimes loot a [Wanted Poster] when you defeat space pirates. You can acce
 
 Unlike their mundane brethren, you must [***<u>manually control your fleet</u>***](eng/503fleetbattle#Fleet-Battle) when fighting wanted criminals. They disappear if you do not defeat them within a given time.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_002bounty.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_002bounty.jpg)
 
 
 
@@ -52,7 +52,7 @@ Unlike their mundane brethren, you must [***<u>manually control your fleet</u>**
 
 Alien Fleets  [***<u>periodically invade</u>***](eng/701regularevent#Alien-Invasion-Event) the galaxy or you can actively spot them by using [***<u>Purposes of Federation.</u>***](eng/604fedastronest#Scan-Alien-Fleets)
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_003alien.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_003alien.jpg)
 
 <br>
 
@@ -64,7 +64,7 @@ If players fail to defeat the Recon Fleet of the forward contingents, the entire
 
 These forces are composed of a vast number of Recon Fleets with wide variety of ships. Attack suitable fleets and receive rewards.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/502_004alienmain.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_004alienmain.jpg)
 
 <br>
 
@@ -84,4 +84,4 @@ Linked followers give a stronger effect to the Vigilante, and when the follower 
 
 You have to defeat the Vigilante to get a rare reward, and you can get more rewards if you defeat the Vigilante with a lot of connected followers.
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502_005.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_005.jpg)

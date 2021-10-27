@@ -4,7 +4,7 @@
 
 連盟研究に参加するには、研究したい研究を選択した後、各研究で必要な資源を投資しなくてはなりません。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/602_001fedresearch.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/602_001fedresearch.jpg)
 
 <br>
 

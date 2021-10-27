@@ -14,7 +14,7 @@ You can enter the Wanted Poster page through the Warp Gate facility.
 
 Types of Wanted Pirates
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_01.jpg)
 
 - **Illegal Occupants**: Leader of the gang that illegally occupy resource sites and earn profits from it.<br>
 - **Smugglers**: A group of bosses who take advantage of smuggling a variety of rare items and committing various vicious crimes such as looting and murder in the process.<br>
@@ -26,7 +26,7 @@ Types of Wanted Pirates
 
 To fight Wanted Pirates, you must have Wanted Posters.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_02.jpg)
 
 - **Acquisition**: Wanted Posters can be obtained by defeating space pirates. The more powerful the pirates, the higher the threat level of Wanted Posters can be obtained.<br>
 - **Threat Level**: The threat level is divided into 11 levels. The higher the threat level, the stronger the Wanted pirates.<br>
@@ -39,8 +39,8 @@ To fight Wanted Pirates, you must have Wanted Posters.
 
 To search for Wanted Pirates, you need to use Wanted Posters.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_03.jpg)
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_04.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_04.jpg)
 
 - **Time Limit**: After using the Wanted Poster, you are able to attack or sweep in a certain period of time.<br>
 - **Search again**: If you are not satisfied with the searched target, you can search again using Wanted Posters.<br>
@@ -56,8 +56,8 @@ If you use 'Sweep' function, you can skip the battle play, and instantly receive
 To use 'Sweep' function, you need unlock VIP level 4 and have the 'Sweep' tickets.<br>
 (You will be given limited free 'Sweep' tickets daily and it resets every UTC 00:00 AM)
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_05.jpg)
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_06.jpg)
 
 + **VIP**: The Sweep function unlocks at VIP Level 4, and as the level increases, the more free sweeps can be obtained.
 + **Acquisition**: Purchase Sweep Tickets at the E.M.U. Emporium.

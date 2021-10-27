@@ -1,5 +1,5 @@
 # Area Configuration
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_01.jpg)
 
 ## Sector
 
@@ -13,7 +13,7 @@ In other words, ownership of a sector can be acquired by capturing all citadels 
 
 
 ## Base
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_02.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_02.jpg)
 
 A base is an area with a radius of 13 cells centered on a building usually called a 'lighthouse' where the fleet can anchor.
 
@@ -25,7 +25,7 @@ Each base can be captured by defeating the defense fleet stationed in the centra
 ## Base Building
 
 ### Outpost
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_03.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_03.jpg)
 
 As the most basic unit base, it can receive support from up to 3 defense fleets.<br>
 Usually, the purpose of occupying this base is to secure a movement path.
@@ -33,7 +33,7 @@ Usually, the purpose of occupying this base is to secure a movement path.
 
 
 ### Citadel
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_04.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_04.jpg)
 
 It is a key point in determining ownership of the entire sector.<br>
 The ownership of the sector changes as soon as all citadels in the sector are captured.
@@ -42,7 +42,7 @@ You can receive support from up to 8 defense fleets.
 
 
 ### Gate
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_05.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_05.jpg)
 
 The long-distance base that connects each of the sectors.<br>
 To get to another sector, you have to go through a connecting gate.
@@ -53,7 +53,7 @@ Immediately after a sector move, the expedition is temporarily subject to a move
 
 
 ### Capital
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_06.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_06.jpg)
 
 The Capital is the center of your faction and is a protected area that cannot be invaded by enemy forces.<br>
 The Capital is where the departure, return, and supply of the expedition takes place.

@@ -6,7 +6,7 @@
 
 However, the number of available Flagships are very limited.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_001flagshipbuild.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_001flagshipbuild.jpg)
 
 <br>
 
@@ -40,7 +40,7 @@ While resources are partially refunded, you retain the equipment that were on th
 
 There are six types of Upgrade Modules, from V1 to V6. Higher the module number, the more effective its upgrading capacity becomes.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_002flagshiplevel.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_002flagshiplevel.jpg)
 
 <br>
 
@@ -50,7 +50,7 @@ There are six types of Upgrade Modules, from V1 to V6. Higher the module number,
 
 The materials needed to promote a Flagship depends on the type and tier of the Flagship. You can check the necessary materials from the Promote Flagship screen.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_003flagshiptier.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_003flagshiptier.jpg)
 
 <br>
 
@@ -60,7 +60,7 @@ The materials needed to promote a Flagship depends on the type and tier of the F
 
 Command Buff can be upgraded by using [Buff Upgrade Modules].
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_004flagshipbuff.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_004flagshipbuff.jpg)
 
 <br>
 
@@ -81,7 +81,7 @@ The lootable devices are as follows:
 
 ### 5) Crew and Flagship Special Skill
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/202_005spskill.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_005spskill.jpg)
 
 When the flagship is promoted to tier 6 or higher, you can assign a hero on board as a crew member.<br>
 The following are the levels of heroes that can board the flagship as crew members.
@@ -112,7 +112,7 @@ You can maximize fleet power by checking to see if the Flagship type is better s
 
 ### A. Striker Type
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_offence.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/ico_flagship_type_offence.jpg)
 
 A Flagship specialized for offense, it has stats and talents suited for attacking. 
 It is more effective against pirates and enemy planets.
@@ -121,7 +121,7 @@ It is more effective against pirates and enemy planets.
 
 ### B. Guardian Type
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_defensive.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/ico_flagship_type_defensive.jpg)
 
 A flagship specialized for defense, it has stats and talents suited for defending. It is more effective when fighting defensively.
 It is recommended you prepare a Guardian Flagship for planetary defense.
@@ -130,7 +130,7 @@ It is recommended you prepare a Guardian Flagship for planetary defense.
 
 ### C. Tactician Type
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_tactical.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/ico_flagship_type_tactical.jpg)
 
 This Flagship has special characteristics for special missions other than battles.
 It may possess faster resource harvesting speed, ambush attacks based on quick marching speed, etc.

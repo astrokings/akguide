@@ -4,4 +4,4 @@
 
 研究遂行には一定の資源と時間が消費され、同時に1つの研究のみ実行できます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/103research.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/103research.jpg)

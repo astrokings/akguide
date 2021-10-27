@@ -1,5 +1,5 @@
 # 遠征団
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1702_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_01.jpg)
 遠征団は複数の旗艦、艦船及び英雄で構成され、インタースペース空域での全ての活動は遠征団を中心に行われます。
 
 
@@ -42,7 +42,7 @@
 
 
 ### 艦隊出撃
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1702_02.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_02.jpg)
 
 遠征団の旗艦と艦船、英雄は艦隊として編成し特定の拠点や、敵勢力の遠征団を攻撃できます。
 
@@ -50,7 +50,7 @@
 
 
 ### 補給及び惑星復帰
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1702_03.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_03.jpg)
 
 遠征団編成限度内で自分の惑星に待機中の旗艦と艦船、英雄を追加でインタースペースに補給できます。<br>
 補給が始まると完了まで1時間かかり、補給が完了するとキャピタル拠点内にある補給所に臨時配置されます。

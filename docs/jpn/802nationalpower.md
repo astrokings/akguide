@@ -4,4 +4,4 @@
 
 国力を構成する詳細内容は国力表示部をタッチして確認することができます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/802_001nationalpower.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/802_001nationalpower.jpg)

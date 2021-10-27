@@ -4,7 +4,7 @@
 
  英雄は内政や艦隊指揮任務などを遂行できる重要財産です。 アカデミーを通じて立派な人材をスカウトし、成長させましょう。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/300_001heroinfo.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/300_001heroinfo.jpg)
 
 <br>
 

@@ -18,7 +18,7 @@
 스키퍼와 세일러 등급에서는 매칭 인원이 부족한 경우, NPC 매칭 상대가 매칭될 수 있습니다.
  - 다른 상위 등급에서는 매칭에 필요한 최소한의 인원이 참여하기까지 대기하여야 합니다.<br>
  
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_06.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_06.jpg)
 
 
 ## 가상함대전 전투
@@ -30,13 +30,13 @@
    배치와 동시에 각 함대별 '전술 기동' 수치에 따라, 타임 게이지가 증가합니다.<br> 
    타임 게이지가 모두 차오른 함대는 공격할 적 함대를 선택 할 수 있는 우선권을 얻습니다.<br>
    
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_07.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_07.jpg)
 
 ### 공격 함대 선택
    우선권을 얻은 함대가, 적 함대를 선택해 전투를 시작합니다. <br>
    입력 대기 시간은 60초이며, 시간 내로 적 함대를 선택하지 않으면 가장 가까운 적 함대가 자동으로 지정됩니다. <br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_08.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_08.jpg)
 
 ### 라운드 전투
    해당 주간 환경 특성에 따라 각 함대가 추가 효과를 적용 받습니다.<br>
@@ -56,4 +56,4 @@
    모든 라운드 전투가 끝나면, 2회 이상 승리한 측이 가상함대전 매치에서 승자가 됩니다. <br>
    매치가 종료되면 매칭 메뉴 화면으로 이동합니다. <br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_09.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_09.jpg)

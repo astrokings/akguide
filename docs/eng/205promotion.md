@@ -6,7 +6,7 @@ In addition, T5 grade and higher equipment can change some of the secondary opti
 
 
 ## Equipment Upgrade
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/205_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/205_01.jpg)
 
 ### 1) Conditions
 - Equipment grade must be Tier 4 (T4) or higher.
@@ -46,7 +46,7 @@ Upcoming) The maximum enhancement level will be increased additionally through r
 
 
 ## Equipment Remodeling
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/205_02.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/205_02.jpg)
 
 For equipment with T5 grade or higher, you can change the 2 types of exclusive options granted when upgrading to other exclusive options through remodeling.<br>
 

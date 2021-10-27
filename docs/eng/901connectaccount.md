@@ -4,4 +4,4 @@
 
 To connect your game account with a third party account, refer to the image.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/901_001accountset.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/901_001accountset.jpg)

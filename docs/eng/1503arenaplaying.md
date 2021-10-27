@@ -18,7 +18,7 @@ Matching list can be refreshed for free every 4 hours.
 In the Skipper and Sailor levels, if the number of matching people is insufficient, NPC targets may be matched.
  - At other higher levels, you must wait for the minimum number of players required to participate.<br>
  
- ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_06.jpg)
+ ![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_06.jpg)
 
 
 ## Battle
@@ -30,13 +30,13 @@ In a 1:1 battle between fleets, the side with the highest number of victory wins
 At the same time as deployment, the time gauge increases according to the number of Tactic Operation for each fleet.<br>
 A fleet with full gauge gets priority to choose which enemy fleet to attack.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_07.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_07.jpg)
 
 ### Select Fleet to Attack
 The fleet that has gained priority selects an opponent's fleet and begins the battle.<br>
 The time provided to select is 60 seconds. If the enemy fleet was not selected within the time frame, the nearest opponent fleet will be automatically selected.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_08.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_08.jpg)
 
 ### Battle Round
 Each fleet receives additional effects based on the weekly arena setting.<br>
@@ -56,4 +56,4 @@ If you already at a target selection step, it will apply at the next target sele
 After all battle rounds, the one who won two times and more will be the winner in the Empire Arena match.<br>
 When the match ended, it will redirect you to the matching lobby.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_09.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_09.jpg)

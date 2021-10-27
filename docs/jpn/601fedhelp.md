@@ -3,4 +3,4 @@
  建設、研究は連盟員の支援で時間を短縮することができ、逆に連盟員の作業を支援することができます。
 
 大使館をアップグレードすると、受けられる支援の回数と短縮される作業時間がさらに増加します。
-![](http://astrokings.s3.amazonaws.com/html/img/help/601_001fedhelp.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/601_001fedhelp.jpg)

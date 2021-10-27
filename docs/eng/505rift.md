@@ -9,13 +9,13 @@ When you start the next Dimension Rift Battle, it will proceed from the previous
 
 **To Create**
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_01.jpg)
 - At the end of the Invasion of the Alien Fleet, the Dimension Rift will be opened.
 - Created Dimension Rift will disappear after 1 hour.
 
 **To Participate**
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_02.jpg)
 - Alien Forces can be attacked through the Warp Gate when the Dimension Rift has been opened. 
 
 <br>
@@ -33,7 +33,7 @@ When you use all your daily tickets, you can purchase the Dimension Shift Cataly
 When you start the battle, you will have a maximum of 5 times (Waves) of continuous Fleet Battle.<br>
 (Prepare your planet for this continuous fleet battle)
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_03.jpg)
 
 When you lose from the battle, the contiuous Fleet Battle will end. <br>
 You can earn rewards for victory battles if you win all 5 battles or lose halfway to the end of the battle.
@@ -48,8 +48,8 @@ There are 250 Waves in the Dimension Rift map.<br>
 - Alien Force Attack region has 25 Sectors, and each sector has 10 waves.<br>
 - From Sector 16, Wave 151 onwards it will be separated from the previous series of Waves.<br>
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_04.jpg)<br>
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_04.jpg)<br>
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_05.jpg)
 
 Better rewards can be obtained when you clear each wave and move through each sector. 
 <br>
@@ -59,7 +59,7 @@ Better rewards can be obtained when you clear each wave and move through each se
 You can obtain various items from the Dimension Rift Battle such as new ship enhancements materials.<br>
 You will obtain better rewards when you win from the higher Sector and Waves
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_06.jpg)
 
 When you win from all the first continuous Fleet Battle,  you can obtain the previous rewards from the past 5 Wave's rewards.
 <br>

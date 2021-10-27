@@ -14,7 +14,7 @@
 
 指名手配犯の種類
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_01.jpg)
 
 - **不法占領者** : 軍事力を土台に資源地を不法占領して利益を得ている組織のトップ。<br>
 - **密輸業者** : 様々な珍しい品物(アイテム)密輸を通じて利益を得て、その過程で略奪、殺人など各種悪質な犯罪を犯す集団の親分。<br>
@@ -26,7 +26,7 @@
 
 指名手配犯を捜索するには手配ポスターが必ず必要です。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_02.jpg)
 
 - **獲得** : 手配ポスターは一般の宇宙海賊を討伐して獲得することができます。 強力な宇宙海賊を討伐するほど高い危険度の手配ポスターを得ることができます。<br>
 - **危険度** : 危険度は11段階に区分されており、危険度が高いほど多様で強力な指名手配犯が登場します。<br>
@@ -39,8 +39,8 @@
 
 手配ポスターを使って捜索すると目標指名手配犯を確認することができます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_03.jpg)
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_04.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_04.jpg)
 
 - **時間制限** : 手配ポスターを使用し、捜索後、限られた一定時間内にのみ指名手配犯を攻撃したり、掃討が可能です。<br>
 - **再捜索** : 目標指名手配犯が気に入らない場合、手配ポスターを再使用して再捜索が可能です。<br>
@@ -56,8 +56,8 @@
 掃討機能を利用するためにはVIP 4レベル達成と指名手配犯の掃討権アイテムが必要です。
 (一定回数だけ、無料で掃討機能を利用できる機会が毎日UTC 00:00時を基準に与えられます)
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_05.jpg)
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_06.jpg)
 
 + **VIP** : VIP 4レベルに掃討機能が解禁されレベルが増加すればするほど、1日の無料掃討の機会が増加します。
 + **掃討券獲得** : 掃討券は商人組合(E.M.U.)事務所で購入できます。

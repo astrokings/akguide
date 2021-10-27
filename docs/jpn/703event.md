@@ -8,7 +8,7 @@
 
 ## イベント構造
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/703_001questevent.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/703_001questevent.jpg)
 
 イベントに参加すると、報酬パネルとクエストリストが配られます。<br>
 クエストリストのクエストを完了すると、報酬獲得の機会を得る事ができるポイントが与えられます。<br>
@@ -22,7 +22,7 @@
 
 ## 連盟ポイントと連盟ランキング
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/703_002questevent.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/703_002questevent.jpg)
 
 クエストを遂行する毎に連盟にスコアが累積されます。<br>
 連盟員がクエストを遂行する毎に今すぐ完了券を得られるゲージが上昇します。<br>

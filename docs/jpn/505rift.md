@@ -9,13 +9,13 @@
 
 次元の亀裂の生成
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_01.jpg)
 - 外界艦隊ワールドイベント終了時、次元の亀裂の生成されます。
 - 次元の亀裂は、生成されてから1時間後に消滅します。
 
 次元の亀裂の参加
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_02.jpg)
 - 亀裂が維持されている間ワープゲートから亀裂を通じて外界侵攻が可能となります。
 
 <br>
@@ -33,7 +33,7 @@
 戦闘開始時、最大5回(ウェーブ)の連続艦隊戦戦闘を進めることになります。<br>
 (連続艦隊戦の戦闘に備えて惑星の安全を確保してください。)
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_03.jpg)
 
 5回の戦闘ですべて勝利するか、途中で敗北して、連続艦隊戦の戦闘が終了すると、勝利した戦闘に対する報酬を獲得することができます。
 
@@ -48,8 +48,8 @@
 - 16セクター、151ウエーブからは以前のウエーブと分離され別に連続艦隊戦の戦闘が行われます。<br>
 
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_04.jpg)<br>
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_04.jpg)<br>
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_05.jpg)
 
 
 各ウェーブをクリアして各セクター進めていくほどもっと良い報酬を受けることができます。
@@ -60,7 +60,7 @@
 戦闘で勝利すると、各種有用なアイテムと艦船強化に必要な材料アイテムを報酬で得ることができます。<br>
 もっと高い段階のセクターとウェーブで勝利すればするほど、よりよい報酬が与えられます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/505_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_06.jpg)
 
 毎回、次元の亀裂の初戦闘で勝利すると、以前の5つのウェーブの報酬を同時に獲得することができます。
 <br>

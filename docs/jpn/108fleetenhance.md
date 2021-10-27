@@ -10,7 +10,7 @@
 艦隊強化施設を通して艦船の強化を行う事ができます。<br>
 艦隊強化施設は司令部レベル15以上から建設が可能です。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_01.jpg)
 
 艦隊強化施設アップグレード時、建物のレベル毎に艦船レベルの制限が一定量増加します。
 
@@ -19,14 +19,14 @@
 
 ### 2) 艦船強化方式
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_02.jpg)
 
 フリゲート、デストロイヤー、クルーザー、バトルシップ等4種の艦船の中から好きな艦船を強化できます。<br>
 各艦船別に武器、装甲、エンジン等の3つの部位の内、好きな部位を強化できます。
 
 特定の艦種の部位を強化するとその艦種全体に強化効果が適用されます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_03.jpg)
 
 武器、装甲、エンジン部位別の関連能力値は次の通りです。<br>
 - 武器 : 攻撃力、正確度、貫通力
@@ -41,7 +41,7 @@
 
 ### 3) 艦船強化スロット＆強化スロットの活性化
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_06.jpg)
 
 全部で5個の強化スロットで構成されており、各スロットごとに異なる艦船強化を行うことができます。<br>
 基本的に3個の強化スロットを通して艦船強化を構成することができ、クリスタルを消費して強化スロットをさらに2個追加できます。<br>
@@ -50,7 +50,7 @@
 出戦艦隊を活性化する場合、出撃する全艦隊に効果が適用され、惑星防御を活性化する場合、惑星を防御する全艦船に効果が適用されます。<br>
 ※出戦艦隊の活性化状態を変更するとクリスタルが消費され、艦隊がすべて出撃中の場合は変更ができません。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_07.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_07.jpg)
 
 帝国仮想艦隊戦の場合、3個の艦隊に対しそれぞれ異なる強化スロットを活性化することができます。<br>
 ※惑星防御活性化および帝国仮想艦隊戦の場合、クリスタルを消費することなく活性化状態を変更できます。<br>
@@ -63,7 +63,7 @@
 
 艦隊の強化施設内で初期化アイテムを消費し艦船の強化部位別に初期化が可能です。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_05.jpg)
 
 強化初期化を行う場合は、強化に消費した材料アイテムと資源が一部返還されます。<br>
 使用した初期化アイテムの種類に応じて、材料アイテムと資源の回収率は異なります。

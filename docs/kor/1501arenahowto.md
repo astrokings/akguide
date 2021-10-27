@@ -1,6 +1,6 @@
 ## 제국 가상 함대전의 진행 방식
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_01.jpg)
 
 제국 가상 함대전에서 각 참여자들은 세 개의 가상 함대를 편성하여 다른 참여자들과 가상 함대전을 진행하게 됩니다.<br>
 

@@ -6,4 +6,4 @@
 
 연맹 보상으로 지급된 자원은 연맹 의장의 권한으로 분배할 수 있으며, 분배율은 [***<u>연맹 공헌도</u>***](kor/607fedcontribution#연맹-공헌도)에 의해 결정되고 임의로 변경할 수 없습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/606_001fedconquestscore.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/606_001fedconquestscore.jpg)

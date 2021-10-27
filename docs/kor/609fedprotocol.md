@@ -8,7 +8,7 @@
 
 ### 1) 연맹 프로토콜에 진입하기
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/609_01howtostart.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/609_01howtostart.jpg)
 
 연맹 프로토콜 메뉴에 진입하려면 연맹 연구에서 연맹 프로토콜 연구가 선행되어야 합니다.<br>
 연구 1레벨을 달성하면 연맹 프로토콜 메뉴가 열리고 진입이 가능해집니다.<br>
@@ -17,7 +17,7 @@
 
 ### 2) 연맹 프로토콜 해금
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/609_02unlock.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/609_02unlock.jpg)
 
 연맹 프로토콜은 처음에 모두 잠겨있으며, 각 프로토콜마다 해금 과정을 거쳐야 발동이 가능합니다.
 
@@ -37,7 +37,7 @@
 
 ### 4) 연맹 프로토콜 종류
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/609_03types.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/609_03types.jpg)
 
 연맹 프로토콜은 생산, 유지보수, 전투, 채집, 치안, 무역 등 여섯 개의 프로토콜로 기본 구성됩니다.
 
@@ -74,7 +74,7 @@
 
 ### 5) 연맹 프로토콜 발동과 업그레이드
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/609_04activationn.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/609_04activationn.jpg)
 
 연맹 프로토콜을 발동하기 위해서는 일정량의 연맹 자원과 외계 유물이 필요합니다.<br>
 각 프로토콜은 저마다 다른 지속시간을 가지고 있어, 그 시간 동안만 발동 효과가 유지됩니다.

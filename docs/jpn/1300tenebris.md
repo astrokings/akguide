@@ -5,12 +5,12 @@
 現在は遺失してしまったテトメス時代の技術で作られたので、これからは作り直すこともできないテネブリースをクルックスから取り戻さなければなりません。<br>
 数多くのライバルたちを追い抜いてテネブリースを取り戻し、銀河系を再びつなげる連盟はどこになるのか、商人組合(E.M.U.)と全ての銀河系が注目しています。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_01.jpg)
 
 
 ### 1) テネブリース争奪戦の時期と進行
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_02.jpg)
 
 争奪戦は4週に一度、UTC基準、土曜日に始まり最大8時間行われます。<br>
 
@@ -23,7 +23,7 @@
 
 ### 2) テネブリース争奪戦での勝利
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_03.jpg)
 
 テネブリース稼動に必要なエネルギーを先に全てチャージさせた連盟が争奪戦で勝利します。<br>
 
@@ -49,7 +49,7 @@
 
 ### 3) 攻撃
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_04.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_04.jpg)
 
 テネブリースおよび衛星は偵察をすることができません。<br>
 
@@ -68,7 +68,7 @@
 
 ### 4) 防御
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_05.jpg)
 
 テネブリースや衛星攻撃に勝利し、占拠状態になると防御艦隊を構成して防御することができます。<br>
 
@@ -94,7 +94,7 @@
 
 ### 5) 衛星特殊機能
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_06.jpg)
 
 #### 5-1) 衛星砲撃
 
@@ -129,30 +129,30 @@
 
 #### 6-1) 勝利した連盟全体に与えられる報酬
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_07.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_07.jpg)
 
 勝利した連盟には、全ての連盟員に資源、テネブリース争奪戦勝利功勲トークンで構成された勝利報酬が即時支給されます。<br>
 
 
 #### 6-2) 'テネブリースの支配者'の権限
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_08.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_08.jpg)
 
  - 勝利連盟の連盟議長が基本的にテネブリースの統制者となります。<br>テネブリースの統制者は、功労者に対してテネブリース争奪戦勝利功勲トークンを分配することができます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_09.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_09.jpg)
   - テネブリース争奪戦勝利功勲トークンは分配可能数に制限があります。<br><br>
 
 テネブリースの統制者と6つの衛星の司令官を新たに任命することができます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_10.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_10.jpg)
  - 任命は一度だけ可能です。 慎重に選んでください。
  - テネブリースの統制者を新たに任命すると、関連するすべての権限が直ちに委譲されます。
  - テネブリースの統制者は勝利連盟の連盟員のみ任命が可能で、6つの衛星の司令官は特別な任命制限がありません。<br><br>
 
 テネブリースの固有の権能である特殊バフが利用できます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_11.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_11.jpg)
  - 自分が属している銀河系全体にバフを付与することができます。<br>
    1) 行軍の速度増加30%、24時間持続<br>
  - 二つの特殊なバフが制限なく持続的に自分に適用されます。<br>
@@ -162,18 +162,18 @@
 
 ' 統制者の声' 機能を利用して、自分が属している銀河系全体にメッセージを送ることができます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_12.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_12.jpg)
  - .希望するメッセージを300文字まで入力し伝送することができます。
  - メッセージは3回繰り返して送られ、該当の銀河系に接続中の司令官が見ることができます。<br>
 
 
 #### 6-3) 6つの衛星の司令官が持つ権限
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_13.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_13.jpg)
 
  - テネブリースの統制者によって6つの衛星の司令官に任命されることがあります。<br><br>
 
 各衛星の固有の権能である特殊バフを使用することができます。<br>
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_14.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_14.jpg)
  - 自分が希望する対象に該当の衛星のみのバフを付与することができます。<br>
    1) ホルンダル : 資源採取速度増加 40%, 12時間継続<br>
    2) クイリヌス : 艦隊正確度増加 30%, 12時間継続<br>
@@ -194,7 +194,7 @@
 
 #### 6-4) テネブリース争奪戦功勲ショップ
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1300_15.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_15.jpg)
 
  - テネブリース争奪戦勝利功勲トークンを様々な商品と交換できるショップです。
  - 常設ショップで、商品の在庫は毎月1日に更新されます。

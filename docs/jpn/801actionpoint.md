@@ -6,4 +6,4 @@
 
 資源採集や惑星侵攻は行動力とは関係なく実行することができます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/801_001actionpoint.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/801_001actionpoint.jpg)

@@ -10,7 +10,7 @@
 매치 전투 승패에 따라서 랭킹 포인트를 얻거나 잃을 수 있습니다.
  - 획득 및 상실 랭킹 포인트는 자신과 상대의 랭크 등급 차이에 따라 달라집니다.<br>
  
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_10.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_10.jpg)
 
 
 ## 랭크 등급

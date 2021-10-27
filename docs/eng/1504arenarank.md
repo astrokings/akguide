@@ -10,7 +10,7 @@ Rankings are determined according to the number of ranking points a player has.<
 Rankings points can be earned or lost depending on the match battle result. 
  - Earned and lost ranking points may vary depending on the difference between your rankings and the opponent.<br>
  
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_10.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_10.jpg)
 
 
 ## Rank Grade

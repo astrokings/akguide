@@ -6,7 +6,7 @@
 
 
 ## 장비 승급
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/205_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/205_01.jpg)
 
 ### 1) 승급 조건
 - 장비의 등급이 티어 4(T4) 이상이어야 합니다.
@@ -46,7 +46,7 @@ T5 등급으로 승급 성공 시, 전용 특수 옵션 2종이 보조 옵션으
 
 
 ## 장비 개조
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/205_02.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/205_02.jpg)
 
 T5 등급 이상의 장비는 개조를 통해 부여된 전용 옵션 2종을 다른 전용 옵션으로 변경할 수 있습니다.<br>
 

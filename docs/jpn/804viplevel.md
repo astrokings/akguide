@@ -6,4 +6,4 @@ VIP レベルが上昇すると宇宙商人連合で提供する強力なバフ�
 
 VIP レベルは[VIP ポイント]アイテムを使用して上げることができます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/804_001viplevel_11.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/804_001viplevel_11.jpg)

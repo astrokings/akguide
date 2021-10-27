@@ -7,7 +7,7 @@ Merit Points can be earned based on the outcome of the match.
  - The amount of Merit Points earned varies depending on the result of the battle and rank level.
  - Merit Points can be exchanged with items from the Merit Shop.<br>
  
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_13.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_13.jpg)
 
 [Cumulative Rewards] Winning Streak points will be added.
  - If you win 6 times in a row, you will get victory points and it increases upto 20 wins.
@@ -20,7 +20,7 @@ Merit Points can be earned based on the outcome of the match.
 Merit Points and crystals can be received as rewards based on the rank level you have achieved in the weekly settlement.<br>
 However, players who do not have Empire Arena record of the week will not be able to receive weekly reward.
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11_1.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_11_1.jpg)
 
 
 ## Season Reward
@@ -36,7 +36,7 @@ Merit Points earned from the Empire Arena can be exchanged with items from the M
 
 Please note that the availability and quantity of the items from the Merit Shop are limited.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_12.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_12.jpg)
 
 
 #### Item List

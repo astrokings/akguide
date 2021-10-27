@@ -6,7 +6,7 @@
 
 
 ## 装備昇級
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/205_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/205_01.jpg)
 
 ### 1) 昇級条件
 - 装備の等級がグレード4(T4)以上必要。
@@ -46,7 +46,7 @@ T5等級に昇級時、専用特殊オプション2種が補助オプション�
 
 
 ## 装備改造
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/205_02.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/205_02.jpg)
 
 T5等級以上の装備は改造によって昇級時付与される専用オプション2種を他の専用オプションに変更できます。<br>
 

@@ -10,7 +10,7 @@ Certain materials are required for each type of ship parts and resources for enh
 Ships can be enhanced at the Ship Enhancement Facility. <br>
 This facility can be unlocked when you reach Command Center level 15. 
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_01.jpg)
 
 The ship level restrictions will be unlocked as you upgrade the facility. 
 
@@ -19,14 +19,14 @@ Appointing a minister to the facility will decrease the required resources for s
 
 ### 2) Ship Enhancement System
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_02.jpg)
 
 Ships that can be enhanced are Frigate, Destroyer, Cruiser, and Battleship.<br>
 Each type of ship can strengthen any of its three parts - Weapon, Armor, and Engine. 
 
 Enhancing the parts of your ships will strengthen all ships of the same type. 
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_03.jpg)
 
 Ship Parts Abilities<br>
 - Weapon: Attack Power, Accuracy, Penetrate
@@ -41,7 +41,7 @@ Each ship level has restrictions, so consider wisely when you enhance the parts 
 
 ### 3) Ship Enhancement Slot and Activation
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_06.jpg)
 
 It consists of a total of 5 enhancement slots, and each slot allows you to enhance a different ship.<br>
 By default, enhancements can be configured up to 3 slots and 2 additional slots can be unlocked using crystals.
@@ -50,7 +50,7 @@ One of the 5 slots can be selected to apply the enhancement configuration for fl
 Deployment Activation applies to all participating fleets, and for Defense Activation, this applies to all ships defending the planet.<br>
 ※ Crystals are consumed when changing the Deployment Activation, and this cannot be changed when all fleets are deployed. 
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_07.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_07.jpg)
 
 Different enhancement slots can be applied to the three fleets from the Empire Arena Battle.<br>
 ※ No crystals will be used when changing the enhancement slot for Defense Fleet and Empire Arena Fleets.  <br>
@@ -60,7 +60,7 @@ Different enhancement slots can be applied to the three fleets from the Empire A
 
 You can reset each enhanced parts with reset items in the Ship Enhancement Facility.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_05.jpg)
 
 For ship enhancement reset, enhancement materials and resources can be recovered.<br>
 The recovery rate of materials and resources may vary depending on the enhance reset module used.  

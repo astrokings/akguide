@@ -6,4 +6,4 @@ Spent Action Points are slowly regenerated. You can instantly recover Action Poi
 
 Harvesting resources or raiding other players' planets does not cost Action Points.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/801_001actionpoint.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/801_001actionpoint.jpg)

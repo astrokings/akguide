@@ -8,7 +8,7 @@
 
 交易所をアップグレードするとより多くの交易スロットと無料更新の機会を得る事ができます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/105_001listrefresh.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/105_001listrefresh.jpg)
 
 <br>
 
@@ -20,7 +20,7 @@
 
 連盟証票は連盟を脱退したり移転しても無くならずそのまま維持されます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/105_002fedstore.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/105_002fedstore.jpg)
 
 <br>
 
@@ -31,4 +31,4 @@
 
 功勲ショップで提供される商品はそれぞれ販売期間と数量が制限されていますので、ご注意ください。
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_12.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_12.jpg)

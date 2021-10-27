@@ -16,7 +16,7 @@ Artifacts and the technology won’t be free, but the enormous power and potenti
 
 ### Unlock
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_01.jpg)
 
 To use the Artifact System, you need to unlock the system.
 
@@ -24,7 +24,7 @@ You can unlock the Artifact System when you reach a certain level on each system
 
 ### Equip Artifact
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_02.jpg)
 
 Once the artifact system has been unlocked, you can check the details and equip artifacts on the system slots.
 
@@ -48,7 +48,7 @@ If you have opened multiple artifact systems, you can use each system effect and
 
 ### Artifact Level and Fusion
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_03.jpg)
 
 All the artifacts can be combined up to 10 levels. 
 The system and core artifact effect is determined based on the lowest level of the installed artifact level.<br>
@@ -62,7 +62,7 @@ You obtain one artifact with one level higher when it succeeds or obtain one sam
 
 ## Artifact Inventory
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_04.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_04.jpg)
 
 You can manage all the artifacts from the Artifact inventory.
 Only artifacts that meet specific conditions can be selected and displayed, and detailed information on artifacts and fusion can also be processed in the inventory.<br>
@@ -73,7 +73,7 @@ You can only equip or replace the artifact from the Artifact System info page.<b
 
 ## Unidentified Relic Research
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_05.jpg)
 
 You can obtain the Unidentified Relics when you defeat wanted pirates, alien recon fleet, dimension rift or federation exploration. 
 Unidentified Relics has five levels and can obtain level 1 artifacts and level 1 core artifacts at random through research.<br> 
@@ -87,7 +87,7 @@ Research time depends on the relic level, and rewards will be given once the res
 
 ## Open Artifact
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_06.jpg)
 
 You can obtain artifacts from the artifact open spot.<br>
 

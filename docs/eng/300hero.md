@@ -4,7 +4,7 @@
 
  Heroes are your primary assets in developing the planet and commanding fleets. Utilize the Academy to recruit able-bodied Heroes and upgrade them.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/300_001heroinfo.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/300_001heroinfo.jpg)
 
 <br>
 

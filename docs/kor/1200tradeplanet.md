@@ -1,6 +1,6 @@
 # 무역행성
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_00_tradeplanet.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_00_tradeplanet.jpg)
 
 무역행성은 우주 곳곳에 멀리 떨어진 여섯 개의 행성으로 이루어져 있습니다.
 
@@ -12,7 +12,7 @@
 
 ### 1) 무역
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_01_trade.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_01_trade.jpg)
 
 무역을 하기 위해서는 무역센터(사령부 레벨 19 이상)를 먼저 건설하여야 합니다.
 
@@ -27,7 +27,7 @@
 
 ### 2) 무역을 통한 보상
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_02_reward.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_02_reward.jpg)
 
 **버프와 선물** : 무역을 통해 각 행성의 평판을 획득할 수 있으며, 일정 평판 수치를 누적하면 단계별로 강력한 버프 또는 선물을 얻을 수 있습니다. 버프나 선물은 각 무역행성의 특색에 따라 차이가 있습니다.
 
@@ -37,7 +37,7 @@
 
 ### 3) 무역 규모를 늘리기
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_03_tradeship.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_03_tradeship.jpg)
 
 무역센터 업그레이드를 통하여 무역선의 보유량을 늘릴 수 있습니다.
 
@@ -50,12 +50,12 @@
 
 # 무역센터
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_04_tradecenter.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_04_tradecenter.jpg)
 <br>
 
 ### 1) 무역 현황
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_05_tradestatus.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_05_tradestatus.jpg)
 
 전체 무역행성과의 현재 무역 상태와 획득 평판, 현재 점령 중인 연맹의 정보를 확인할 수 있습니다.
 
@@ -69,7 +69,7 @@
 
 ### 2) 무역행성 정보
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_06_planetinfo.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_06_planetinfo.jpg)
 
 해당 무역행성의 정보, 현재 누적 평판과 평판 버프 정보를 확인할 수 있습니다.
 
@@ -81,7 +81,7 @@
 
 ### 3) 무역 상점
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_07_tradeshop.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_07_tradeshop.jpg)
 
 각 무역행성에서 판매 중인 아이템을 확인하거나 구매할 수 있습니다.
 
@@ -93,7 +93,7 @@
 
 ### 4) 무역
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1200_08_sendtrade.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1200_08_sendtrade.jpg)
 
 대기 중인 무역선을 해당 무역행성으로 무역을 보냅니다.
 

@@ -4,13 +4,13 @@
 これにより6つの貿易惑星を獲得するための占領戦が行われます。<br>
 一つの連盟は一つの貿易惑星だけを占領できるので、最も強力な6つの連盟だけが貿易惑星を占領する事ができます。<br>
 貿易惑星を支配する連盟になると、商人組合(E.M.U.)で支給される報酬はもちろん貿易惑星から税金収益を得ることになります。
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_1.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_1.jpg)
 
 <br>
 
 ### 1) 貿易惑星の占領戦の時期と進行
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_2.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_2.jpg)
 
 >占領戦は、2週間に一度、週末に決まった時間それぞれ1時間、計2回に分けて行われます。<br>
 （詳細については、貿易惑星の占領戦イベントページで確認することができます。）
@@ -25,7 +25,7 @@
 
 ### 2) 貿易惑星の攻撃
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_3.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_3.jpg)
 
 貿易惑星は、視察することができません。
 
@@ -41,7 +41,7 @@
 
 ### 3) 貿易惑星の防御
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_4.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_4.jpg)
 
 貿易惑星攻撃に勝利し、一時的な占拠状態になると、防御艦隊を構成し、貿易惑星を防御することができます。<br>
 （攻撃で勝利した艦隊は、自動的に防御艦隊になりますが、占拠後に到着する攻撃艦隊は到着時に自動的に帰軍します。 したがって、惑星占拠の際、防御支援艦隊を直ちに追加投入することが望まれます。）<br>
@@ -62,7 +62,7 @@
 
 #### 3-1) 防御戦略実行による防御バフ効果獲得
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_5.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_5.jpg)
 
 防御戦略を実行すると、防御バフを活性化したり、半壊した艦船を修理することができます。<br>
 防御バフには防御艦隊の攻撃力と耐久力を上昇させるバフがあります。
@@ -91,7 +91,7 @@
 
 ### 5) 占領成功と報酬
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_6.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_6.jpg)
 
 占領戦終了時間に貿易惑星を占拠している連盟が該当の惑星の占領連盟になります。
 
@@ -106,7 +106,7 @@
 
 #### 5-1) 貿易惑星、税金と税率の調整
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_7.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_7.jpg)
 
 各貿易惑星で貿易が行われたり、商店で物品を購買する際、占領連盟の連盟資源に税金収益が累積します。<br>
 (貿易船10回到着する毎に、貿易惑星の商店で品物購買によって発生したトークン収益が125個になる度、税金収益が累積)

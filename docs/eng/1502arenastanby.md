@@ -3,7 +3,7 @@
 
 ## Access
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_02.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_02.jpg)
 
 Empire Arena can be accessed through the Warp Gate facility.<br>
 
@@ -15,7 +15,7 @@ Unless it's settlement period, the Empire Arena is always accessible.<br>
 
 ## Weekly Arena Setting
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_03.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_03.jpg)
 
 The battlefield in which the fleet war takes place is an environmental setting and it is switched sequentially at the time of weekly settlement.<br>
 
@@ -31,7 +31,7 @@ The outcome of the battle may vary depending on the arena settings, forming a fl
 
 ## Command Formation
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_04.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_04.jpg)
 
 A command formation is a strategic arrangement required for multiple fleets to be deployed.
   - It is a high-level concept of fleet formation.<br>
@@ -52,7 +52,7 @@ Each formation has its own 'Tactic Operation' value in addition to the buff and 
 
 ## Organize Fleet
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_05.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_05.jpg)
 
 To participate in the Empire Arena, a total of three fleets must be formed.
  - A total of three battles per match with three fleets.<br>

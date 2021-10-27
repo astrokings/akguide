@@ -1,5 +1,5 @@
 # Faction
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1705_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_01.jpg)
 
 In Interspace, you will operate based on factions, not federations.
 
@@ -14,25 +14,25 @@ Interspace conducts its activities centered on factions.<br>
 The factions in Interspace are a total of four factions, each moving according to their goals.
 
 ### Nebula Empire(NE)																	
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1705_02.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_02.jpg)
 
 After the death of Emperor Banon, the Emperor's entourage, who managed to escape from the literally utterly destroyed Mapei galaxy, headed for the Tetmes galaxy. After Riya-Daybreaker, who saved mankind in the Battle of Light, Riya-Daybreaker's lineage leading to Emperor Banon led him to protect mankind and grow again in the name of the Empire. The emperor's entourage could not allow anyone outside of Riya-Daybreaker's blood to become emperor. They cloned Banon's DNA, which they had recovered at the last minute. The goals of Clone Banon and his entourage were clear. The Resurrection of the Emperor, the Resurrection of the Empire. In the Battle of Light, they take over the Tetmes galaxy, where humans first settled, and try to re-establish the nebula empire.																	
 
 
 ### Empyrean Guild(EM)
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1705_03.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_03.jpg)
 															
 With the Great Invasion of the CRUX, Tenebris, which connected the Empire and each galaxy, was destroyed and the galaxies were disconnected and started their own war for survival. This was true of all galaxies - even the Empyrean tops sent to Interspace. They are based on Primus Soth, E.M.U. council was guaranteed the right to independent action with one special envoy. Their mission is to restore all connections between Interspace and other galaxies. In order to fulfill her mission, Herma, under the name of the Empyrean Guild instead of the 'Trader's Alliance', seeks to connect the disconnected galaxies by gaining all control within Interspace.																	
 
 
 ### Tetra AI(TA)																	
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1705_04.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_04.jpg)
 
 In Interspace, which has served as mankind's first settlement, the old capital, and the navigational control station, the Tetra AI that was being developed to replace the system 'RIYA', the administrative control system of the Nebula Empire, remained. Tetra AI is a system consisting of four AIs in charge of accidents, and while building a database through communication with system 'RIYA', system 'RIYA' was completely destroyed by CRUX, effectively becoming the only administrative control system. Based on the situation of the isolated interspace and the current situation of mankind, Tetra AI will conclude that the best way for the survival of mankind is the resurrection of the first Empress Riya-Daybreaker. In order to secure and clone Riya-Daybreaker's complete DNA element, Tetra AI wants to regain control of the interspace and restore the connection to the entire galaxy.																	
 
 
 ### Free Pirate Union(PA)		
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1705_05.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_05.jpg)
 															
 The chaos of Interspace, which was disconnected from other galaxies, also brought great surprise to the pirates. As some of them built their own forces, pirates who did not belong to the forces were the only targets of subjugation. Among the pirates who are forced to lose in limited circumstances, Lukka, the captain of the Talos pirates, declares the unity of the pirates. Referring to Empress Riya-Daybreaker, who led the battle of light and built the nebula empire, the nebula empire started as a pirate, and in Interspace, a new beginning must also start at the hands of pirates, and he built his own power. They form a force called the 'Free Pirate Union' in the name of protecting the freedom of mankind and the freedom of pirates and fight to make Interspace their own universe.																	
 
@@ -77,7 +77,7 @@ Every week at 00:00 UTC on Wednesdays, users who have achieved the highest rank 
 The corps commander will have the authority to dismiss, notify the battlefield, and recommend reinforcements for the defense fleet.
 
 ### Dismiss
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1705_06.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_06.jpg)
 
 The corps commander may impose sanctions called 'dismissed from the battlefield' to a commander who interferes with the activities of the faction on the battlefield or behaves inappropriately.<br>
 Members of the sanctioned faction are exiled to the Capital.

@@ -4,4 +4,4 @@
 
 この画面を通して連盟に支援艦隊を送ったり集結攻撃に合流できます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/106_001controltower.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/106_001controltower.jpg)

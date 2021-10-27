@@ -5,13 +5,13 @@ Therefore, occupation for six Trade Planets will begin.<br>
 Since one Federation can occupy only one Trading Planet, the top six Federations can occupy each Trading Planets.<br>
 When a Federation occupy a Trading Planet, the Federation will get tax revenue from Trade Planets as well as rewards from the E.M.U.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_1.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_1.jpg)
 
 <br>
 
 ### 1) Trade Planet occupation and progress
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_2.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_2.jpg)
 
 Occupation will held over weekends, once in every two weeks. two times each for an hour.
 (You can check the schedule the Trade Planet Occupation Event page)
@@ -25,7 +25,7 @@ All the Trading Planets' occupation will be in a default status starting from fo
 
 ### 2) Trade Planet Attack
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_3.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_3.jpg)
 
 Trade Planets cannot be scouted.
 
@@ -41,7 +41,7 @@ If the Trade Planet is not occupied by any Federation, NPC Defense Force will.
 
 ### 3) Trade Planet Defense
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_4.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_4.jpg)
 
 When the Trade Planet is temporarily occupied, you can organize a Defense Force and defend the planet.<br>
 (When you win from the battle, attack fleets automatically becomes Defense Force, other attack fleets arrives after, will automatically return back to your planet.  Thus, sending support fleet as soon as your Federation becomes occupant is recommend.)<br>
@@ -62,7 +62,7 @@ Trade Planet will be occupiable when all the Defense Force withdraw from the Pla
 
 #### 3-1) Activate defense Buff by executing Defense Strategies
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_5.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_5.jpg)
 
 Executing a defense strategy allows you to activate defense buff or repair damaged ships.
 Defense Buff: Fleet Durability Boost, Fleet Attack Power Boost
@@ -91,7 +91,7 @@ You are not able to trade when the Occupation begins.
 
 ### 5) Occupation Success and Rewards
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_6.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_6.jpg)
 
 The Federation stands the last at the end of Occupation becomes the occupant.
 
@@ -106,7 +106,7 @@ Occupant(Federation) can adjust the tax rate and collect the sales tax from the 
 
 #### 5-1) Trade Planet Tax and Tax rate
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1201_7.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1201_7.jpg)
 
 Tax revenue will be accumulated in Federation Resource Storage when a trade is made from each Trade Planet or when a purchase is made from the Trade Shop. 
 (The tax revenue will be accumulated in every 10 trades are made, and every purchase with 125 tokens in Trade Shop )

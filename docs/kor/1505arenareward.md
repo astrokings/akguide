@@ -7,7 +7,7 @@
  - 승패 결과 및 자신의 랭크 등급에 따라 공훈 포인트 획득량이 달라집니다.
  - 공훈 포인트로 공훈 상점에서 다양한 보상 아이템과 교환이 가능합니다.<br>
  
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_13.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_13.jpg)
 
 [누적 등급] 매칭 보상에 보너스 연승 포인트가 추가됩니다.<br>
  - 6연승부터 보너스 연승포인트가 지급되며, 20연승까지 증가합니다. 
@@ -20,7 +20,7 @@
 매주 정산에서 자신이 달성한 랭크 등급에 따라 공훈 포인트와 크리스탈을 보상으로 받을 수 있습니다.<br>
 단, 해당 주간의 가상함대전 플레이 기록이 없는 유저는 주간 정산 보상을 받을 수 없습니다.
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11_1.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_11_1.jpg)
 
 
 ## 시즌 보상
@@ -36,7 +36,7 @@
 
 공훈 상점에서 제공되는 상품은 각기 판매 기간과 수량이 제한되어 있으므로 주의하시기 바랍니다.<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_12.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_12.jpg)
 
 
 #### 공훈 상점 아이템 목록

@@ -1,5 +1,5 @@
 # インタースペース
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1700_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1700_01.jpg)
 
 この空間は一般的な宇宙空間とは違い、ガスと不定型暗黒物質で充満しており、通常の航空が不可能でした。
 

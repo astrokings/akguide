@@ -2,7 +2,7 @@
 
 ## 1) 영웅 관리
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_001_Manage_Heroes.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_001_Manage_Heroes.jpg)
 
 보유 중인 영웅을 레벨 업 시키거나 스킬을 강화할 수 있습니다.<br>
 영웅을 퇴역시킬 수 있으며, 위원회에 귀속시킬 수 있습니다.<br>
@@ -14,7 +14,7 @@
 
 아카데미에서 영웅들을 고용할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_002_Recruit_Hero.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_002_Recruit_Hero.jpg)
 
 
 ### A. 영웅 고용
@@ -32,7 +32,7 @@
 
 ## 3) 1명 고용과 10명 고용
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_003_Recruit_Type.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_003_Recruit_Type.jpg)
 
 1회 고용은 한 명의 영웅만을 고용합니다.<br>
 연속 고용의 경우 고용권을 사용하여 영웅 고용 시 10명의 영웅을 고용할 수 있으며 크리스탈을 사용하여 영웅 고용 시 11명의 영웅이 고용됩니다.<br>
@@ -42,7 +42,7 @@
 
 ## 4) 영웅 퇴역
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_004_Retire.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_004_Retire.jpg)
 
 영웅 관리 및 영웅 고용 시 불필요한 영웅은 퇴역 시킬 수 있습니다.<br>
 영웅 퇴역 시 등급 및 강화도에 따라 DNA 소자를 회수할 수 있으며 스킬 레벨에 따라 스킬 소자를 회수할 수 있습니다.

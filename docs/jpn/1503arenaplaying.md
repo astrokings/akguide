@@ -18,7 +18,7 @@
 セーラーとスキッパ等級ではマッチングの相手がいない場合はNPCとのマッチングになることがあります。
  - 他の上位等級ではマッチングに必要な最小限の人員が参加するまで待機となります。<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_06.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_06.jpg)
 
 
 ## 仮想艦隊戦の戦闘
@@ -30,13 +30,13 @@
    配置と同時に各艦隊別の「戦術機動」数値により、タイムゲージが増加します。<br>
    タイムゲージが全て溜まった艦隊は攻撃する敵艦隊を選択する事のできる優先権を得ます。<br>
    
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_07.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_07.jpg)
 
 ### 攻撃艦隊の選択
    優先権を得た艦隊が、敵艦隊を選択して戦闘が開始します。<br>
    入力待機時間は60秒、時間内に敵艦隊を選択しない場合は、一番近くの敵艦隊が自動で選ばれます。<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_08.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_08.jpg)
 
 ### ラウンド戦闘
    該当のウィークリー環境特性に応じて各艦隊が追加の効果を受けます。<br>
@@ -56,4 +56,4 @@
    全てのラウンド戦闘が終わると、2回以上勝利した側が仮想艦隊戦での勝者となります。<br>
    戦闘が終了すると、マッチングロビーへ移動します。<br>
    
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_09.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_09.jpg)

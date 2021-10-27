@@ -6,7 +6,7 @@
 
 [自動編成] 機能を活用すればワンタッチで最適な艦隊を構成できます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/501_001fleetsetauto.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/501_001fleetsetauto.jpg)
 
 <br>
 

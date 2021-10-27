@@ -6,7 +6,7 @@
 
 政策方針を選択した後には、下位の政策を施行し、様々sなバフ効果を獲得でき、政策施行には一定量の政策ポイントが消費されます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/101_001policy.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_001policy.jpg)
 
 <br>
 
@@ -14,7 +14,7 @@
 
  政策ポイントは司令官や司令部のレベルが上がる毎に一定量獲得できます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/101_002policypoint.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_002policypoint.jpg)
 
 <br>
 
@@ -22,7 +22,7 @@
 
  高級政策であるほど要求される政策ポイントの量が増えます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/101_003policypoint.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_003policypoint.jpg)
 
 <br>
 
@@ -54,4 +54,4 @@
 
 <font color="red">**注意：委員会の帰属は引退と同じ概念で、英雄を戻す方法はございません。**</font>
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/101_004council.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_004council.jpg)

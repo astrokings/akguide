@@ -16,7 +16,7 @@
 
 ### 1) 해금
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_01.jpg)
 
 아티팩트 시스템을 사용하려면 시스템 해금이 선행되어야 합니다.
 
@@ -24,7 +24,7 @@
 
 ### 2) 아티팩트 장착
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_02.jpg)
 
 아티팩트 시스템이 해금되면 상세정보를 확인할 수 있으며, 상세정보에 표시된 시스템 슬롯에 아티팩트를 장착할 수 있습니다.
 
@@ -49,7 +49,7 @@
 
 ### 4) 아티팩트 레벨과 합성
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_03.jpg)
 
 모든 아티팩트는 합성을 통해 최대 10까지 레벨을 올릴 수 있습니다.<br>
 아티팩트의 레벨은 시스템 효과와 코어 아티팩트 버프 수치에 영향을 주며, 장착된 아티팩트 중 가장 낮은 레벨을 기준으로 결정됩니다.
@@ -63,7 +63,7 @@
 
 ## 아티팩트 보관함
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_04.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_04.jpg)
 
 보유 중인 모든 아티팩트는 보관함을 통해 관리됩니다.<br>
 특정한 조건에 맞는 아티팩트만 선별하여 표시할 수 있으며, 아티팩트의 상세한 정보 확인과 합성을 보관함에서도 진행할 수 있습니다.
@@ -74,7 +74,7 @@
 
 ## 미확인 유물 분석
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_05.jpg)
 
 현상수배, 외계함대 전초부대, 차원 균열, 연맹 탐사 등을 진행하면 미확인 유물을 획득할 수 있습니다.<br>
 미확인 유물은 5개의 등급으로 분류되며, 분석을 통해 아이템, 1레벨 일반 아티팩트, 1레벨 코어 아티팩트를 보상 개수만큼 무작위로 획득할 수 있습니다.
@@ -88,7 +88,7 @@
 
 ## 아티팩트 복원
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/1400_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1400_06.jpg)
 
 아티팩트는 복원을 통해서도 획득할 수 있습니다.
 

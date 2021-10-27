@@ -8,7 +8,7 @@
 
 교역소를 업그레이드하면 더 많은 교역 슬롯과 무료 갱신 기회를 얻을 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/105_001listrefresh.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/105_001listrefresh.jpg)
 
 <br>
 
@@ -20,7 +20,7 @@
 
 연맹 증표는 연맹을 탈퇴하거나 이전해도 사라지지 않고 그대로 유지됩니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/105_002fedstore.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/105_002fedstore.jpg)
 
 <br>
 
@@ -31,4 +31,4 @@
 
 공훈 상점에서 제공되는 상품은 각기 판매 기간과 수량이 제한되어 있으므로 주의하시기 바랍니다.
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_12.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_12.jpg)

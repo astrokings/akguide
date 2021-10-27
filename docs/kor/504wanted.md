@@ -14,7 +14,7 @@
 
 현상수배범의 종류
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_01.jpg)
 
 - **불법 점령자** : 군사력을 바탕으로 자원지를 불법으로 점령하고 이득을 취하고 있는 조직의 우두머리.<br>
 - **밀수업자** : 다양한 희귀 물품(아이템) 밀수를 통해 이득을 취하며 그 과정에서 약탈, 살인 등 각종 악질적인 범죄를 저지르는 집단의 두목.<br>
@@ -26,7 +26,7 @@
 
 현상수배범을 수색하려면 수배전단이 반드시 필요합니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_02.jpg)
 
 - **획득** : 수배전단은 일반 우주해적들을 토벌하여 획득할 수 있습니다. 강력한 우주해적을 토벌할 수록 높은 위험도의 수배전단을 얻을 수 있습니다.<br>
 - **위험도** : 위험도는 11단계로 구분되어 있으며, 위험도가 높을수록 다양하고 강력한 현상수배범이 등장합니다.<br>
@@ -39,8 +39,8 @@
 
 수배전단을 사용하여 수색하면 목표 현상수배범을 확인할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_03.jpg)
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_04.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_04.jpg)
 
 - **시간 제한** : 수배전단을 사용하여 수색 후, 제한된 일정 시간 내에만 현상수배범을 공격하거나 소탕이 가능합니다.<br>
 - **재수색** : 목표 현상수배범이 마음에 들지 않는 경우, 수배전단을 다시 사용하여 재수색이 가능합니다.<br>
@@ -56,8 +56,8 @@
 소탕 기능을 이용하기 위해서는 VIP 4레벨 달성과 현상수배범 소탕권 아이템이 필요합니다.
 (일정 횟수만큼 무료로 소탕 기능을 이용할 수 있는 기회가 매일 UTC 00:00시를 기준으로 주어집니다)
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_05.jpg)
-![](http://astrokings.s3.amazonaws.com/html/img/help/504_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_06.jpg)
 
 + **VIP** : VIP 4레벨에 소탕 기능이 해금되며, 레벨이 증가할수록 일일 무료 소탕 기회가 증가합니다.
 + **소탕권 획득** : 소탕권은 상인조합(E.M.U.) 사무소에서 구입이 가능합니다.

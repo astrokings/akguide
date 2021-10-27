@@ -8,7 +8,7 @@
 
 ## 이벤트 구조
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/703_001questevent.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/703_001questevent.jpg)
 
 이벤트 참여 시, 보상 패널과 퀘스트 목록을 지급받습니다.<br>
 퀘스트 목록의 퀘스트를 완료하면, 보상 획득을 시도할 수 있는 포인트를 획득하게 됩니다.<br>
@@ -22,7 +22,7 @@
 
 ## 연맹 포인트와 연맹 랭킹
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/703_002questevent.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/703_002questevent.jpg)
 
 퀘스트를 수행할 때마다 연맹에 점수가 누적 됩니다.<br>
 연맹원들이 퀘스트를 수행할 때 마다 즉시 완료권을 받을 수 있는 게이지가 상승합니다.<br>

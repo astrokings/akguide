@@ -7,7 +7,7 @@
  - 勝敗結果及び自分のランク等級に応じて功勲ポイント獲得量が異なります。
  - 功勲ポイントは功勲ショップにて様々な報酬アイテムと交換できます。<br>
  
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_13.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_13.jpg)
 
 「累積等級」マッチング報酬にボーナス連勝ポイントが追加されます。
  - 6連勝からボーナス連勝ポイントが支給され、20連勝までが対象となります。
@@ -20,7 +20,7 @@
 毎週の集計で達成したランク等級に応じて功勲ポイントとクリスタルを報酬として獲得できます。<br>
 ただし、該当する期間の仮想艦隊戦プレイ記録がないユーザーは、週間集計報酬を受け取ることができません。
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_11_1.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_11_1.jpg)
 
 
 ## シーズン報酬
@@ -36,7 +36,7 @@
 
 功勲ショップで提供される商品はそれぞれ販売期間と数量が制限されていますので、ご注意ください。<br>
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_12.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_12.jpg)
 
 
 #### アイテムのリスト

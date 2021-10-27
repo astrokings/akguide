@@ -2,7 +2,7 @@
 
  連盟員たちは、集結攻撃で敵の惑星やアストロネストを挟み撃ちすることができます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/605_001fedrallyattack.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/605_001fedrallyattack.jpg)
 
 <br>
 
@@ -14,7 +14,7 @@
 
 集結時間の後に到着した艦隊は集結部隊から除かれます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/605_002fedrallytime.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/605_002fedrallytime.jpg)
 
 <br>
 

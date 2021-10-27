@@ -4,7 +4,7 @@
 
  영웅은 내정 및 함대 지휘 임무 등을 수행할 수 있는 중요 자산입니다. 아마데미를 통해 훌륭한 인재를 영입하고, 성장시켜보세요.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/300_001heroinfo.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/300_001heroinfo.jpg)
 
 <br>
 

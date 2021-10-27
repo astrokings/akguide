@@ -2,7 +2,7 @@
 
 ## 1) 英雄管理
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_001_Manage_Heroes.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_001_Manage_Heroes.jpg)
 
 保有中の英雄をレベルアップさせたり、スキルを強化することができます。<br>
 英雄を退役させることができ、委員会へ帰属させることもできます。<br>
@@ -14,7 +14,7 @@
 
 アカデミーで英雄をスカウトできます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_002_Recruit_Hero.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_002_Recruit_Hero.jpg)
 
 
 ### A. 英雄スカウト
@@ -32,7 +32,7 @@
 
 ## 3) 1名スカウトと10名スカウト
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_003_Recruit_Type.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_003_Recruit_Type.jpg)
 
 1名スカウトは1名の英雄のみスカウトします。<br>
 連続でスカウトする場合、スカウト券を使用すると10名の英雄をスカウトでき、クリスタルを使用すると11名の英雄をスカウトできます。<br>
@@ -42,7 +42,7 @@
 
 ## 4) 英雄退役
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/104_004_Retire.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/104_004_Retire.jpg)
 
 英雄管理及び英雄スカウト時、不必要な英雄は退役させることができます。<br>
 英雄退役時、等級及び強化度に応じてDNAエレメントを回収することができ、また、スキルレベルに応じてスキルエレメントを回収できます。

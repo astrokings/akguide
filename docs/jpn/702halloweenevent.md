@@ -16,7 +16,7 @@
 
 #### "彫刻家"テーラー
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/Event_Hero_Taylor.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/Event_Hero_Taylor.jpg)
 
 <br>
 
@@ -24,4 +24,4 @@
 
 #### "ギャンブラー"ターニャ
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/Event_Hero_Tanya.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/Event_Hero_Tanya.jpg)

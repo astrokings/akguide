@@ -3,7 +3,7 @@
 
 ## 進入する
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_02.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_02.jpg)
 
 ワープゲートを通して帝国仮想艦隊戦に進入可能です。<br>
 
@@ -15,7 +15,7 @@
 
 ## ウィークリー環境特性
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_03.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_03.jpg)
 
 艦隊戦が行われる戦場は環境特性というものが存在し、毎週集計時に順番に入れ替わります。<br>
 
@@ -31,7 +31,7 @@
 
 ## 指揮陣形
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_04.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_04.jpg)
 
 指揮陣形とは多数の艦隊が布陣する上で必要な戦略的配置構成です。
  - 艦隊陣形の上位概念です。<br>
@@ -52,7 +52,7 @@
 
 ## 艦隊編成
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_05.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_05.jpg)
 
 帝国仮想艦隊戦に参加するためには3つの艦隊を編成する必要があります。
  - 3つの艦隊で1回のマッチングにつき合計3回の戦闘を行います。<br>

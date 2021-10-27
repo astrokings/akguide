@@ -3,7 +3,7 @@
 
 ## 진입하기
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_02.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_02.jpg)
 
 워프게이트를 통하여 제국 가상 함대전 진입이 가능합니다.<br>
 
@@ -15,7 +15,7 @@
 
 ## 주간 환경 특성
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_03.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_03.jpg)
 
 함대전이 벌어지는 전장은 환경 특성이라는 것이 존재하며, 매주 정산 시 순차적으로 전환됩니다.<br>
 
@@ -31,7 +31,7 @@
 
 ## 지휘 진형
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_04.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_04.jpg)
 
 지휘 진형이란 다수의 함대가 포진하는데에 필요한 전략적 배치 구성입니다.
  - 함대 진형의 상위 개념입니다.<br>
@@ -52,7 +52,7 @@
 
 ## 함대 편성
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_05.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_05.jpg)
 
 제국 가상 함대전에 참여하기 위해서는 총 세 개의 함대를 편성해야 합니다.
  - 세 개의 함대로 매칭 당 총 세 번의 전투를 진행합니다.<br>

@@ -4,4 +4,4 @@
 
 ゲストアカウントから外部サービスへアカウント連動をされる方は、以下のイメージをご参照ください。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/901_001accountset.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/901_001accountset.jpg)

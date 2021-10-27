@@ -8,7 +8,7 @@
 
 ### 1) 連盟プロトコルに進入する
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/609_01howtostart.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/609_01howtostart.jpg)
 
 連盟プロトコルメニューに進入するには連盟研究で連盟プロトコル研究が先行しなければなりません。<br>
 研究レベル１を達成すると連盟プロトコルメニューが開き進入が可能になります。<br>
@@ -17,7 +17,7 @@
 
 ### 2) 連盟プロトコル解禁
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/609_02unlock.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/609_02unlock.jpg)
 
 連盟プロトコルは最初は全てロックされており、各プロトコル毎に解禁過程を経て発動が可能となります。
 
@@ -37,7 +37,7 @@
 
 ### 4) 連盟のプロトコルの種類
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/609_03types.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/609_03types.jpg)
 
 連盟のプロトコルは生産、維持保守、戦闘、採集、治安、貿易等６つのプロトコルで基本的に構成されます。
 
@@ -74,7 +74,7 @@
 
 ### 5) 連盟プロトコル発動とアップグレード
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/609_04activationn.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/609_04activationn.jpg)
 
 連盟プロトコルを発動するためには、一定量の連盟資源と外界遺物が必要です。<br>
 各プロトコルは、それぞれ異なる持続時間を持っており、その時間の間だけ発動効果が維持されます。

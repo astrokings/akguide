@@ -1,6 +1,6 @@
 ## 帝国仮想艦隊戦の進行方式
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1500_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_01.jpg)
 
 帝国仮想艦隊戦では各参加者は3つの仮想艦隊を編成し、他の参加者と仮想艦隊戦を行う事になります。<br>
 

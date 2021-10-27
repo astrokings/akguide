@@ -4,7 +4,7 @@
 
 <br>
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/603_001fedexploration.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/603_001fedexploration.jpg)
 
 探査隊の探査成功報酬は、参加した全ての英雄の能力値合計で決定されます。
 

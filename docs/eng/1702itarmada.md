@@ -1,5 +1,5 @@
 # Expedition	
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1702_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_01.jpg)
 
 The expedition consists of several flagships, ships, and heroes, and all activities in the Interspace are centered on the expedition.	
 	
@@ -42,7 +42,7 @@ If a flagship or ship is damaged, it can be repaired only by moving the expediti
 	
 	
 ### Deploy Fleet
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1702_02.jpg)<br>
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_02.jpg)<br>
 	
 The flagship, ships, and heroes of the expedition can be organized into a fleet to attack a specific base or the expedition of an enemy force.
 
@@ -50,7 +50,7 @@ To deploy a fleet, it must be located in the occupied area of the expedition, an
 	
 	
 ### Supply and Planet Return
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1702_03.jpg)<br>
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_03.jpg)<br>
 	
 You can supply additional flagships, ships, and heroes waiting on your planet through the Interspace within the expedition formation limit.<br>
 Once the supply starts, it takes 1 hour to complete, and when the supply is complete, it will be temporarily placed at the supply station within the Capital base. 	

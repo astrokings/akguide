@@ -6,7 +6,7 @@
 
 [자동 편성] 기능을 활용하면 원터치로 최적의 함대를 구성할 수 있습니다.
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/501_001fleetsetauto.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/501_001fleetsetauto.jpg)
 
 <br>
 

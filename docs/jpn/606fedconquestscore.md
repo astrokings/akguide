@@ -6,4 +6,4 @@
 
 連盟報酬で支給された資源は連盟議長の権限で分配することができ、分配率は [***<u>連盟貢献度</u>***](jp/607fedcontribution#連盟-貢献度)により決定し任意で変更することはできません。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/606_001fedconquestscore.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/606_001fedconquestscore.jpg)

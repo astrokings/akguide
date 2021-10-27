@@ -10,7 +10,7 @@
 함대 강화시설을 통해 함선 강화를 진행할 수 있습니다.<br>
 함대 강화시설은 사령부 레벨 15 이상부터 건설이 가능합니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_01.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_01.jpg)
 
 함대 강화시설 업그레이드 시, 건물 레벨마다 함선 레벨 제한이 일정량 증가합니다.
 
@@ -19,14 +19,14 @@
 
 ### 2) 함선 강화 방식
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_02.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_02.jpg)
 
 프리깃, 디스트로이어, 크루저, 배틀쉽 등 네 종의 함선 중에서 원하는 함선을 강화할 수 있습니다.<br>
 각 함선 별로 무기, 장갑, 엔진 등 세 가지 부위 중에서 원하는 부위를 강화할 수 있습니다.
 
 특정 함종의 부위를 강화하면 해당 함종 전체에 강화 효과가 적용됩니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_03.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_03.jpg)
 
 무기, 장갑, 엔진 부위별 관련 능력치는 다음과 같습니다.<br>
 - 무기 : 공격력, 정확도, 관통력
@@ -41,7 +41,7 @@
 
 ### 3) 함선 강화 슬롯 & 강화 슬롯 활성화
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_06.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_06.jpg)
 
 총 5개의 강화 슬롯으로 구성되며 각각의 슬롯은 서로 다른 함선 강화를 할 수 있습니다.<br>
 기본적으로 3개의 강화 슬롯을 통해 함선 강화를 구성할 수 있으며, 크리스탈을 사용하여 2개의 강화 슬롯을 추가로 구성할 수 있습니다.<br>
@@ -50,14 +50,14 @@
 출전 활성화의 경우 출격하는 모든 함대에 적용되며, 방어 활성화의 경우 행성을 방어하는 모든 함선에 적용됩니다.<br>
 ※ 출전 활성화 변경 시 크리스탈이 소모되며 모든 출격 중인 함대가 있는 경우 변경할 수 없습니다.<br>
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_07.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_07.jpg)
 
 제국 가상 함대전의 경우 3개의 함대에 서로 다른 강화 슬롯을 활성화 할 수 있습니다.<br>
 ※ 방어 활성화, 제국 가상 함대전의 경우 크리스탈 소모 없이 활성화를 변경할 수 있습니다.<br>
 
 ### 4) 함선 강화에 필요한 재료와 자원
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_04.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_04.jpg)
 
 함선 강화에는 골드, 메탈, 토늄, 암흑물질 등 네 종류의 자원 외에도 강화 전용 재료가 필요합니다.
 
@@ -73,7 +73,7 @@
 
 함대 강화시설 내에서 초기화 아이템을 소비하여 함선의 강화 부위별로 초기화가 가능합니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/108_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_05.jpg)
 
 강화 초기화 시에는 강화에 소비된 재료 아이템과 자원을 일부를 되돌려 받을 수 있습니다.<br>
 사용된 초기화 아이템의 종류에 따라서 재료 아이템과 자원의 회수율이 달라집니다.

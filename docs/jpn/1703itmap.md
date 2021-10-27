@@ -1,5 +1,5 @@
 # 地域構成
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_01.jpg)
 	
 ## セクター
 
@@ -13,7 +13,7 @@
 	
 	
 ## 拠点	
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_02.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_02.jpg)
 	
 拠点は通常「灯台」と呼ばれる建物を中心に艦隊が停泊できる半径13セルの領域を意味します。	
 
@@ -25,7 +25,7 @@
 ## 拠点建造物	
 	
 ### アウトポスト	
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_03.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_03.jpg)
 
 最も基本的な単位の拠点として、最大3つの防御艦隊の支援を受ける事ができます。<br>
 通常、この拠点を占領する目的は移動経路の確保となります。	
@@ -33,7 +33,7 @@
 	
 	
 ### シタデル
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_04.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_04.jpg)
 	
 セクター全体の所有権を決定する核心拠点です。<br>
 セクター内の全ての拠点を占領した瞬間、セクターの所有権が変更されます。
@@ -42,7 +42,7 @@
 	
 	
 ### ゲート
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_05.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_05.jpg)
 	
 各セクターを連結する長距離移動用の拠点です。<br>
 基本的に他のセクターへ移動するためには連結されたゲートを通過しなければなりません。
@@ -53,7 +53,7 @@
 	
 	
 ### キャピタル	
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/1703_06.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_06.jpg)
 	
 キャピタルは勢力の中心になる場所で、敵勢力が侵攻できない保護地域です。<br>
 キャピタルは遠征団の出発と帰還、補給が行われる場所です。

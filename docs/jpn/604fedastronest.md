@@ -2,7 +2,7 @@
 
  アストロネストは、宇宙空間の一定領域を占有し保護する連盟の要塞であり、付加的に様々な機能をサポートします。アストロネストの保護領域は他の惑星が移動することはできず、一定半径に他の連盟の要塞も建設できません。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/604_001fedastronest.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/604_001fedastronest.jpg)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 アストロネストに保管した資源は、必要な時にいつでも回収して使用することができ、アストロネストが破壊されない限り安全に保管されます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/604_002fedstorage.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/604_002fedstorage.jpg)
 
 <br>
 
@@ -58,4 +58,4 @@
 
 次元エネルギーは宇宙海賊退治の際、一定確率で獲得できます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/604_006fedscan.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/604_006fedscan.jpg)

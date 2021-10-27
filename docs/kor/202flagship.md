@@ -6,7 +6,7 @@
 
 하지만, 보유할 수 있는 기함의 수는 극히 제한되므로 신중한 선택을 요합니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_001flagshipbuild.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_001flagshipbuild.jpg)
 
 <br>
 
@@ -38,7 +38,7 @@
 
 기함의 레벨에 따라 기함이 가진 기본 능력치가 상승하며, 기함 레벨을 올리기 위해서는 [강화 모듈]이 필요합니다. 강화 모듈은 V1 ~ V6까지 6종류가 존재하며, 고급 모듈일수록 강화도가 큰 폭으로 상승합니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_002flagshiplevel.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_002flagshiplevel.jpg)
 
 <br>
 
@@ -48,7 +48,7 @@
 
 기함 티어 승급에 필요한 재료는 각 기함의 종류와 티어에 따라 달라지며, 기함 승급 화면에서 그 내용을 확인할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_003flagshiptier.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_003flagshiptier.jpg)
 
 <br>
 
@@ -58,7 +58,7 @@
 
 지휘 버프 능력은 [버프 강화 모듈]을 사용하여 강화할 수 있습니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/202_004flagshipbuff.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_004flagshipbuff.jpg)
 
 <br>
 
@@ -79,7 +79,7 @@
 
 ### 5)승무원 및 기함 효과
 
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/202_005spskill.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_005spskill.jpg)
 
 기함이 6티어 이상으로 승급되면 영웅을 승무원으로 탑승시킬 수 있습니다.<br>
 승무원으로 탑승할 수 있는 영웅의 레벨은 다음과 같습니다.
@@ -110,7 +110,7 @@
 
 ### A.공격형
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_offence.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/ico_flagship_type_offence.jpg)
 
 공격에 특화된 기함으로, 공격에 유리한 스탯과 특성을 가지고 있습니다. 해적이나 적 행성을 공격할 때, 다른 타입의 기함보다 효율적입니다.
 
@@ -118,7 +118,7 @@
 
 ### B.방어형
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_defensive.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/ico_flagship_type_defensive.jpg)
 
 방어에 특화된 기함으로, 방어에 유리한 스탯과 특성을 가지고 있습니다. 방어 전투를 치를 때, 다른 타입의 기함보다 효율적입니다. 행성 방어를 위해 한 대 정도의 방어 기함을 갖추는 것이 좋습니다.
 
@@ -126,7 +126,7 @@
 
 ### C.전술형
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/ico_flagship_type_tactical.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/ico_flagship_type_tactical.jpg)
 
 전투 외에 특수한 임무 수행에 유리한 특성을 가지고 있습니다. 자원 채집이나 빠른 행군 속도를 이용한 기습 공격 등 유틸성을 갖춘 타입의 기함입니다.
 

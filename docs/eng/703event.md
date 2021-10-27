@@ -8,7 +8,7 @@ Complete various quests to receive event points and obtain random rewards.<br>
 
 ## How To
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/703_001questevent.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/703_001questevent.jpg)
 
 When you participate in the event, you will be able to view the rewards and quest list.<br>
 When you complete a quest from the Quest List, you will earn points and a chance to obtain rewards.<br>
@@ -22,7 +22,7 @@ Items in the reward list can only be obtained to a certain number of times and r
 
 ## Federation Points and Federation Ranking
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/703_002questevent.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/703_002questevent.jpg)
 
 As you complete the quest, your federation will earn points.<br>
 When a Federation member completes the quest, the points to obtain the 'Finish Now' ticket will increase.<br>

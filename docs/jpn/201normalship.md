@@ -4,7 +4,7 @@
 
 一般艦船は、4つのタイプで分類され、各艦船それぞれ固有の相性や特性関係を持っています。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/201_001shipattribute.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/201_001shipattribute.jpg)
 
 敵の艦隊と交戦する時、艦船を相性優位中心に編成すると、戦闘をさらに有利に勝つことが出来ます。
 
@@ -16,7 +16,7 @@
 
 主な武器として使われるレールガンは、順守した射程距離と貫通力を保有しています。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/201_002frigate.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/201_002frigate.jpg)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 主な武器として使われるビームは命中率が優れていますが、射程が短くビーム抵抗力の高い敵には簡単に無力化されます。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/201_003destroyer.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/201_003destroyer.jpg)
 
 <br>
 
@@ -36,7 +36,7 @@
 
 主な武器として使われるミサイルは比較的長い射程距離と高い攻撃力を誇りますが、機動性の良い小型艦船を攻撃するには適していません。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/201_004cruiser.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/201_004cruiser.jpg)
 
 <br>
 
@@ -48,4 +48,4 @@
 
 現存する最も強力な艦船らしく高い生産費用と修理費が伴います。
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/201_005battleship.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/201_005battleship.jpg)
