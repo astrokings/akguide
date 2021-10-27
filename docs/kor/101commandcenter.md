@@ -6,7 +6,7 @@
 
 정책 방향을 선택한 후에는, 하위에 포함된 세부 정책을 시행하여 다양한 버프 효과를 획득할 수 있으며, 정책 시행에는 일정량의 정책 포인트가 소모됩니다.
 
-![](http://astrokings.s3.amazonaws.com/html/img/help/101_001policy.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_001policy.jpg)
 
 <br>
 
