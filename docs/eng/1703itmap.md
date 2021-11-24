@@ -92,11 +92,12 @@ The expedition can only move to the base occupied by the faction to which it bel
 However, if there is a deployed fleet or support in the expedition, it is impossible to move.
 
 Immediately after the expedition moves, the move waiting time is applied according to the following rules.
-- Occupied or Protected Status: 10 seconds
-- Invasion or Neutral Status: 180 seconds
+- Occupied or Protected Status: 10 seconds + traveled base x 10 seconds
+- Invasion or Neutral Status: 180 seconds + traveled base x 30 seconds
 
 
 ## Defense Fleet
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1703_07.jpg)
 
 A basic level of defense fleet is deployed in occupied sectors.<br>
 The defensive fleet can increase its level through reinforcement (supply function). (Daily Limit 3 times)

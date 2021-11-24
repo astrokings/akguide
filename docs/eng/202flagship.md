@@ -12,9 +12,7 @@ However, the number of available Flagships are very limited.
 
 ### 2)Flagship Limits and Scrapping
 
- As you upgrade the facility, you can build more Flagships. However, the number of Flagships you can have at a time is always less than the number of available Flagship types.
-
-This means you cannot have all types of Flagships at the same time. If necessary, you need to scrap existing Flagships to make room for different type of Flagships. You get only a fraction of the resources back when you scrapping Flagships though.
+ If necessary, you need to scrap existing Flagships to make room for different type of Flagships. You get only a fraction of the resources back when you scrapping Flagships though.
 
 While resources are partially refunded, you retain the equipment that were on the scrapped Flagship.
 
@@ -79,7 +77,7 @@ The lootable devices are as follows:
 - Interceptor: Increases the attack power of the flagship. (Limited to flagships that can be equipped with Interceptor)
 
 
-### 5) Crew and Flagship Special Skill
+### 5)Crew and Flagship Special Skill
 
 ![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_005spskill.jpg)
 
@@ -95,6 +93,30 @@ Depending on the required trait type and stat on the flagship, you can activate 
 
 The flagship special skill effect will remain when no changes are made with the assigned crew members, trait type, and stat.  
 
+
+### 6)Flagship Tactics
+
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_001tactics.jpg)
+
+Flagship Tactics, including Special, Normal, Passive can be unlocked in the Research Facility.
+
+#### (1) Special Tactics
+
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_002tactics.jpg)
+
+   Commander, you may select a special tactic you want and it will only be actived in special circumstances.
+   
+#### (2) Normal Tactics
+
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_003tactics.jpg)
+
+   Commander, you may select a normal tactic you want and it will enhance the ability and command of flagships.
+   
+#### (3) Passive Tactics
+
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_004tactics.jpg)
+
+   Passive Tactics will be equipped to all flagships after completion.
 
 <br>
 

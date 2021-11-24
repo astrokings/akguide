@@ -108,3 +108,9 @@ The skill effect is applied to all the fleet that are participating in the battl
 ## Flagship Command Buff
 
 When in a rally battle, only the Flagship command buff of the rally leader applies to all the fleets participating in the rally. 
+
+
+
+## Flagship Tactics Rules when Rallying
+
+When Rallying, only the Flagship Tactics of the Rally leader are applied.

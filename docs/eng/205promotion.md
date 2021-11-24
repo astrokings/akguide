@@ -41,7 +41,7 @@ However, the equipment type and main option properties, and numerical values of 
 When upgrading to T5 grade, two special options are added as secondary options..<br>
 Also, the maximum enhancement level of the equipment is increased to +50.
 
-Upcoming) The maximum enhancement level will be increased additionally through research.
+T5 Flagship Equipment Max Enhancement I and II allow you to enhance T5 flagship equipment up to +70. 
 
 
 
