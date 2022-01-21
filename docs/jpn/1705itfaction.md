@@ -1,5 +1,5 @@
 # 勢力
-![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_01_fix.jpg)
 
 インタースペースでは連盟ではなく勢力を基盤に活動することになります。
 
@@ -77,7 +77,7 @@
 軍団長は戦場追放、戦場通知、防御艦隊強化提案を実行できる権限を持ちます。
 
 ### 追放
-![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_06.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_06_fix.jpg)
 
 軍団長は戦場での勢力員の活動の妨げとなったり、不適切な行動を取る司令官に「戦闘追放」という制裁を加えることができます。<br>
 制裁を受けた勢力員はキャピタルに追放されます。

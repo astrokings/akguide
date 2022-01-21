@@ -1,5 +1,5 @@
 # Faction
-![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_01_fix.jpg)
 
 In Interspace, you will operate based on factions, not federations.
 
@@ -77,7 +77,7 @@ Every week at 00:00 UTC on Wednesdays, users who have achieved the highest rank 
 The corps commander will have the authority to dismiss, notify the battlefield, and recommend reinforcements for the defense fleet.
 
 ### Dismiss
-![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_06.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_06_fix.jpg)
 
 The corps commander may impose sanctions called 'dismissed from the battlefield' to a commander who interferes with the activities of the faction on the battlefield or behaves inappropriately.<br>
 Members of the sanctioned faction are exiled to the Capital.

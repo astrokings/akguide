@@ -8,7 +8,7 @@ E.M.U. offers special rewards when you defeat each level of space pirates for th
 
 To increase the odds, scout the ship composition of the pirates and organize your fleet with ships that are [***<u>strong</u>***](eng/201normalship#Strengths-and-Weaknesses-of-Ship) against the majority of their ship type.
 
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_001pirate.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_001pirate_fix.jpg)
 
 <br>
 

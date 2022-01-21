@@ -1,5 +1,5 @@
 # 세력
-![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_01_fix.jpg)
 
 인터스페이스에서는 연맹이 아닌 세력을 기반으로 활동하게 됩니다.
 
@@ -77,7 +77,7 @@
 군단장은 전장 추방, 전장 알림, 방어 함대 강화 추천을 진행할 수 있는 권한을 갖게 됩니다.
 
 ### 추방
-![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_06.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_06_fix.jpg)
 
 군단장은 전장에서의 세력원들 활동에 방해가 되거나 올바르지 않은 행동을 하는 사령관에게 '전장 추방' 이라는 제재를 가할 수 있습니다.<br>
 제재받은 세력원은 캐피탈이 있는 캐피탈 섹터로 추방됩니다.

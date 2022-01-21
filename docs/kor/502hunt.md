@@ -6,7 +6,7 @@
 
 상대할 해적의 주력 함선을 확인하고 [***<u>상성</u>***](kor/201normalship#함선-상성-관계) 우위에 있는 함선으로 함대를 편성하면 승리 확률은 더욱 높아집니다.
 
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_001pirate.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_001pirate_fix.jpg)
 
 <br>
 

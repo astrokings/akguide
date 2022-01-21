@@ -1,5 +1,5 @@
 # Expedition	
-![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_01.jpg)
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_01_fix.jpg)
 
 The expedition consists of several flagships, ships, and heroes, and all activities in the Interspace are centered on the expedition.	
 	
@@ -42,23 +42,21 @@ If a flagship or ship is damaged, it can be repaired only by moving the expediti
 	
 	
 ### Deploy Fleet
-![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_02.jpg)<br>
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_02.jpg)
 	
 The flagship, ships, and heroes of the expedition can be organized into a fleet to attack a specific base or the expedition of an enemy force.
 
 To deploy a fleet, it must be located in the occupied area of the expedition, and the fleet must consist of one flagship and at least 1,000  ships.	
 	
 	
-### Supply and Planet Return
-![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_03.jpg)<br>
+### Deploy and Return Fleet
+![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1702_03_fix.jpg)
 	
-You can supply additional flagships, ships, and heroes waiting on your planet through the Interspace within the expedition formation limit.<br>
-Once the supply starts, it takes 1 hour to complete, and when the supply is complete, it will be temporarily placed at the supply station within the Capital base. 	
-	
-If you want to change the arrangement between the fleet in the supply depot and the expedition, you must first move (return) the expedition to the capital base location.	
-	
-You can check the status of the fleet deployed to the supply depot through the capital base or the faction's [Capital Depot].<br>
-Also, you can return as many fleets as you want back to your planet if you're left in the supply post.	
+You can instantly place idle flagships, non-ships and heroes from home planet to the expedition however, they cannot exceed the size of the expedition.<br>
+
+To change the fleet setup, the expedition must be placed in the Capital, and a small cost will be required.<br>
+
+Heroes and flagships of the expedition can be returned to home planet only when they are not damaged or being repaired.
 	
 	
 ## Annihilation and Disbandment	
@@ -75,7 +73,7 @@ In the state of annihilation, movement outside the Capital Sector is not possibl
 	
 ### Disbandment	
 	
-If you leave a faction you belong to, all fleets in the expedition and Capital Depot will be disbanded and will immediately return to your planet.
+The entire forces of the expedition will be dismissed and returned to home planet instantly when you leave the Faction.
 
 When the expedition's assigned ships return to the planet, all the ship units that exceed the capacity of the Space Dock will be discarded.<br>
 However, E.M.U. will issue ship purchase order items to 10% of the discarded units.

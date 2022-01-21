@@ -60,6 +60,8 @@ The Capital is where the departure, return, and supply of the expedition takes p
 
 The expedition can immediately return to the Capital at any time.
 
+You can move to sectors owned by your Faction using the long-distance jump.
+
 
 ## Sector Status
 

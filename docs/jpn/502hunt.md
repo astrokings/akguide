@@ -6,7 +6,7 @@
 
 相手の海賊の艦船を確認して [***<u>相性</u>***](jp/201normalship#艦船-相性-関係) 優位にある艦船で編成すると勝つ確率がさらに高まります。
 
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_001pirate.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/502_001pirate_fix.jpg)
 
 <br>
 
