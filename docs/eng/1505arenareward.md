@@ -8,11 +8,6 @@ Merit Points can be earned based on the outcome of the match.
  - Merit Points can be exchanged with items from the Merit Shop.<br>
  
 ![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_13.jpg)
-
-[Cumulative Rewards] Winning Streak points will be added.
- - If you win 6 times in a row, you will get victory points and it increases upto 20 wins.
- - 20% will be added for each stages, up to 300%.
- - Winning Streak points will be reset when you lose. <br>
  
 
 ## Weekly Settlement Reward

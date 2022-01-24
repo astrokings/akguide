@@ -11,9 +11,8 @@ The matching page selects 5 potential opponents and displays them as a list.
 Matching list can be refreshed for free every 4 hours.
  - Refreshing the list using crystals is also possible.
  - To reset matching opponents list, you need to battle with 5 opponents from the ranking list.
- - Can use [Discard] and can use up to 10 times. 
  - When you use daily discard cards, you can purchase Empire Arena tickes.
- - However, from the [Competitive Grade] matching, you cannot use [Discard] or paid reset.<br>
+ - However, from the [Competitive Grade] matching, you cannot use paid reset.<br>
 
 In the Skipper and Sailor levels, if the number of matching people is insufficient, NPC targets may be matched.
  - At other higher levels, you must wait for the minimum number of players required to participate.<br>
