@@ -73,5 +73,4 @@
   - [15-6.보상](kor/1706itreward.md)  
 * 16.기타
   - [16-1.채팅창 기능](kor/1601otherschatting.md)
-* [17.FAQ](kor/1100faq.md)
 

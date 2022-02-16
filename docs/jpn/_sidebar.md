@@ -73,5 +73,4 @@
   - [15-6.報酬](jpn/1706itreward.md)    
 * 16.その他
   - [16-1.チャット機能](jpn/1601otherschatting.md)  
-* [17.FAQ](jpn/1100faq.md)
 

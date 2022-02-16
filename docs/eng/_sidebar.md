@@ -73,5 +73,4 @@
   - [15-6.Rewards](eng/1706itreward.md)    
 * 16.Others
   - [16-1.Chat Function](eng/1601otherschatting.md)
-* [17.FAQ](eng/1100faq.md)
 
