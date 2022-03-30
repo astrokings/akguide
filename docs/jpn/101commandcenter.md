@@ -22,13 +22,21 @@
 
  高級政策であるほど要求される政策ポイントの量が増えます。
 
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_003policypoint.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_003policy.jpg)
 
 <br>
 
 ### 4)政策の初期化
 
  国家政策を初期化すると、既に使用した政策ポイントは全て回収されます。
+ 
+<br>
+
+### 5) 国家政策プリセット
+
+ 国家政策を自由に設定し、保存することができます。
+ 国家政策プリセット機能は、一定のVIPレベルに達すると利用できるようになります。
+
 
 <br>
 

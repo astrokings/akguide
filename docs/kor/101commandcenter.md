@@ -22,13 +22,20 @@
 
  고급 정책일수록 요구되는 정책 포인트의 양은 늘어납니다.
 
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_003policypoint.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_003policy.jpg)
 
 <br>
 
 ### 4)정책 초기화
 
  국가 정책을 초기화하면, 기존에 사용된 정책 포인트는 모두 회수됩니다.
+ 
+<br>
+
+### 5)국가정책 프리셋
+
+ 국가 정책을 원하는 정책으로 설정 후, 저장할 수 있습니다.
+ 국가 정책 프리셋 기능은 일정 VIP 레벨 달성 이후 이용 가능합니다.
 
 <br>
 

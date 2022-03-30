@@ -22,13 +22,21 @@ Once you decided a National Policy, you can enforce sub policies for buffs. Enfo
 
  Higher the tier of a policy, the more Policy Points it requires.
 
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_003policypoint.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/101_003policy.jpg)
 
 <br>
 
 ### 4)Reset Policy
 
  All spent Policy Points are refunded when National Policies are reset.
+
+<br>
+
+### 5)National Policy Preset
+
+You can save the National Policy of your choice after setting them.
+The National Policy Preset feature will be available after reaching a certain VIP level. 
+
 
 <br>
 
