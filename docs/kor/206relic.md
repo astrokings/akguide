@@ -97,7 +97,7 @@
 
 ## (1)프리깃
 
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/206_001_frigate.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/206_001frigate.jpg)
 
 | 렐릭 | 능력치 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | - | - | - | - | - | - | - | - | - | - | - | - |
