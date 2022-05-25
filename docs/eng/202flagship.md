@@ -10,15 +10,7 @@ However, the number of available Flagships are very limited.
 
 <br>
 
-### 2)Flagship Limits and Scrapping
-
- If necessary, you need to scrap existing Flagships to make room for different type of Flagships. You get only a fraction of the resources back when you scrapping Flagships though.
-
-While resources are partially refunded, you retain the equipment that were on the scrapped Flagship.
-
-<br>
-
-### 3)Damaged Flagship and Repairing
+### 2)Damaged Flagship and Repairing
 
  Unlike normal ships, Flagships cannot be destroyed. When your Flagship is severely damaged, it cannot be deployed until it is repaired.
 

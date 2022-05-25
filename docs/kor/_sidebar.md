@@ -13,6 +13,7 @@
   - [2-3.기함 장비 제작](kor/203flagshipequip.md)
   - [2-4.기함 장비 분해](kor/204disassemble.md)
   - [2-5.기함 장비 승급/개조](kor/205promotion.md)
+  - [2-6.함선 렐릭 회로](kor/206relic.md)
 * [3.영웅](kor/300hero.md)
 * [4.자원](kor/400resource.md)
 * 5.전투

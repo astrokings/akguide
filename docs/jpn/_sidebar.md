@@ -13,6 +13,7 @@
   - [2-3.旗艦の装備製作](jpn/203flagshipequip.md)
   - [2-4.旗艦の装備分解](jpn/204disassemble.md)
   - [2-5.旗艦の装備昇級及び改造](jpn/205promotion.md)
+  - [2-6.艦船レリック回路](jpn/206relic.md)
 * [3.英雄](jpn/300hero.md)
 * [4.資源](jpn/400resource.md)
 * 5.戦闘

@@ -31,7 +31,7 @@ Enhancing the parts of your ships will strengthen all ships of the same type.
 Ship Parts Abilities<br>
 - Weapon: Attack Power, Accuracy, Penetrate
 - Armor: Durability, Rail Gun Resistance, Beam Resistance, Missile Resistance, Cannon Resistance 
-- Engine: Rail Gun Evasion, Beam Evasion, Cannon Evasion, Attack Speed, Loadage
+- Engine: Rail Gun Evasion, Beam Evasion, Cannon Evasion, Durability, Loadage
 
 The increase in stats are applied differently depending on the ship's tier. 
 
