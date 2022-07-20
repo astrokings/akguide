@@ -73,7 +73,7 @@ The lootable devices are as follows:
 
 ![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_005spskill.jpg)
 
-When the flagship is promoted to tier 6 or higher, you can assign a hero on board as a crew member.<br>
+When the flagship is promoted to tier 2 or higher, you can assign a hero on board as a crew member.<br>
 The following are the levels of heroes that can board the flagship as crew members.
 - C grade: Level 30 or higher
 - B grade: Level 40 or higher
@@ -148,3 +148,12 @@ It is recommended you prepare a Guardian Flagship for planetary defense.
 
 This Flagship has special characteristics for special missions other than battles.
 It may possess faster resource harvesting speed, ambush attacks based on quick marching speed, etc.
+
+<br>
+
+# Flagship Bookmark
+
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_001bookmark.jpg)
+
+You can change the sort order by bookmarking the flagship.
+The bookmarked flagships will also be sorted in the 'Organize Fleet' screen.

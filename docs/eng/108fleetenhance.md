@@ -37,9 +37,18 @@ The increase in stats are applied differently depending on the ship's tier.
 
 Enhancing the parts will increase the ship's level. <br>
 Each ship level has restrictions, so consider wisely when you enhance the parts of your ship.
+
 <br>
 
-### 3) Ship Enhancement Slot and Activation
+### 3) Ship Enhancement Effect
+
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_08.jpg)
+
+When enhancing the ship, the effects are added according to the enhancement level.
+
+<br>
+
+### 4) Ship Enhancement Slot and Activation
 
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_06.jpg)
 
@@ -53,10 +62,26 @@ Deployment Activation applies to all participating fleets, and for Defense Activ
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_07.jpg)
 
 Different enhancement slots can be applied to the three fleets from the Empire Arena Battle.<br>
-※ No crystals will be used when changing the enhancement slot for Defense Fleet and Empire Arena Fleets.  <br>
+※ No crystals will be used when changing the enhancement slot for Defense Fleet and Empire Arena Fleets.
 
+<br>
 
-### 4) Reset the Ship Enhancement
+### 5) Required Materials and Resources
+
+![](http://astrokings.s3.amazonaws.com/html/img/help/108_04.jpg)
+
+You need Gold, Metal, Thonium, Dark Matter, and Ship Enhancement Materials.
+
+There are three types of Ship Enhancement Materials.
+- Ship Weapon Enhancement Materials
+- Ship Armor Enhancement Materials
+- Ship Engine Enhancement Materials
+
+Enhancement items can be obtained from the Dimension Rift battle. 
+
+<br>
+
+### 6) Reset the Ship Enhancement
 
 You can reset each enhanced parts with reset items in the Ship Enhancement Facility.
 
