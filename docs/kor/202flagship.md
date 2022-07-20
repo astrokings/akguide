@@ -150,7 +150,7 @@
 
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_001bookmark.jpg)
 
-기함을 북마크하여 정렬 순서를 변경할 수 있습니다.
+기함을 북마크하여 정렬 순서를 변경할 수 있습니다.<br>
 북마크가 적용된 기함은 함대 편성 화면에서도 정렬 순서가 변경됩니다.
 
 

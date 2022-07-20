@@ -155,5 +155,5 @@ It may possess faster resource harvesting speed, ambush attacks based on quick m
 
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_001bookmark.jpg)
 
-You can change the sort order by bookmarking the flagship.
+You can change the sort order by bookmarking the flagship.<br>
 The bookmarked flagships will also be sorted in the 'Organize Fleet' screen.
