@@ -79,7 +79,8 @@ It can be occupied by other factions in adjacent sectors at any time.
 
 Another faction has infiltrated a sector owned by a certain faction.<br>
 Invasion status is maintained for 4 hours after status change.<br>
-After defending all Citadels for 4 hours in the Invasion state, the state changes to a Protected state<br>
+After defending all Citadels for 4 hours in the Invasion state, the state changes to a Protected state. (Defense Success)<br>
+If all the expeditions of the invading faction retreat in the state of invasion, regardless of whether the base is occupied or not, it becomes the possession of the existing occupying faction and changes to the protection state. (Defense Success)<br>
 If more than one faction owns the Citadel within the time limit, the sector's ownership is changed to neutral.
 
 ### Protected
