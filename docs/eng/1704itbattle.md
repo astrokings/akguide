@@ -41,5 +41,5 @@ The defending fleet that supported the base will return to the expedition if the
 
 If there is no flagship available to deploy due to damage to the flagship or the total number of ships of the expedition is less than 1,000, it is classified as incapable of combat.	
 
-If all the flagships of the expedition are destroyed and the number of available ships is less than 1000, it is classified as annihilated.<br>
+If the number of available ships is less than 1000, it is classified as annihilated.<br>
 the state of annihilation of the expedition, if it is defeated by an additional attack, it is forcibly returned to the capital.	

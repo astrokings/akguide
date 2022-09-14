@@ -13,7 +13,7 @@ E.M.U. and the entire galaxies are watching who will be the Federation to defeat
 
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_02.jpg)
 
-The battle starts at  UTC (Saturday) and will be held for 8 hours once every 4 weeks. <br>
+The battle starts at  UTC (Saturday) and will be held for 4 hours once every 4 weeks. <br>
 
 Commanders will fight to take control of Tenebris and the 6 satellites.
 6 satellites will serve as the bridgeheads for the Tenebris and can only be owned by one Federation.<br>
