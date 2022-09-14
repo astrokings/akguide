@@ -65,7 +65,6 @@ Heroes and flagships of the expedition can be returned to home planet only when 
 	
 During Interspace activities, the expedition is considered annihilated if the following conditions occur:	
 
-- When all the flagships of the expedition are damaged	
 - When the number of ships that can be deployed in the expedition is less than 1000
 
 When annihilated, the expedition is immediately forced to move to the capital sector of the faction it belongs to.<br>
@@ -81,10 +80,9 @@ However, E.M.U. will issue ship purchase order items to 10% of the discarded uni
 
 ## Long-distance travel
 
-It is energized by the capital and moves to the target sector in one step.
+It receives energy from the Capital and moves to the target sector at once.
 
-This can only be used if the expedition is located in the Capital.<br>
-Movement is possible only when the target sector is occupied and protected by the faction it belongs to, and long-distance movement is possible only when the movement path is safe.
+It can only be used if the expedition is located in the Capital.<br>
+It can only move if the patch of movement from the Capital to the target sector is safe.
 
-Move latency is added by 2 minutes per move sector.<br>
-It is moved to a movable position among several gates present in the target sector.
+Move latency is added by 2 minutes per move sector.

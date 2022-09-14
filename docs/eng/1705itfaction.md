@@ -106,6 +106,20 @@ The number of defense fleets that can be recommended is specified.
 
 The recommendation for strengthening the defense fleet is canceled when the defense fleet reaches the maximum level or when the recommendation setting is turned off.
 
+### Cancel Protected Sector
+
+The corps commander can cancel the protection status of sectors occupied by friendly forces.
+
+### Execute Attack Order
+
+The corps commander can issue an attack order on the sectors of the enemy forces.
+
+Attack orders can only be executed from the Capital.
+Attack orders can be executed on sectors occupied by friendly forces and adjacent sectors occupied by enemy forces.<br>
+When an attack command is executed, it is changed into waiting for invasion state.
+
+Allied faction members may participate in the sector where an attack order is executed.
+
 
 ## Faction Notice
 
