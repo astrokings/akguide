@@ -13,7 +13,8 @@
   - [2-3.Flagship Equipment Crafting](eng/203flagshipequip.md)
   - [2-4.Flagship Equipment Disassemble](eng/204disassemble.md)
   - [2-5.Flagship Equipment Upgrades & Remodeling](eng/205promotion.md)
-  - [2-6.Ship Relic Circuit](eng/206relic.md)
+  - [2-6.DNA Tunnel Effect](eng/207dnatunnel.md)
+  - [2-7.Ship Relic Circuit](eng/206relic.md)
 * [3.Hero](eng/300hero.md)
 * [4.Resource](eng/400resource.md)
 * 5.Battle
