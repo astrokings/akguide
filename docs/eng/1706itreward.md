@@ -6,7 +6,8 @@ Contribution Points are new goods in Interspace that are acquired and used separ
 
 Actions in Interspace are converted into 'Contribution Points' and paid to the commander.<br>
 You can acquire it according to your contribution in battles occurring in Interspace, strengthening the defense fleet, occupying a sector, or succeeding in defense.<br>
-It accumulates after joining a faction, and when you leave the faction you joined, all the contribution points earned from that faction are reset.
+
+Contribution points are accumulated after joining a faction, and when you leave the faction you joined, all the contribution points earned from that faction are reset.
 
 Contribution points can be exchanged for 'Coins', a currency used in Interspace through the Faction Shop.<br>
 You can collect coins to purchase items needed for growth in the shop.

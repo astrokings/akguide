@@ -71,10 +71,15 @@ After completing the refuge process, you will need to wait for 1-day to apply fo
 When you join a faction, you will be given the title of 'Member' by default. You may be appointed to the position of 'Corps' depending on your subsequent activities.<br>
 When you become a 'Corps', you can lead battles that occur between factions with authority.
 
-A maximum of 6 corps commanders is appointed per faction.<br>
-Every week at 00:00 UTC on Wednesdays, users who have achieved the highest rank in the faction contribution ranking by that point are appointed as Corps.
+A maximum of 6 corps commanders can be appointed per faction.
+A corps commander is appointed every Wednesday at 00:00 (UTC), a user who meets the following conditions.
 
-The corps commander will have the authority to dismiss, notify the battlefield, and recommend reinforcements for the defense fleet.
+- Users with the highest cumulative contribution among users who have earned more than 2,500 weekly contribution
+
+The corps commander will have the authority to expel the commander from the battlefield, manage battlefield notice,  recommend defense fleet reinforcement, and more.
+
+- Cumulative Contribution : The cumulative contribution earned from the affiliated faction
+- Weekly Contribution : Contributions earned from affiliated faction for 1 week (Based on  00:00 (UTC) every Wednesday)
 
 ### Dismiss
 ![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1705_06_fix.jpg)

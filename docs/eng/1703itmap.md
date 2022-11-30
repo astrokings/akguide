@@ -75,6 +75,13 @@ It remains neutral until all Citadels in the sector are captured.
 A certain faction has captured all Citadels in a sector.<br>
 It can be occupied by other factions in adjacent sectors at any time.
 
+### Invasion Maintenance State
+
+A sector owned by a certain faction is infiltrated by other factions.<br>
+The invasion maintenance state lasts for 30 minutes.<br>
+The win or loss of the sector is not determined in the invasion maintenance state, and the victory or defeat of the sector is decided when the invasion maintenance state ends.<br>
+If two or more factions own Citadel within the time limit, the sector's status is changed to Invasion.
+
 ### Invasion
 
 Another faction has infiltrated a sector owned by a certain faction.<br>

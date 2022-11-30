@@ -9,7 +9,6 @@ To harvest more resources, complete research projects or use items that boost ha
 | Metal         | 1 point per 125 harvest |
 | Thonium       | 1 points per 25 harvest  |
 | Dark Matter   | 1 points per 5 harvest   |
-| Crystal   | 53 points per 1 harvest   |
 
 <br>
 
