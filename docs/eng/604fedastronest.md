@@ -50,14 +50,12 @@ Of course, you can reconstruct a new Astronest. The resources that were stored i
 
 ### 4)Astronest Defense and Support Fleet
 
- When your Astronest is under attack, the fleets of your Federation Leader engage the attackers by default.
+If an enemy attacks the Astronest, the Federation leader's defense fleet will fight the attack by default.
 
-If there is a Federation Member whose fleets are stronger than the leaders’, the leader may assign the guard duty to that member.
+If the Astronest needs to be defended, the defending fleet will immediately teleport to the battle and return to the planet when the battle is over.
+These are automatically processed.
 
-When the Astronest is under attack, the fleets on the guard duty automatically jump in and join the battle and return to their original base once the battle is over.
-
-Federation Members may send support fleets to defend their Astronest.
-
+Federation members may send additional support fleets to help defend the Astronest.
 <br>
 
 ### 5)Scan Alien Fleets
