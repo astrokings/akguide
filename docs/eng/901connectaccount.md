@@ -8,7 +8,6 @@ Using platforms that are compatible to both AOS/iOS allows you to continue with 
 Compatible Platforms
 - Google (AOS)
 - Apple (iOS)
-- Game Center (iOS)
 - Facebook (AOS/iOS)
 
 How to link account (after running game) 
