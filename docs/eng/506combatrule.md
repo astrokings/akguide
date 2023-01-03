@@ -94,7 +94,7 @@ Combat results are always defeated.<br>
 ### 1) Passive Skill
 
 When in a rally battle, the passive skill is only applied to the user's ship.<br>
-
+However, if the hero with passive mobility is deployed, it will be applied to the same ship type as that of the commander.
 
 ### 2) Active Skill
 
