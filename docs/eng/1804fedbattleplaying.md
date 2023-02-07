@@ -115,10 +115,10 @@ Here's how to earn individual points.
 - When defending a base or friendly planet, you earn points according to the combat power of the opponent you reduced.<br>
   If there are multiple defending fleets, points are distributed according to their combat power ratio.
 
-| 상황 | 감소시킨 전투력 | 획득 개인 포인트 |
+| Situation | Reduce Combat Power | Earn Individual Point |
 | - | - | - |
-| 거점 또는 행성 공격 시 | 1,250,000 | 1 |
-| 거점 또는 행성 방어 시 | 2,500,000 | 1 |
+| When attacking base or planet | 1,250,000 | 1 |
+| When defending base or planet | 2,500,000 | 1 |
 
 The higher the individual point acquisition, the more rewards are given.
 
