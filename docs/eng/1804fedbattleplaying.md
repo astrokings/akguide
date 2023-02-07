@@ -2,7 +2,7 @@
 
 ## Federation War Battle
 
-! 스크린샷 삽입 필요
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1804_01.jpg)
 
 When you enter the Federation War battle, you will move to a separate battlefield prepared for the Federation War.<br>
 You cannot leave the battlefield until you choose to abandon the battle, and you cannot rejoin after leaving the battle.
@@ -38,6 +38,8 @@ Before participating in battle, you must enter the battlefield with all preparat
 
 ## Ship/Flagship Repair Support
 
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1804_02.jpg)
+
 No resources are consumed to repair ships and flagships during the Federation War.<br>
 Additionally, all damaged ships and flagships will be restored once the battle is over.
 
@@ -47,6 +49,8 @@ Additionally, all damaged ships and flagships will be restored once the battle i
 
 
 ## Safe Zone
+
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1804_03.jpg)
 
 When entering Federation War, the user's planet is placed in a safe zone.<br>
 Within the safe zone, the following restrictions apply.
@@ -71,6 +75,8 @@ Points earned until the battle is abandoned are maintained, and re-entry is not 
 
 
 ## Base
+
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1804_04.jpg)
 
 Federation points and individual points can be obtained by capturing bases.<br>
 In the case of some bases, beneficial buffs are applied to all federation members when captured.
@@ -109,6 +115,11 @@ Here's how to earn individual points.
 - When defending a base or friendly planet, you earn points according to the combat power of the opponent you reduced.<br>
   If there are multiple defending fleets, points are distributed according to their combat power ratio.
 
+| 상황 | 감소시킨 전투력 | 획득 개인 포인트 |
+| - | - | - |
+| 거점 또는 행성 공격 시 | 1,250,000 | 1 |
+| 거점 또는 행성 방어 시 | 2,500,000 | 1 |
+
 The higher the individual point acquisition, the more rewards are given.
 
 <br>
@@ -125,7 +136,7 @@ The higher the individual point acquisition, the more rewards are given.
 | Tenebris | Satellite Controller Special Buff | Not Applied |
 | Trade Planet | Trade Planet Occupation Buff | Not Applied |
 | Trade Planet | Trade Planet Faction Buff | Applied |
-| Federation | Federation Protocol | Not Applied |
+| Federation | Federation Protocol | Applied |
 | Federation | Federation Research | Applied |
 | Federation | Astronest Buff | Not Applied |
 | Event | Happy Hour Event | Not Applied |

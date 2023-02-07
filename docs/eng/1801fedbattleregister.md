@@ -2,8 +2,6 @@
 
 ## Imperial Federation War Registration
 
-! 스크린샷 삽입 필요
-
 Federation War registration will be held for 2 days from Wednesday in UTC.<br>
 Only federation members with a G4 or higher rank can register for Federation War.
 
@@ -26,7 +24,7 @@ To register for Federation War, you must meet the registration conditions below.
 
 ## Roster Registration
 
-! 스크린샷 삽입 필요
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1801_01.jpg)
 
 Only federation members with a command center level of 25 or higher can be listed in the Federation War roster.<br>
 You can register up to 20 regular participants and up to 5 reserve participants.<br>
@@ -40,7 +38,7 @@ However, if you do not register at least 10 participants, you will not be able t
 
 ## Match Time Registration
  
-! 스크린샷 삽입 필요
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1801_02.jpg)
 
 Federation War battles will be held at 2:00 / 7:00 / 12:00 / 17:00 UTC.<br>
 You must select 2 or more match schedules when registering the match times.

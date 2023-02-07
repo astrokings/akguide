@@ -6,7 +6,7 @@
 
 | Occupation Round | Federation Point<br/>(First Occupation) | Federation Point<br/>(Occupation Maintenance) | Individual Point<br/>(First Occupation) | Individual Point<br/>(Occupation Maintenance) |
 | - | :-: | :-: | :-: | :-: |
-| Round 1 | +1500 | +300 | +1500 | +150 |
+| Round 1 | +900 | +300 | +900 | +150 |
 
 <br>
 <br>
@@ -18,7 +18,7 @@
 
 | Occupation Round | Federation Point<br/>(First Occupation) | Federation Point<br/>(Occupation Maintenance) | Individual Point<br/>(First Occupation) | Individual Point<br/>(Occupation Maintenance) |
 | - | :-: | :-: | :-: | :-: |
-| Round 1 | +3000 | +600 | +3000 | +300 |
+| Round 1 | +1500 | +500 | +1500 | +250 |
 
 <br>
 <br>
@@ -30,7 +30,7 @@
 
 | Occupation Round | Federation Point<br/>(First Occupation) | Federation Point<br/>(Occupation Maintenance) | Individual Point<br/>(First Occupation) | Individual Point<br/>(Occupation Maintenance) | Occupation Effect |
 | - | :-: | :-: | :-: | :-: | :-: |
-| Round 1 | +600 | +120 | +600 | +60 | Fleet Durability Increase |
+| Round 1 | +360 | +120 | +360 | +60 | Fleet Durability Increase |
 
 <br>
 <br>
@@ -42,7 +42,7 @@
 
 | Occupation Round | Federation Point<br/>(First Occupation) | Federation Point<br/>(Occupation Maintenance) | Individual Point<br/>(First Occupation) | Individual Point<br/>(Occupation Maintenance) | Occupation Effect |
 | - | :-: | :-: | :-: | :-: | :-: |
-| Round 1 | +600 | +120 | +600 | +60 | Fleet Marching Speed Increase |
+| Round 1 | +360 | +120 | +360 | +60 | Fleet Marching Speed Increase |
 
 <br>
 <br>
@@ -54,7 +54,7 @@
 
 | Occupation Round | Federation Point<br/>(First Occupation) | Federation Point<br/>(Occupation Maintenance) | Individual Point<br/>(First Occupation) | Individual Point<br/>(Occupation Maintenance) |
 | - | :-: | :-: | :-: | :-: |
-| Round 2 | +6000 | +1200 | +6000 | +600 |
+| Round 2 | +5400 | +1800 | +5400 | +900 |
 
 <br>
 <br>
@@ -66,7 +66,7 @@
 
 | Occupation Round | Federation Point<br/>(First Occupation) | Federation Point<br/>(Occupation Maintenance) | Individual Point<br/>(First Occupation) | Individual Point<br/>(Occupation Maintenance) | Occupation Effect |
 | - | :-: | :-: | :-: | :-: | :-: |
-| Round 3 | +900 | +180 | +900 | +90 | Fleet Attack Power Increase |
+| Round 3 | +1500 | +500 | +1500 | +250 | Fleet Attack Power Increase |
 
 <br>
 <br>
@@ -78,7 +78,7 @@
 
 | Occupation Round | Federation Point<br/>(First Occupation) | Federation Point<br/>(Occupation Maintenance) | Individual Point<br/>(First Occupation) | Individual Point<br/>(Occupation Maintenance) | Occupation Effect |
 | - | :-: | :-: | :-: | :-: | :-: |
-| Round 3 | +900 | +180 | +900 | +90 | Fleet Size Increase |
+| Round 3 | +1500 | +500 | +1500 | +250 | Fleet Size Increase |
 
 <br>
 <br>

@@ -14,7 +14,7 @@
 
 ## Imperial Federation War Time & Progress
 
-Federation matches are held once every 4 weeks, starting on Wednesday UTC that last for 4 days.
+Federation War will start on Wednesday UTC and run for 4 days.
 - Registration Period : Wednesday & Thursday UTC (2 days)
 - Matching Period : Friday UTC
 - Battle Period : Saturday UTC
