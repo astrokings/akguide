@@ -41,7 +41,7 @@ Before participating in battle, you must enter the battlefield with all preparat
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1804_02.jpg)
 
 No resources are consumed to repair ships and flagships during the Federation War.<br>
-Additionally, all damaged ships and flagships will be restored once the battle is over.
+In addition, all ships and flagships damaged during the Federation War will be restored once the battle is over.
 
 <br>
 <br>
@@ -84,6 +84,17 @@ In the case of some bases, beneficial buffs are applied to all federation member
 If you successfully capture a base by attacking it for a set amount of time, you will occupy the base.
 
 <br>
+
+### ※ Captured/Occupied State
+- Captured
+  - The attack on the base was successful, and the base was captured.
+  - You must maintain this state for 2 minutes to successfully capture the base.
+  - Points cannot be earned while in this state.
+- Occupied
+  - The base has been successfully captured for 2 minutes and is completely occupied.
+  - First occupation and occupation maintenance points can be acquired only when the base is occupied.
+
+<br>
 <br>
 <br>
 
@@ -107,7 +118,7 @@ Not only does victory or defeat depend on the number of federation points earned
 Here's how to earn individual points.
  
 - The first user to capture each base will receive the first occupation points.<br>
-  In the case of a rally attack, points are distributed according to the combat power ratio.<br><br>
+  In the case of a rally attack, points are awarded evenly.<br><br>
 - Occupation maintenance points are acquired every minute when a base is captured.<br>
   All users who dispatched a defense fleet to the base receive points.<br><br>
 - Attack bases or planets of hostile users to earn points according to the combat power of the opponent.<br>

@@ -41,7 +41,8 @@ If the number of entries reaches 20, even if users  have abandoned the battle, a
 ## Battle Waiting Period
  
 The battle waiting period begins 10 minutes prior to the match time selected as a result of matching.<br>
-During the waiting time for the battle, only regular members can enter the battle.
+During the waiting time for the battle, only regular members can enter the battle.<br>
+During the battle waiting period, actions other than checking the target's information are restricted, and abandoning the battle is not possible.
 
 <br>
 <br>
