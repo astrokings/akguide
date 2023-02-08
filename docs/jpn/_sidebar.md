@@ -72,7 +72,14 @@
   - [15-3.地域構成](jpn/1703itmap.md)
   - [15-4.戦闘](jpn/1704itbattle.md)
   - [15-5.勢力](jpn/1705itfaction.md)
-  - [15-6.報酬](jpn/1706itreward.md)    
-* 16.その他
-  - [16-1.チャット機能](jpn/1601otherschatting.md)  
+  - [15-6.報酬](jpn/1706itreward.md)
+* [16.帝国連盟対戦](jpn/1800fedbattlemain.md)
+  - [16-1.登録](jpn/1801fedbattleregister.md)
+  - [16-2.マッチング](jpn/1802fedbattlematching.md)
+  - [16-3.戦闘入場](jpn/1803fedbattleentrance.md)
+  - [16-4.戦闘](jpn/1804fedbattleplaying.md)
+  - [16-5.拠点](jpn/1805fedbattlepoint.md)
+  - [16-6.報酬](jpn/1806fedbattlereward.md) 
+* 17.その他
+  - [17-1.チャット機能](jpn/1601otherschatting.md)  
 

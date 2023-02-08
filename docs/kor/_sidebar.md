@@ -73,6 +73,13 @@
   - [15-4.전투](kor/1704itbattle.md)
   - [15-5.세력](kor/1705itfaction.md)
   - [15-6.보상](kor/1706itreward.md)  
-* 16.기타
+* [16.제국 연맹 대전](kor/1800fedbattlemain.md)
+  - [16-1.등록](kor/1801fedbattleregister.md)
+  - [16-2.매칭](kor/1802fedbattlematching.md)
+  - [16-3.전투 입장](kor/1803fedbattleentrance.md)
+  - [16-4.전투](kor/1804fedbattleplaying.md)
+  - [16-5.거점](kor/1805fedbattlepoint.md)
+  - [16-6.보상](kor/1806fedbattlereward.md) 
+* 17.기타
   - [16-1.채팅창 기능](kor/1601otherschatting.md)
 

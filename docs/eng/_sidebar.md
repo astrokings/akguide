@@ -72,7 +72,14 @@
   - [15-3.Area](eng/1703itmap.md)
   - [15-4.Battle](eng/1704itbattle.md)
   - [15-5.Faction](eng/1705itfaction.md)
-  - [15-6.Rewards](eng/1706itreward.md)    
-* 16.Others
-  - [16-1.Chat Function](eng/1601otherschatting.md)
+  - [15-6.Rewards](eng/1706itreward.md)  
+* [16.Imperial Federation War](eng/1800fedbattlemain.md)
+  - [16-1.Registration](eng/1801fedbattleregister.md)
+  - [16-2.Matching](eng/1802fedbattlematching.md)
+  - [16-3.Battle Entry](eng/1803fedbattleentrance.md)
+  - [16-4.Battle](eng/1804fedbattleplaying.md)
+  - [16-5.Base](eng/1805fedbattlepoint.md)
+  - [16-6.Rewards](eng/1806fedbattlereward.md)   
+* 17.Others
+  - [17-1.Chat Function](eng/1601otherschatting.md)
 
