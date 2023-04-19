@@ -4,7 +4,7 @@
 
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1803_01.jpg)
 
-Federation War battles will take place on Saturday at 2:00 / 7:00 / 12:00 / 17:00 UTC.<br>
+Federation War battles will take place on Saturday at 2:00 / 7:00 / 12:00 / 14:00 UTC.<br>
 You can enter the battle from the battle waiting period, which is 10 minutes before the match time.
 
 A 2-hour planet protection shield buff is given to the planets of users who have entered the battle.<br>
@@ -61,7 +61,6 @@ During the battle period, reserve members can enter the battle.
 ## Notes When Entering
 - After entering the Federation War, fleet preset, defense fleet, national policy, and admin hero settings cannot be changed.
 - After entering the Federation War, the items in the inventory cannot be used.
-- Upon entering the Federation War, a 2-hour planetary protection shield buff is given to the planets in the universe map. An additional 2-hours are granted if the planetary protection shield is already active.
 
 <br>
 <br>

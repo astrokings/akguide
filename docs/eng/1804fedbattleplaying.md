@@ -9,7 +9,9 @@ You cannot leave the battlefield until you choose to abandon the battle, and you
 
 The battle lasts for an hour and consists of a total of 3 rounds.<br>
 Rounds 1 and 2 last 15 minutes, and Round 3 lasts 30 minutes.<br>
-Bases are activated sequentially in each round and support items are provided.
+Bases are activated sequentially in each round and support items are provided.<br>
+
+- The supported items will only be given to users who were present at the start of each round.
 
 <br>
 <br>
@@ -19,7 +21,8 @@ Bases are activated sequentially in each round and support items are provided.
 ## Victory Conditions
  
 The federation that gains more federation points by capturing the bases placed on the battlefield wins.<br>
-If both federations have the same number of points, the federation that captures the central base (Giganthea Tower) wins.
+If both federations have the same number of points, the federation that captures the central base (Giganthea Tower) wins.<br>
+If two federations earn the same amount of points, but neither has occupied the center point, the federation with the lower national power wins.
 
 <br>
 <br>
@@ -41,7 +44,8 @@ Before participating in battle, you must enter the battlefield with all preparat
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1804_02.jpg)
 
 No resources are consumed to repair ships and flagships during the Federation War.<br>
-In addition, all ships and flagships damaged during the Federation War will be restored once the battle is over.
+The increase in repair speed of ships and flagships is constant.
+After the battle ends, all ships and commanders that were damaged during the Imperial Federation War will be restored to their original state.
 
 <br>
 <br>
@@ -128,8 +132,8 @@ Here's how to earn individual points.
 
 | Situation | Reduce Combat Power | Earn Individual Point |
 | - | - | - |
-| When attacking base or planet | 1,250,000 | 1 |
-| When defending base or planet | 2,500,000 | 1 |
+| When attacking base or planet | 800,000 | 1 |
+| When defending base or planet | 3,200,000 | 1 |
 
 The higher the individual point acquisition, the more rewards are given.
 

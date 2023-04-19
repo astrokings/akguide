@@ -14,7 +14,7 @@ Only federation members with a G4 or higher rank can register for Federation War
 
 To register for Federation War, you must meet the registration conditions below.
 
- - A federation whose total national power is over 1 billion <br>
+ - A federation whose total national power is over 500 million <br>
  - Federation with 10 or more members
 
 <br>
@@ -40,7 +40,7 @@ However, if you do not register at least 10 participants, you will not be able t
  
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1801_02.jpg)
 
-Federation War battles will be held at 2:00 / 7:00 / 12:00 / 17:00 UTC.<br>
+Federation War battles will be held at 2:00 / 7:00 / 12:00 / 14:00 UTC.<br>
 You must select 2 or more match schedules when registering the match times.
 
 **※ If you cannot find a federation with the same selected schedule according to the matching rules, the battle may proceed at the matchup time not selected.**
