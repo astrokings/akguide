@@ -59,7 +59,7 @@ During the battle period, reserve members can enter the battle.
 <br>
 
 ## Notes When Entering
-- After entering the Federation War, fleet preset, defense fleet, national policy, and admin hero settings cannot be changed.
+- After entering the Federation War, fleet preset, national policy, and admin hero settings cannot be changed.
 - After entering the Federation War, the items in the inventory cannot be used.
 
 <br>

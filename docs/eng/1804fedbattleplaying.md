@@ -31,7 +31,7 @@ If two federations earn the same amount of points, but neither has occupied the 
 
 ## Fleet Formation
  
-Fleet presets and defending fleet settings cannot be changed during Federation War.<br>
+Fleet presets cannot be changed during Federation War.<br>
 Before participating in battle, you must enter the battlefield with all preparations completed in advance.
 
 <br>
