@@ -81,5 +81,5 @@
   - [16-5.거점](kor/1805fedbattlepoint.md)
   - [16-6.보상](kor/1806fedbattlereward.md) 
 * 17.기타
-  - [16-1.채팅창 기능](kor/1601otherschatting.md)
+  - [17-1.채팅창 기능](kor/1601otherschatting.md)
 
