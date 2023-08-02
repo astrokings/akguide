@@ -83,17 +83,17 @@ Enhancement items can be obtained from the Dimension Rift battle.
 
 ### 6) Reset the Ship Enhancement
 
-You can reset each enhanced parts with reset items in the Ship Enhancement Facility.
+You can reset the ship enhancement level by using a reset item in the Ship Enhancement Facility.
 
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_05.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/108_05_fix.jpg)
 
-For ship enhancement reset, enhancement materials and resources can be recovered.<br>
-The recovery rate of materials and resources may vary depending on the enhance reset module used.  
+When the enhancement is reset, all materials and resources consumed for the enhancement will be restored.<br>
+Each ship enhancement reset module item has conditions based on the ship enhancement level.
 
-There are two types of Ship Enhance Reset Module.
-- Ship Enhance Reset Module Type-alpha : When you reset the enhanced parts, you'll get 40% of materials that were used for enhancement.
-- Ship Enhance Reset Module Type-beta : When you reset the enhanced parts, you'll get 80% of materials that were used for enhancement.
-- Ship Enhance Reset Module Type-γ: An enhance reset module that recovers 50% of used enhancement materials and resources.
-- Ship Enhance Reset Module Type-δ: An enhance reset module that recovers 100% of used enhancement materials and resources.
+Four types of reset items.<br>
+- Basic Ship Enhancement Reset Module : Can only be used on ships with an enhancement level of 40 or below.
+- Intermediate Ship Enhancement Reset Module : Module: Can only be used on ships with an enhancement level of 70 or below.
+- Advanced Ship Enhancement Reset Module : Can only be used on ships with an enhancement level of 90 or below.
+- Premium Ship Enhancement Reset Module : Can only be used on ships with an enhancement level of 100 or below.
 
-Reset Modules are available at E.M.U. 
+※ Reset items can be obtained through the Empyrean Merchants Union Emporium (E.M.U.) or package shop. 
