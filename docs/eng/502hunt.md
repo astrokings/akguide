@@ -92,6 +92,7 @@ There are randomly appearing Server Alien Fleets, which do not appear during Tra
 <br>
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_event.jpg)
 <br>
+<br>
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_scanner.jpg)
 <br>
 #### 1. Server Alien Fleet

@@ -84,6 +84,7 @@ c. 報復艦隊は、外界艦隊が個人の惑星もしくはアストロネ�
 <br>
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_event.jpg)
 <br>
+<br>
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_scanner.jpg)
 <br>
 <br>

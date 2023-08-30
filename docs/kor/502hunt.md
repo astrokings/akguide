@@ -89,6 +89,7 @@ c. 보복 함대의 경우 외계 함대가 개인 행성 혹은 아스트로네
 <br>
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_event.jpg)
 <br>
+<br>
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_scanner.jpg)
 <br>
 <br>
