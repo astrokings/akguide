@@ -82,7 +82,7 @@ c. 報復艦隊は、外界艦隊が個人の惑星もしくはアストロネ�
 ランダムに登場するサーバー外界艦隊と、各連盟で[次元スキャナー]を一定数消費することで登場させることができる連盟外界艦隊があります。
 <br>
 <br>
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_event.jpg)
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_event.jpg)<br>
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_scanner.jpg)
 <br>
 <br>

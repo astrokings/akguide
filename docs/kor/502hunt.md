@@ -87,7 +87,7 @@ c. 보복 함대의 경우 외계 함대가 개인 행성 혹은 아스트로네
 무작위로 등장하는 서버 외계 함대 와 각 연맹에서 [차원 스캐너]를 일정 소모하여 등장 시키는 연맹 외계 함대가 있습니다.
 <br>
 <br>
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_event.jpg)
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_event.jpg)<br>
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_scanner.jpg)
 <br>
 <br>

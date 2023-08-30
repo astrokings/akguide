@@ -90,7 +90,7 @@ Alien Fleets are divided into two types (Server and Federation).
 There are randomly appearing Server Alien Fleets, which do not appear during Trade Planet Wars, and Federation Alien Fleets, which are summoned by expending [Dimensional Energy] by Federation members..
 <br>
 <br>
-![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_event.jpg)
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_event.jpg)<br>
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/502hunt_scanner.jpg)
 <br>
 #### 1. Server Alien Fleet
