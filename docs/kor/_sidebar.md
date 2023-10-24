@@ -22,8 +22,7 @@
   - [5-2.사냥](kor/502hunt.md)
   - [5-3.함대전](kor/503fleetbattle.md)
   - [5-4.현상수배](kor/504wanted.md)
-  - [5-5.차원 균열](kor/505rift.md)
-  - [5-6.전투 규칙](kor/506combatrule.md)
+  - [5-5.전투 규칙](kor/506combatrule.md)
 * [6.연맹](kor/600fedmain.md)
   - [6-1.연맹 도움](kor/601fedhelp.md)
   - [6-2.연맹 연구](kor/602fedresearch.md)
@@ -37,6 +36,8 @@
   - [7-1.상시 이벤트](kor/701regularevent.md)
   - [7-2.퀘스트에 도전하라](kor/703event.md)
   - [7-3.크룩스 유령 함대](kor/704ghostevent.md)
+  - [7-4.외계함대](kor/705alien.md)
+  - [7-5.차원 균열](kor/505rift.md)
 * 8.국가 정보
   - [8-1.행동력](kor/801actionpoint.md)
   - [8-2.국력](kor/802nationalpower.md)
