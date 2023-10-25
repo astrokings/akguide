@@ -22,8 +22,7 @@
   - [5-2.Hunt](eng/502hunt.md)
   - [5-3.Fleet Battle](eng/503fleetbattle.md)
   - [5-4.Wanted Pirates](eng/504wanted.md)
-  - [5-5.Dimension Rift](eng/505rift.md)
-  - [5-6.Battle Rules](eng/506combatrule.md)
+  - [5-5.Battle Rules](eng/506combatrule.md)
 * [6.Federation](eng/600fedmain.md)
   - [6-1.Help Federation](eng/601fedhelp.md)
   - [6-2.Federation Research](eng/602fedresearch.md)
@@ -37,6 +36,8 @@
   - [7-1.Regular Event](eng/701regularevent.md)
   - [7-2.Quest Challenge](eng/703event.md)
   - [7-3.CRUX Ghost Fleet](eng/704ghostevent.md)
+  - [7-4.Alien Fleet](eng/705alien.md)
+  - [7-5.Dimension Rift](eng/505rift.md)
 * 8.National Info
   - [8-1.Action Points](eng/801actionpoint.md)
   - [8-2.National Power](eng/802nationalpower.md)
@@ -79,7 +80,9 @@
   - [16-3.Battle Entry](eng/1803fedbattleentrance.md)
   - [16-4.Battle](eng/1804fedbattleplaying.md)
   - [16-5.Base](eng/1805fedbattlepoint.md)
-  - [16-6.Rewards](eng/1806fedbattlereward.md)   
+  - [16-6.Rewards](eng/1806fedbattlereward.md)
+  - [16-7.Winner/Loser's Match](eng/1807fedbattlesub.md)  
+  - [16-8.Ranking](eng/1808fedbattleranking.md)  
 * 17.Others
   - [17-1.Chat Function](eng/1601otherschatting.md)
 

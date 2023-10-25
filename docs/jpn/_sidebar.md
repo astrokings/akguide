@@ -22,8 +22,7 @@
   - [5-2.狩り](jpn/502hunt.md)
   - [5-3.艦隊戦](jpn/503fleetbattle.md)
   - [5-4.指名手配](jpn/504wanted.md)
-  - [5-5.次元の亀裂](jpn/505rift.md)
-  - [5-6.戦闘規則](jpn/506combatrule.md)
+  - [5-5.戦闘規則](jpn/506combatrule.md)
 * [6.連盟](jpn/600fedmain.md)
   - [6-1.連盟支援](jpn/601fedhelp.md)
   - [6-2.連盟研究](jpn/602fedresearch.md)
@@ -37,6 +36,8 @@
   - [7-1.常時イベント](jpn/701regularevent.md)
   - [7-2.クエストに挑戦せよ](jpn/703event.md)
   - [7-3.クルックスゴースト艦隊](jpn/704ghostevent.md)
+  - [7-4.外界艦隊](jpn/705alien.md)  
+  - [7-5.次元の亀裂](jpn/505rift.md)  
 * 8.国家情報
   - [8-1.行動力](jpn/801actionpoint.md)
   - [8-2.国力](jpn/802nationalpower.md)
@@ -80,6 +81,8 @@
   - [16-4.戦闘](jpn/1804fedbattleplaying.md)
   - [16-5.拠点](jpn/1805fedbattlepoint.md)
   - [16-6.報酬](jpn/1806fedbattlereward.md) 
+  - [16-7.勝/敗者戦](jpn/1807fedbattlesub.md)  
+  - [16-8.ランキング](jpn/1808fedbattleranking.md)    
 * 17.その他
   - [17-1.チャット機能](jpn/1601otherschatting.md)  
 

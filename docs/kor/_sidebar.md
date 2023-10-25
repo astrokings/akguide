@@ -81,6 +81,8 @@
   - [16-4.전투](kor/1804fedbattleplaying.md)
   - [16-5.거점](kor/1805fedbattlepoint.md)
   - [16-6.보상](kor/1806fedbattlereward.md) 
+  - [16-7.승/패자전](kor/1807fedbattlesub.md)
+  - [16-8.랭킹](kor/1808fedbattleranking.md)
 * 17.기타
   - [17-1.채팅창 기능](kor/1601otherschatting.md)
 
