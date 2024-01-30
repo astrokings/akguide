@@ -203,3 +203,6 @@ http://www.apache.org/licenses/
 
 ### STARGATE SG-1 
 STARGATE SG-1 and all related logos, marks, characters and other elements TM & © 1997 – 2021 MGM.  All Rights Reserved.
+
+### STARGATE UNIVERSE
+STARGATE SG-1, STARGATE ATLANTIS, STARGATE UNIVERSE and all related logos, marks, characters and other elements TM & © 1997 – [year of distribution] MGM.  All Rights Reserved.
