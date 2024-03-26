@@ -14,14 +14,13 @@
 | 빔 도면 T4 SE<font color="red"> [연사 속도]</font> | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [빔 저항력]</font> |
 | 미사일 도면 T4 SE | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [미사일 저항력]</font> |
 | 미사일 도면 T4 SE<font color="red"> [공격력]</font> | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [캐논 저항력]</font> |
-| 미사일 도면 T4 SE<font color="red"> [연사 속도]</font> | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [캐논 저항력]</font> |
-| 캐논 도면 T4 SE | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [레일건 회피력]</font> |
-| 캐논 도면 T4 SE<font color="red"> [공격력]</font> | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [빔 회피력]</font> |
-| 캐논 도면 T4 SE<font color="red"> [연사 속도]</font> | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [미사일 회피력]</font> |
-| 전투정 도면 T4 SE | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [캐논 회피력]</font> |
-| 전투정 도면 T4 SE<font color="red"> [공격력]</font> | - | - | 정확도 특수장치 도면 T4 SE |
-| 전투정 도면 T4 SE [연사속도] | - | - | 정확도 특수장치 도면 T4 SE<font color="red"> [정확도]</font> |
-| - | - | - | 관통력 특수장치 도면 T4 SE |
+| 미사일 도면 T4 SE<font color="red"> [연사 속도]</font> | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [레일건 회피력]</font> |
+| 캐논 도면 T4 SE | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [빔 회피력]</font> |
+| 캐논 도면 T4 SE<font color="red"> [공격력]</font> | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [미사일 회피력]</font> |
+| 캐논 도면 T4 SE<font color="red"> [연사 속도]</font> | - | - | 방어형 특수장치 도면 T4 SE<font color="red"> [캐논 회피력]</font> |
+| 전투정 도면 T4 SE | - | - | 정확도 특수장치 도면 T4 SE |
+| 전투정 도면 T4 SE<font color="red"> [공격력]</font> | - | - | 정확도 특수장치 도면 T4 SE<font color="red"> [정확도]</font> |
+| 전투정 도면 T4 SE<font color="red"> [연사 속도]</font> | - | - | 관통력 특수장치 도면 T4 SE |
 | - | - | - | 관통력 특수장치 도면 T4 SE<font color="red"> [관통력]</font> |
 
 <br>
@@ -31,7 +30,7 @@
 # T4 SE 기함 장비 도면 옵션 종류
  
 - 'T4 SE 기함 장비 도면'을 사용하여 제작할 수 있는 기함 장비에 부여되는 옵션은 다음과 같으며, 모두 균등 확률로 부여됩니다.
-- 각 확률은 소수점 3번째 자리에서 반올림된 수치이며, 반올림된 수치로 인해 각 확률의 합이 100%와 일치하지 않을 수 있습니다.
+- 각 확률은 소수점 3번째 자리에서 반올림된 수치이며, 반올림된 수치로 인해 표기된 확률의 합이 100%와 일치하지 않을 수 있으나 실제 개별 확률의 합은 100%입니다.
 
 <br>
 
