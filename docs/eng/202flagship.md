@@ -74,11 +74,6 @@ The lootable devices are as follows:
 ![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/202_005spskill.jpg)
 
 When the flagship is promoted to tier 2 or higher, you can assign a hero on board as a crew member.<br>
-The following are the levels of heroes that can board the flagship as crew members.
-- C grade: Level 30 or higher
-- B grade: Level 40 or higher
-- A grade: Level 50 or higher
-- S grade: Level 50 or higher
 
 Also, the hero's trait type and stat will be reflected in the flagship when boarding the crew member.<br>
 Depending on the required trait type and stat on the flagship, you can activate the flagship's special skill.
