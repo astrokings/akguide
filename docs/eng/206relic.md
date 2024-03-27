@@ -77,20 +77,22 @@ It is applied based on the highest relic circuit level reached, and it is applie
 
 <br><br>
 
-# Relic Grade Info
+# Relic Grade & Probability Information
 
-| Grade | Engraving Chance Rate | No. of  Abilities | Required Ship Enhancement Level |
+| Grade | # of Relics <br>By Grade | Probability of Imprint<br>Per Grade |  Probability of Imprint<br>Per Individual Relic  |
 | - | - | - | - |
-| 1 | 45.00% | 1 | 1 |
-| 2 | 41.00% | 1 | 1 |
-| 3 | 11.50% | 1 | 10 |
-| 4 | 1.780% | 2 | 20 |
-| 5 | 0.480% | 2 | 30 |
-| 6 | 0.100% | 2 | 30 |
-| 7 | 0.062% | 2 | 40 |
-| 8 | 0.042% | 3 | 50 |
-| 9 | 0.022% | 3 | 60 |
-| 10 | 0.014% | 3 | 70 |
+| Ⅰ | 60 | 45.00% | 0.7500% |
+| Ⅱ | 60 | 41.00% | 0.6833% |
+| Ⅲ | 60 | 11.50% | 0.1917% |
+| Ⅳ | 60 | 1.780% | 0.0297% |
+| Ⅴ | 60 | 0.480% | 0.0080% |
+| Ⅵ | 60 | 0.100% | 0.0017% |
+| Ⅶ | 60 | 0.062% | 0.0010% |
+| Ⅷ | 60 | 0.042% | 0.0007% |
+| Ⅸ | 60 | 0.022% | 0.0004% |
+| Ⅹ | 60 | 0.014% | 0.0002% |
+
+※ The engraving probability for each individual relic is a number rounded to the 5th decimal place, and the sum of the indicated probabilities may not equal 100% due to the rounded number, but the actual sum of the individual probabilities is 100%.
 
 <br><br>
 

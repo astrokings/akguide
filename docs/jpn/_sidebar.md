@@ -85,4 +85,6 @@
   - [16-8.ランキング](jpn/1808fedbattleranking.md)    
 * 17.その他
   - [17-1.チャット機能](jpn/1601otherschatting.md)  
-
+* 18.確率型アイテム
+  - [18-1.T4 SE 旗艦装備](jpn/1901enhance4t.md)
+  - [18-2.T5 旗艦装備](jpn/1902enhance5t.md)

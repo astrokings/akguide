@@ -85,4 +85,6 @@
   - [16-8.랭킹](kor/1808fedbattleranking.md)
 * 17.기타
   - [17-1.채팅창 기능](kor/1601otherschatting.md)
-
+* 18.확률형 아이템
+  - [18-1.T4 SE 기함 장비](kor/1901enhance4t.md)
+  - [18-2.T5 기함 장비](kor/1902enhance5t.md)

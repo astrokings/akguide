@@ -85,4 +85,6 @@
   - [16-8.Ranking](eng/1808fedbattleranking.md)  
 * 17.Others
   - [17-1.Chat Function](eng/1601otherschatting.md)
-
+* 18.Item Probability
+  - [18-1.T4 SE Flagship Equipment](eng/1901enhance4t.md)
+  - [18-2.T5 Flagship Equipment](eng/1902enhance5t.md)
