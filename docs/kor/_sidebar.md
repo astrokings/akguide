@@ -88,3 +88,5 @@
 * 18.확률형 아이템
   - [18-1.T4 SE 기함 장비](kor/1901enhance4t.md)
   - [18-2.T5 기함 장비](kor/1902enhance5t.md)
+  - [18-3.영웅 고용](kor/1903herorecruit.md)
+  

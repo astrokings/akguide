@@ -88,3 +88,4 @@
 * 18.Item Probability
   - [18-1.T4 SE Flagship Equipment](eng/1901enhance4t.md)
   - [18-2.T5 Flagship Equipment](eng/1902enhance5t.md)
+  - [18-3.Recruit Hero](eng/1903herorecruit.md)

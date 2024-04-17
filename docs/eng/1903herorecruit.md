@@ -1,22 +1,22 @@
-# 1. 영웅 고용
+# 1. Hero Recruitment
 
-## (1) 레전드 '갤럭시' 영웅 고용
+## (1) Legend 'Galaxy' Hero Recruitment
 
-### ① 등급별 영웅 획득 확률
+### ① Probability of acquiring heroes by grade
 
-| 등급 | 획득 확률 | 획득 확률(핫타임) |
+| Grade | Acquisition Probability | Acquisition Probability<br>(Happy Hour) |
 | :-: | :-: | - |
-| S급 | 4% | 14% |
-| A급 | 65% | 65% |
-| B급 | 31% | 21% |
+| S | 4% | 14% |
+| A | 65% | 65% |
+| B | 31% | 21% |
 
 <br>
 
-### ② 획득 가능 S급 영웅 목록
+### ② List of obtainable S-grade heroes
 
-- 아래 S급 영웅 목록의 영웅 중 1종이 선택되며, 각 영웅이 나올 확률은 모두 균등합니다.
+- One type of hero from the S-grade hero list below will be selected, and the probability of each hero appearing is equal.
 
-||| 영웅 목록 |||
+||| Hero List |||
 | :-: | :-: | :-: | :-: | :-: |
 | 'Maidas'<br>Gillian | 'Architect'<br>Layla | 'Bright'<br>Ethan | 'Innovator'<br>Ava | 'Dauntless'<br>Terell |
 | 'Destroyer'<br>Caden | 'Flashy'<br>Aaron | 'Legio'<br>Alex | 'Harvester'<br>Melissa | 'Negotiator'<br>Minerva |
@@ -27,16 +27,16 @@
 
 <br>
 
-### ③ DNA 소자 획득 확률
+### ③ Probability of acquiring DNA elements
 
-- 아래 확률에 맞춰 영웅의 완성형 혹은 DNA 소자를 획득할 수 있습니다.
-- 각 확률은 소수점 5번째 자리에서 반올림된 수치이며, 반올림된 수치로 인해 표기된 확률의 합이 100%와 일치하지 않을 수 있으나 실제 개별 확률의 합은 100%입니다.
+- You can obtain the hero's complete form or DNA element according to the probability below.
+- Each probability is a number rounded to the 5th decimal place, and the sum of the indicated probabilities may not equal 100% due to the rounded numbers, but the actual sum of the individual probabilities is 100%.
 
-#### S급
+#### S Grade
 
-| 아이템 이름 | 수량 | 획득 확률 | 획득 확률(핫타임) |
+| Item Name | Quantity | Acquisition Probability | Acquisition Probability<br>(Happy Hour) |
 | :-: | :-: | :-: | :-: |
-| DNA 소자 : (랜덤 S급 영웅 1종) | 1 | 1.0860% | 3.8010% |
+| DNA Element : (1 random S-grade hero) | 1 | 1.0860% | 3.8010% |
 | | 2 | 1.1900% | 4.1650% |
 | | 3 | 0.5960% | 2.0860% |
 | | 4 | 0.4720% | 1.6520% |
@@ -45,15 +45,15 @@
 | | 7 | 0.0040% | 0.0140% |
 | | 8 | 0.0040% | 0.0140% |
 | | 9 | 0.0040% | 0.0140% |
-| 랜덤 S급 영웅 | 완성형 | 0.2840% | 0.9940% |
+| Randaom S-grade Hero | Complete | 0.2840% | 0.9940% |
 
 <br>
 
-#### A급
+#### A Grade
 
-| 아이템 이름 | 수량 | 획득 확률 | 획득 확률(핫타임) |
+| Item Name | Quantity | Acquisition Probability | Acquisition Probability<br>(Happy Hour) |
 | :-: | :-: | :-: | :-: |
-| DNA 소자 : A급 | 1 | 2.6000% | 2.6000% |
+| DNA Element : A Grade | 1 | 2.6000% | 2.6000% |
 | | 2 | 2.2750% | 2.2750% |
 | | 3 | 1.6250% | 1.6250% |
 | | 4 | 0.9750% | 0.9750% |
@@ -62,15 +62,15 @@
 | | 7 | 0.0065% | 0.0065% |
 | | 8 | 0.0065% | 0.0065% |
 | | 9 | 0.0065% | 0.0065% |
-| 랜덤 A급 영웅 | 완성형 | 56.5565% | 56.5565% |
+| Randaom A-grade Hero | Complete | 56.5565% | 56.5565% |
 
 <br>
 
-#### B급
+#### B Grade
 
-| 아이템 이름 | 수량 | 획득 확률 | 획득 확률(핫타임) |
+| Item Name | Quantity | Acquisition Probability | Acquisition Probability<br>(Happy Hour) |
 | :-: | :-: | :-: | :-: |
-| DNA 소자 : B급 | 1 | 1.5500% | 1.0500% |
+| DNA Element : B Grade | 1 | 1.5500% | 1.0500% |
 | | 2 | 1.5500% | 1.0500% |
 | | 3 | 1.2400% | 0.8400% |
 | | 4 | 0.9300% | 0.6300% |
@@ -79,28 +79,28 @@
 | | 7 | 0.0031% | 0.0021% |
 | | 8 | 0.0031% | 0.0021% |
 | | 9 | 0.0031% | 0.0021% |
-| 랜덤 B급 영웅 | 완성형 | 24.8031% | 16.8021% |
+| Randaom B-grade Hero | Complete | 24.8031% | 16.8021% |
 
 <br>
 <br>
 
-## (2) 레전드 '마젤란' 영웅 고용
+## (2) Legend 'Magellan' Hero Recruitment
 
-### ① 등급별 영웅 획득 확률
+### ① Probability of acquiring heroes by grade
 
-| 등급 | 획득 확률 | 획득 확률(핫타임) |
+| Grade | Acquisition Probability | Acquisition Probability<br>(Happy Hour) |
 | :-: | :-: | - |
-| S급 | 4% | 8% |
-| A급 | 65% | 65% |
-| B급 | 31% | 27% |
+| S | 4% | 8% |
+| A | 65% | 65% |
+| B | 31% | 27% |
 
 <br>
 
-### ② 획득 가능 S급 영웅 목록
+### ② List of obtainable S-grade heroes
 
-- 아래 S급 영웅 목록의 영웅 중 1종이 선택되며, 각 영웅이 나올 확률은 모두 균등합니다.
+- One type of hero from the S-grade hero list below will be selected, and the probability of each hero appearing is equal.
 
-||| 영웅 목록 |||
+||| Hero List |||
 | :-: | :-: | :-: | :-: | :-: |
 | 'Fierce'<br>Typhon | 'Silhak Scholar'<br>Tasan | 'Master Artisan'<br>Vulkan | 'Numen'<br>Athena | 'War God'<br>Ares |
 | 'Slayer'<br>Charon | 'Pierce to Kill'<br>Inahime | 'Strategist'<br>Rangda | 'Evil'<br>Leyak | 'Disastrous'<br>Commodus |
@@ -109,16 +109,16 @@
 
 <br>
 
-### ③ DNA 소자 획득 확률
+### ③ Probability of acquiring DNA elements
 
-- 아래 확률에 맞춰 영웅의 완성형 혹은 DNA 소자를 획득할 수 있습니다.
-- 각 확률은 소수점 5번째 자리에서 반올림된 수치이며, 반올림된 수치로 인해 표기된 확률의 합이 100%와 일치하지 않을 수 있으나 실제 개별 확률의 합은 100%입니다.
+- You can obtain the hero's complete form or DNA element according to the probability below.
+- Each probability is a number rounded to the 5th decimal place, and the sum of the indicated probabilities may not equal 100% due to the rounded numbers, but the actual sum of the individual probabilities is 100%.
 
-#### S급
+#### S Grade
 
-| 아이템 이름 | 수량 | 획득 확률 | 획득 확률(핫타임) |
+| Item Name | Quantity | Acquisition Probability | Acquisition Probability<br>(Happy Hour) |
 | :-: | :-: | :-: | :-: |
-| DNA 소자 : (랜덤 S급 영웅 1종) | 1 | 3.2800% | 6.5600% |
+| DNA Element : (1 random S-grade hero)| 1 | 3.2800% | 6.5600% |
 | | 2 | 0.1960% | 0.3920% |
 | | 3 | 0.1120% | 0.2240% |
 | | 4 | 0.0760% | 0.1520% |
@@ -127,15 +127,15 @@
 | | 7 | 0.0040% | 0.0080% |
 | | 8 | 0.0040% | 0.0080% |
 | | 9 | 0.0040% | 0.0080% |
-| 랜덤 S급 영웅 | 완성형 | 0.2840% | 0.5680% |
+| Randaom S-grade Hero | Complete | 0.2840% | 0.5680% |
 
 <br>
 
 #### A급
 
-| 아이템 이름 | 수량 | 획득 확률 | 획득 확률(핫타임) |
+| Item Name | Quantity | Acquisition Probability | Acquisition Probability<br>(Happy Hour) |
 | :-: | :-: | :-: | :-: |
-| DNA 소자 : A급 | 1 | 2.6000% | 2.6000% |
+| DNA Element : A Grade | 1 | 2.6000% | 2.6000% |
 | | 2 | 2.2750% | 2.2750% |
 | | 3 | 1.6250% | 1.6250% |
 | | 4 | 0.9750% | 0.9750% |
@@ -144,15 +144,15 @@
 | | 7 | 0.0065% | 0.0065% |
 | | 8 | 0.0065% | 0.0065% |
 | | 9 | 0.0065% | 0.0065% |
-| 랜덤 A급 영웅 | 완성형 | 56.5565% | 56.5565% |
+| Randaom A-grade Hero | Complete | 56.5565% | 56.5565% |
 
 <br>
 
 #### B급
 
-| 아이템 이름 | 수량 | 획득 확률 | 획득 확률(핫타임) |
+| Item Name | Quantity | Acquisition Probability | Acquisition Probability<br>(Happy Hour) |
 | :-: | :-: | :-: | :-: |
-| DNA 소자 : B급 | 1 | 1.5500% | 1.3500% |
+| DNA Element : B Grade | 1 | 1.5500% | 1.3500% |
 | | 2 | 1.5500% | 1.3500% |
 | | 3 | 1.2400% | 1.0800% |
 | | 4 | 0.9300% | 0.8100% |
@@ -161,21 +161,21 @@
 | | 7 | 0.0031% | 0.0027% |
 | | 8 | 0.0031% | 0.0027% |
 | | 9 | 0.0031% | 0.0027% |
-| 랜덤 B급 영웅 | 완성형 | 24.8031% | 21.6027% |
+| Randaom B-grade Hero | Complete | 24.8031% | 21.6027% |
 
 <br>
 <br>
 
-## (3) 마일리지 고용
+## (3) Mileage Recruitment
 
-### ① 획득 가능 S급 영웅 목록
+### ① List of obtainable S-grade heroes
 
-- 마일리지 고용에서는 아래 마일리지 고용 획득 영웅 목록의 S급 영웅 중 1종의 완성형을 랜덤으로 획득할 수 있습니다.
-  - 아래 리스트의 S급 영웅 중 보유하지 않은 영웅을 우선으로 획득합니다.
-  - 아래 리스트의 S급 영웅을 모두 보유하고 있을 경우 리스트의 S급 영웅 중 1종을 랜덤으로 획득합니다.
-- 각 S급 영웅이 나올 확률은 모두 균등합니다.
+- In mileage recruitmen, you can randomly obtain the completed form of one of the S-grade heroes from the list of mileage recruitment heroes below.
+  - Among the S-grade heroes in the list below, you will have priority to acquire heroes that you do not own.
+  - If you own all of the S-grade heroes in the list below, you will randomly obtain one of the S-grade heroes in the list.
+- The probability of each S-grade hero appearing is equal.
 
-||| 영웅 목록 |||
+||| Hero List |||
 | :-: | :-: | :-: | :-: | :-: |
 | 'Maidas'<br>Gillian | 'Architect'<br>Layla | 'Bright'<br>Ethan | 'Innovator'<br>Ava | 'Dauntless'<br>Terell |
 | 'Destroyer'<br>Caden | 'Flashy'<br>Aaron | 'Legio'<br>Alex | 'Harvester'<br>Melissa | 'Negotiator'<br>Minerva |
@@ -188,43 +188,43 @@
 <br>
 <br>
 
-# 2. A~C급 영웅 구성
+# 2. Composition of A~C grade heroes
 
-- A~C급의 일반 영웅은 정해진 확률에 따라 초상화, 이름, 스킬 등이 랜덤으로 결정되어 고용됩니다.
+- A~C grade heroes are recruited with their portraits, names, and skills randomly determined according to a set probability.
 
-## (1) 영웅 타입 결정 확률
+## (1) Probability of determining the hero type
 
-- A~C급 영웅은 획득 시 정해진 확률에 따라 내정 영웅과 전투 영웅으로 분류됩니다.
+- A~C grade heroes are classified into admin heroes and battle heroes according to the probability determined at the time of acquisition.
 
-| 등급 | 내정 영웅 분류 확률 | 전투 영웅 분류 확률 |
+| Grade | Probability of Admin Hero | Probability of Battle Hero |
 | :-: | :-: | :-: |
-| A급 | 50% | 50% |
-| B급 | 50% | 50% |
-| C급 | 50% | 50% |
+| A | 50% | 50% |
+| B | 50% | 50% |
+| C | 50% | 50% |
 
 <br>
 <br>
 
-## (2) 영웅 스킬 개수
+## (2) Number of hero skills
 
-- A~C급 영웅은 등급에 따라 보유한 스킬 개수가 다릅니다.
+- A~C grade heroes have different skills depending on their grade.
 
-| 등급 | 스킬 보유 개수 |
+| Grade | # of Skills |
 | :-: | :-: |
-| A급 | 3개 |
-| B급 | 2개 |
-| C급 | 1개 |
+| A | 3 |
+| B | 2 |
+| C | 1 |
 
 <br>
 <br>
 
-## (3) A~C급 영웅 스킬 결정 확률
+## (3) Probability of determining A~C grade hero skill 
 
-- 내정 영웅과 전투 영웅의 스킬 목록은 아래와 같으며, 모두 균등한 확률로 등장합니다.
-- 스킬을 2개 이상 보유하는 등급의 영웅은 중복된 스킬을 보유하지 않습니다.
-  - 첫번째 스킬이 결정되면 두번째 스킬은 첫번째 스킬을 제외한 스킬 목록 중에서 결정되며, 두번째 스킬이 결정되면 세번째 스킬은 첫번째, 두번째 스킬을 제외한 스킬 목록에서 결정됩니다.
+- The list of skills of admin heroes and battle heroes is as follows, and they all appear with equal probability.
+- Heroes with two or more skills do not have duplicate skills.
+  - Once the first skill is determined, the second skill is determined from the skill list excluding the first skill, and when the second skill is determined, the third skill is determined from the skill list excluding the first and second skills.
 
-||| 내정 영웅 스킬 목록 |||
+||| Admin Hero Skill List |||
 | :-: | :-: | :-: | :-: | :-: |
 | Construction Foreman | Construction Manager | Research Personnel | Research Manager | Fleet Repairman |
 | Repair Materials Clerk | Tax Collector | Mine Overseer | Resource Protector | Fleet Builder |
@@ -238,7 +238,7 @@
 
 <br>
 
-||| 전투 영웅 스킬 목록 |||
+||| Battle Hero Skill List |||
 | :-: | :-: | :-: | :-: | :-: |
 | Interception Tactician | Bulwark Defender | Tactical Defender | Evasion Specialist | Defense Leader |
 | Evasion Leader | Evasion Strategist | Tough Leader | Stalwart Commander | Assault Leader |
@@ -253,24 +253,24 @@
 <br>
 <br>
 
-## (4) A~C급 영웅 초상화 결정
+## (4) Probability of determining  A~C grade hero portrait
 
-- A~C급의 일반 영웅 초상화는 총 35종으로 **2.8571%** 의 확률에 따라 결정됩니다.
-  - 위 확률은 소수점 5번째 자리에서 반올림된 수치이며, 반올림된 수치로 인해 표기된 확률의 합이 100%와 일치하지 않을 수 있으나 실제 개별 확률의 합은 100%입니다.
-
-<br>
-<br>
-
-## (5) A~C급 영웅 이름 결정
-
-- A~C급의 일반 영웅은 아래의 목록에서 각 확률에 따라 이름이 결정됩니다.
-  - 각 확률은 소수점 5번째 자리에서 반올림된 수치이며, 반올림된 수치로 인해 표기된 확률의 합이 100%와 일치하지 않을 수 있으나 실제 개별 확률의 합은 100%입니다.
+- There are a total of 35 types of basic hero portraits of A~C grades, determined by a probability of **2.8571%**.
+  - Each probability is a number rounded to the 5th decimal place, and the sum of the indicated probabilities may not equal 100% due to the rounded numbers, but the actual sum of the individual probabilities is 100%.
 
 <br>
+<br>
 
-- 다음 목록에 있는 영웅 이름은 0.1001%의 확률로 등장합니다.
+## (5) Deciding the name of the A~C grade hero
 
-|||| 영웅 이름 목록 |||||
+- For basic heroes of A~C grades, their names are determined according to their respective probabilities from the list below.
+  - Each probability is a number rounded to the 5th decimal place, and the sum of the indicated probabilities may not equal 100% due to the rounded numbers, but the actual sum of the individual probabilities is 100%.
+
+<br>
+
+- Hero names in the following list appear with a 0.1001% chance.
+
+|||| Hero Name List |||||
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Addison | Alexis | Angel | Ariel | Ashley | Ashton | Aubrey | Avery |
 | Bailey | Billie | Bobbie | Cameron | Carmen | Casey | Chris | Christian |
@@ -285,9 +285,9 @@
 
 <br>
 
-- 다음 목록에 있는 영웅 이름은 0.0500%의 확률로 등장합니다.
+- Hero names in the following list appear with a 0.0500% chance.
 
-|||| 영웅 이름 목록 |||||
+|||| Hero Name List |||||
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Aaliyah | Aaron | Abbey | Abby | Abel | Abigail | Abraham | Abram |
 | Ada | Adam | Adan | Addie | Adele | Adeline | Aden | Adolfo |

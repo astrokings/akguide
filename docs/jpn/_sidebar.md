@@ -88,3 +88,4 @@
 * 18.確率型アイテム
   - [18-1.T4 SE 旗艦装備](jpn/1901enhance4t.md)
   - [18-2.T5 旗艦装備](jpn/1902enhance5t.md)
+  - [18-3.英雄スカウト](jpn/1903herorecruit.md)
