@@ -1,86 +1,6 @@
 # 1. Hero Recruitment
 
-## (1) AIM FOR THE TOP! Special Hero Recruitment
-
-### ① Probability of acquiring heroes by grade
-
-| Grade | Acquisition Probability |
-| :-: | :-: |
-| S | 4% |
-| A | 65% |
-| B | 31% |
-
-<br>
-
-### ② List of obtainable S-grade heroes
-
-- One type of hero from the S-grade hero list below will be selected, and the probability of each hero appearing is equal.
-
-||| Hero List |||
-| :-: | :-: | :-: | :-: | :-: |
-| 'Invincible Tactical Mobile Weapon'<br>Gunbuster | 'Space Warrior'<br>Noriko Takaya | 'Queen of Roses'<br>Kazumi Amano | 'Space Combat Genius'<br>Jung Freud | 'Noriko's Partner'<br>Toren Smith |
-| 'Hard Work & Guts'<br>Koichiro Ohta | 'Pilot Candidate Rivals'<br>Reiko Kashihara | | | |
-
-<br>
-
-### ③ Probability of acquiring DNA elements
-
-- You can obtain the hero's complete form or DNA element according to the probability below.
-- Each probability is a number rounded to the 5th decimal place, and the sum of the indicated probabilities may not equal 100% due to the rounded numbers, but the actual sum of the individual probabilities is 100%.
-
-#### S Grade
-
-| Item Name | Quantity | Acquisition Probability |
-| :-: | :-: | :-: |
-| DNA Element : (1 random S-grade hero) | 1 | 2.1760% |
-| | 2 | 1.4160% |
-| | 3 | 0.2560% |
-| | 4 | 0.0760% |
-| | 5 | 0.0360% |
-| | 6 | 0.0040% |
-| | 7 | 0.0040% |
-| | 8 | 0.0040% |
-| | 9 | 0.0040% |
-| Randaom S-grade Hero | Complete | 0.0240% |
-
-<br>
-
-#### A Grade
-
-| Item Name | Quantity | Acquisition Probability |
-| :-: | :-: | :-: |
-| DNA Element : A Grade | 1 | 2.6000% |
-| | 2 | 2.2750% |
-| | 3 | 1.6250% |
-| | 4 | 0.9750% |
-| | 5 | 0.9425% |
-| | 6 | 0.0065% |
-| | 7 | 0.0065% |
-| | 8 | 0.0065% |
-| | 9 | 0.0065% |
-| Randaom A-grade Hero | Complete | 56.5565% |
-
-<br>
-
-#### B Grade
-
-| Item Name | Quantity | Acquisition Probability |
-| :-: | :-: | :-: |
-| DNA Element : B Grade | 1 | 1.5500% |
-| | 2 | 1.5500% |
-| | 3 | 1.2400% |
-| | 4 | 0.9300% |
-| | 5 | 0.9145% |
-| | 6 | 0.0031% |
-| | 7 | 0.0031% |
-| | 8 | 0.0031% |
-| | 9 | 0.0031% |
-| Randaom B-grade Hero | Complete | 24.8031% |
-
-<br>
-<br>
-
-## (2) Legend 'Galaxy' Hero Recruitment
+## (1) Legend 'Galaxy' Hero Recruitment
 
 ### ① Probability of acquiring heroes by grade
 
@@ -164,7 +84,7 @@
 <br>
 <br>
 
-## (3) Legend 'Magellan' Hero Recruitment
+## (2) Legend 'Magellan' Hero Recruitment
 
 ### ① Probability of acquiring heroes by grade
 
@@ -246,7 +166,7 @@
 <br>
 <br>
 
-## (4) Mileage Recruitment
+## (3) Mileage Recruitment
 
 ### ① List of obtainable S-grade heroes
 

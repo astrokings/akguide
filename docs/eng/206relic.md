@@ -63,7 +63,7 @@ The relic's 'equip' button displays the name of the currently equipped relic cir
 # Overload
 
 The overload effect can be used when the relic circuit reaches level 10.<br>
-The overload effect maintains the selected relic's grade and can be engraved with a new relic.<br>
+The overload effect maintains the selected relic's grade and can be engraved with a new relic. (The same kind of relic might appear.)<br>
 To use the overload feature, the overload gauge must be fully charged.
 
 <br><br>
