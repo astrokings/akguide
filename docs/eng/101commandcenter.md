@@ -50,7 +50,7 @@ The National Policy Preset feature will be available after reaching a certain VI
 
 # Council
 
- The five councils each have a specialized effect, of which power increases as the number of Heroes assigned to the respective council increases.
+ The six councils each have a specialized effect, of which power increases as the number of Heroes assigned to the respective council increases.
 
 <br>
 
