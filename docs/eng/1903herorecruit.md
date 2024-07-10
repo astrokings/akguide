@@ -23,7 +23,7 @@
 | 'Guardian'<br>Jacob | 'Alchemist'<br>Crowley | 'Mechanina'<br>Beatriz | 'Barrage'<br>Mina | 'War Machine'<br>Liwei |
 | 'Fatal'<br>Fei | 'Heiress'<br>Anna | 'Agitator'<br>Hillarey | 'Black Rose'<br>Ilyanya | 'Marauder'<br>Jaden |
 | 'Lancer'<br>Sieghart | 'Infighter'<br>Erebus | 'Tenacious'<br>Nyx | 'Day On The Moon'<br>Trivia | 'Sun Rises At Night'<br>Saule |
-| 'Scream Artist'<br>Truday | 'Veteran'<br>Jack | 'Miner'<br>Nikolai |  |  |
+| 'Scream Artist'<br>Truday | 'Veteran'<br>Jack | 'Miner'<br>Nikolai | 'Senior Secretary'<br>Cordelia |  |
 
 <br>
 
@@ -182,7 +182,7 @@
 | 'Guardian'<br>Jacob | 'Alchemist'<br>Crowley | 'Mechanina'<br>Beatriz | 'Barrage'<br>Mina | 'War Machine'<br>Liwei |
 | 'Fatal'<br>Fei | 'Heiress'<br>Anna | 'Agitator'<br>Hillarey | 'Black Rose'<br>Ilyanya | 'Marauder'<br>Jaden |
 | 'Lancer'<br>Sieghart | 'Infighter'<br>Erebus | 'Tenacious'<br>Nyx | 'Day On The Moon'<br>Trivia | 'Sun Rises At Night'<br>Saule |
-| 'Scream Artist'<br>Truday | 'Veteran'<br>Jack | 'Miner'<br>Nikolai |  |  |
+| 'Scream Artist'<br>Truday | 'Veteran'<br>Jack | 'Miner'<br>Nikolai | 'Senior Secretary'<br>Cordelia  |  |
 
 <br>
 <br>
