@@ -37,7 +37,8 @@
   - [7-2.クエストに挑戦せよ](jpn/703event.md)
   - [7-3.クルックスゴースト艦隊](jpn/704ghostevent.md)
   - [7-4.外界艦隊](jpn/705alien.md)  
-  - [7-5.次元の亀裂](jpn/505rift.md)  
+  - [7-5.次元の亀裂](jpn/505rift.md)
+  - [7-6.司令官高速成長ミッション](jpn/706CommanderFastGrowthMission.md)  
 * 8.国家情報
   - [8-1.行動力](jpn/801actionpoint.md)
   - [8-2.国力](jpn/802nationalpower.md)

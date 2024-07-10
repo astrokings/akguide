@@ -38,6 +38,7 @@
   - [7-3.CRUX Ghost Fleet](eng/704ghostevent.md)
   - [7-4.Alien Fleet](eng/705alien.md)
   - [7-5.Dimension Rift](eng/505rift.md)
+  - [7-6.Commander Fast Growth Mission](eng/706CommanderFastGrowthMission.md)
 * 8.National Info
   - [8-1.Action Points](eng/801actionpoint.md)
   - [8-2.National Power](eng/802nationalpower.md)

@@ -38,6 +38,7 @@
   - [7-3.크룩스 유령 함대](kor/704ghostevent.md)
   - [7-4.외계함대](kor/705alien.md)
   - [7-5.차원 균열](kor/505rift.md)
+  - [7-6.사령관 고속 성장 미션](kor/706CommanderFastGrowthMission.md)
 * 8.국가 정보
   - [8-1.행동력](kor/801actionpoint.md)
   - [8-2.국력](kor/802nationalpower.md)

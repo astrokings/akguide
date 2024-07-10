@@ -60,6 +60,46 @@ To defeat more pirates, complete research projects or use items that are effecti
 | Lv.28 Pirate               | 550 points per hunt  |
 | Lv.29 Pirate               | 570 points per hunt  |
 | Lv.30 Pirate               | 590 points per hunt  |
+| Lv.31 Pirate               | 610 points per hunt  |
+| Lv.32 Pirate               | 630 points per hunt  |
+| Lv.33 Pirate               | 650 points per hunt  |
+| Lv.34 Pirate               | 670 points per hunt  |
+| Lv.35 Pirate               | 690 points per hunt  |
+| Lv.36 Pirate               | 710 points per hunt  |
+| Lv.37 Pirate               | 730 points per hunt  |
+| Lv.38 Pirate               | 750 points per hunt  |
+| Lv.39 Pirate               | 770 points per hunt  |
+| Lv.40 Pirate               | 790 points per hunt  |
+| Lv.41 Pirate               | 810 points per hunt  |
+| Lv.42 Pirate               | 830 points per hunt  |
+| Lv.43 Pirate               | 850 points per hunt  |
+| Lv.44 Pirate               | 870 points per hunt  |
+| Lv.45 Pirate               | 890 points per hunt  |
+| Lv.46 Pirate               | 910 points per hunt  |
+| Lv.47 Pirate               | 930 points per hunt  |
+| Lv.48 Pirate               | 950 points per hunt  |
+| Lv.49 Pirate               | 970 points per hunt  |
+| Lv.50 Pirate               | 990 points per hunt  |
+| Lv.51 Pirate               | 1010 points per hunt  |
+| Lv.52 Pirate               | 1030 points per hunt  |
+| Lv.53 Pirate               | 1050 points per hunt  |
+| Lv.54 Pirate               | 1070 points per hunt  |
+| Lv.55 Pirate               | 1090 points per hunt  |
+| Lv.56 Pirate               | 1110 points per hunt  |
+| Lv.57 Pirate               | 1130 points per hunt  |
+| Lv.58 Pirate               | 1150 points per hunt  |
+| Lv.59 Pirate               | 1170 points per hunt  |
+| Lv.60 Pirate               | 1190 points per hunt  |
+| Lv.61 Pirate               | 1210 points per hunt  |
+| Lv.62 Pirate               | 1230 points per hunt  |
+| Lv.63 Pirate               | 1250 points per hunt  |
+| Lv.64 Pirate               | 1270 points per hunt  |
+| Lv.65 Pirate               | 1300 points per hunt  |
+| Lv.66 Pirate               | 1320 points per hunt  |
+| Lv.67 Pirate               | 1340 points per hunt  |
+| Lv.68 Pirate               | 1360 points per hunt  |
+| Lv.69 Pirate               | 1380 points per hunt  |
+| Lv.70 Pirate               | 1400 points per hunt  |
 | Risk Lv.1 Wanted Criminals | 534 points per hunt  |
 | Risk Lv.2 Wanted Criminals | 585 points per hunt  |
 | Risk Lv.3 Wanted Criminals | 687 points per hunt  |
@@ -71,6 +111,15 @@ To defeat more pirates, complete research projects or use items that are effecti
 | Risk Lv.9 Wanted Criminals | 1324 points per hunt |
 | Risk Lv.10 Wanted Criminals | 1426 points per hunt |
 | Risk Lv.11 Wanted Criminals | 1528 points per hunt |
+| Risk Lv.12 Wanted Criminals | 1738 points per hunt |
+| Risk Lv.13 Wanted Criminals | 1870 points per hunt |
+| Risk Lv.14 Wanted Criminals | 2002 points per hunt |
+| Risk Lv.15 Wanted Criminals | 2134 points per hunt |
+| Risk Lv.16 Wanted Criminals | 2266 points per hunt |
+| Risk Lv.17 Wanted Criminals | 2398 points per hunt |
+| Risk Lv.18 Wanted Criminals | 2530 points per hunt |
+| Risk Lv.19 Wanted Criminals | 2662 points per hunt |
+| Risk Lv.20 Wanted Criminals | 2794 points per hunt |
 | Lv.5 Pirate Base | 576 points per hunt |
 | Lv.10 Pirate Base | 696 points per hunt |
 | Lv.15 Pirate Base | 816 points per hunt |
@@ -80,6 +129,15 @@ To defeat more pirates, complete research projects or use items that are effecti
 | Lv.35 Pirate Base | 1296 points per hunt |
 | Lv.40 Pirate Base | 1416 points per hunt |
 | Lv.45 Pirate Base | 1536 points per hunt |
+| Lv.50 Pirate Base | 1656 points per hunt |
+| Lv.55 Pirate Base | 1776 points per hunt |
+| Lv.60 Pirate Base | 1896 points per hunt |
+| Lv.65 Pirate Base | 2056 points per hunt |
+| Lv.70 Pirate Base | 2216 points per hunt |
+| Lv.75 Pirate Base | 2376 points per hunt |
+| Lv.80 Pirate Base | 2536 points per hunt |
+| Lv.85 Pirate Base | 2736 points per hunt |
+| Lv.90 Pirate Base | 2936 points per hunt |
 
 <br>
 
