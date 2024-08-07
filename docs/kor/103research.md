@@ -73,6 +73,6 @@
 
 ## 7)코스믹 기술
 
- 함선의 기본적인 스탯을 강화할 수 있는 연구를 진행할 수 있습니다.
- ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_005research.jpg)
+ 함선의 기본적인 스탯을 강화할 수 있는 연구를 진행할 수 있습니다.<br>
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_005research.jpg)<br>
  코스믹 기술 연구는 연구에 필요한 자원 외에도 코스믹을 추가로 소모합니다.
