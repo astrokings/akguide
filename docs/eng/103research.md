@@ -68,3 +68,11 @@ Each research costs you a certain amount of resources and time. Only one project
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/103_004research.jpg)
  
  Flagship Research costs you a certain amount of resources, Crux Tech DataⅠand Crux Tech Data Ⅱ.
+  
+
+
+## 7)Cosmic Technology
+
+ You can conduct research to enhance the basic stats of your ships <br>
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_005research.jpg) <br>
+ Cosmic technology research consumes additional Cosmic resources in addition to the resources required for research.

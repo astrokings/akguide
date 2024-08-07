@@ -79,6 +79,8 @@ There are three types of Ship Enhancement Materials.
 
 Enhancement items can be obtained from the Dimension Rift battle. 
 
+If your ship enhancement level is 101 or higher, additional Cosmics will be required.<br>
+Cosmics can be acquired through daily missions, federation shop purchases, merit shop purchases, and imperial honor shop purchases.
 <br>
 
 ### 6) Reset the Ship Enhancement
@@ -90,10 +92,12 @@ You can reset the ship enhancement level by using a reset item in the Ship Enhan
 When the enhancement is reset, all materials and resources consumed for the enhancement will be restored.<br>
 Each ship enhancement reset module item has conditions based on the ship enhancement level.
 
-Four types of reset items.<br>
+Reset items are provided as follows:<br>
 - Basic Ship Enhancement Reset Module : Can only be used on ships with an enhancement level of 40 or below.
 - Intermediate Ship Enhancement Reset Module : Module: Can only be used on ships with an enhancement level of 70 or below.
 - Advanced Ship Enhancement Reset Module : Can only be used on ships with an enhancement level of 90 or below.
 - Premium Ship Enhancement Reset Module : Can only be used on ships with an enhancement level of 100 or below.
+- Cosmic Ship Enhancement Reset Module Type-α : Can only be used on ships with an enhancement level of 115 or lower.
+- Cosmic Ship Enhancement Reset Module Type-β : Can only be used on ships with an enhancement level of 130 or lower.
 
 ※ Reset items can be obtained through the Empyrean Merchants Union Emporium (E.M.U.) or package shop. 

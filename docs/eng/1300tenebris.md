@@ -189,14 +189,6 @@ The owner can use special buffs from the satellite.<br>
    6) Morta: Enemy Fleet Damage + 600<br>
 
 
-#### 6-4) Tenebris Battle Merit Shop
-
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/1300_15.jpg)
-
- - This is a shop where you can exchange your Tenebris Battle Victory Merit Token with various items.
- - This is a regular shop and the inventory of items is updated on the 1st of every month.<br>
- 
-   
 ### 7) Restrictions
 
 Federation members that joined the Federation less than 24hrs will not be able to participate in the battle.<br>

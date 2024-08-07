@@ -68,3 +68,11 @@
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/103_004research.jpg)
  
  기함 연구는 연구 필요한 자원 및 외계 기술 연구 자료 I 외에도 외계 기술 연구 자료 II를 추가로 소모합니다.
+ 
+
+
+## 7)코스믹 기술
+
+ 함선의 기본적인 스탯을 강화할 수 있는 연구를 진행할 수 있습니다.
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_005research.jpg)
+ 코스믹 기술 연구는 연구에 필요한 자원 외에도 코스믹을 추가로 소모합니다.

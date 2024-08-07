@@ -32,3 +32,17 @@ Merit Points earned from the Empire Arena can be exchanged with items from the M
 Please note that the availability and quantity of the items from the Merit Shop are limited. 
 
 ![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_12.jpg)
+
+<br>
+
+### 4) Imperial Honor Shop
+
+ You can exchange the Imperial Honor Coins obtained from the Imperial Federation War for various reward items.
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/105_003.jpg)
+
+<br>
+
+### 5) Tenebris Shop
+
+ You can exchange Merit Tokens obtained from the Tenebris Battle for various reward items.
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/105_004.jpg)

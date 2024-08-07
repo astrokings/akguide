@@ -32,3 +32,17 @@
 功勲ショップで提供される商品はそれぞれ販売期間と数量が制限されていますので、ご注意ください。
 
 ![](https://d3bbxo4nelobc3.cloudfront.net/html/img/help/1500_12.jpg)
+
+<br>
+
+### 4) 帝国名誉ショップ
+
+帝国連盟対戦で獲得した帝国名誉コインを使用して様々な報酬アイテムと交換が可能です。
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/105_003.jpg)
+
+<br>
+
+### 5) テネブリースショップ
+
+テネブリース争奪戦で獲得した功勲トークンを使用して様々な報酬アイテムと交換が可能です。
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/105_004.jpg)

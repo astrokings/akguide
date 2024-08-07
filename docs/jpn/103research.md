@@ -68,3 +68,10 @@
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/103_004research.jpg)
  
 旗艦研究は研究に必要な資源及び外界技術研究資料 I の他に、外界技術研究資料 IIが追加で必要です。
+  
+
+
+## 7) コスミック技術
+ 艦船の基本的なステータスを強化できる研究を進めることができます。
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_005research.jpg)
+ コスミック技術研究は、研究に必要な資源以外にもコスミックを追加で消費します。
