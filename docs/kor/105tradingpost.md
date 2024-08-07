@@ -38,6 +38,7 @@
 ### 4) 제국 명예 상점
 
 제국 연맹 대전에서 획득한 제국 명예 코인을 사용하여 다양한 보상 아이템과 교환이 가능합니다.<br>
+
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/105_003.jpg)
 
 <br>
@@ -45,4 +46,5 @@
 ### 5) 테네브리스 상점
 
 테네브리스 쟁탈전에서 획득한 공훈 토큰을 사용하여 다양한 보상 아이템과 교환이 가능합니다.<br>
+
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/105_004.jpg)
