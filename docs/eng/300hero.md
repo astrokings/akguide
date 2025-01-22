@@ -37,6 +37,7 @@ Heroes can be assigned as a fleet commander for combat, harvesting, or defense d
 
 You can manually assign the commander when you deploy a fleet. It is much easier if you pre-set your fleet commanders at the Space Dock.
 
+In the case of the minigame, the fleet commander can be designated directly when deploying, but cannot be assigned from the space dock.
 <br>
 <br>
 <br>
@@ -48,12 +49,12 @@ Heroes are classified into four grades, and the following abilities vary dependi
   - Each time a hero is enhanced, a random skill among the hero's skills is enhanced, and each skill can be enhanced up to 3 times.
   - For every 3 enhancements, a star (★) is added to the hero, and the hero's max level limit increases by 5.
 - Number of skills
-| Hero Grade | Max Level | Max # of Enhancements | # of Skills |
-| - | - | - | - |
-| C | 30 | 3 | 1 Basic Skill |
-| B | 40 | 6 | 2 Basic Skills |
-| A | 50 | 9 | 3 Basic Skills |
-| S | 50 | 9 | 1 Special Skill, 2 Basic Skills |
+| Hero Grade | Max Level | Max # of Enhancements | # of Skills | Minigame Attack Power & Durability |
+| - | - | - | - | - |
+| C | 30 | 3 | 1 Basic Skill | For every 1 combat stat,  increase by 1 |
+| B | 40 | 6 | 2 Basic Skills | For every 1 combat stat,  increase by 10 |
+| A | 50 | 9 | 3 Basic Skills | For every 1 combat stat,  increase by 40 |
+| S | 50 | 9 | 1 Special Skill, 2 Basic Skills | For every 1 combat stat,  increase by 80 |
 
 <br>
 <br>
@@ -62,7 +63,8 @@ Heroes are classified into four grades, and the following abilities vary dependi
 ### Hero Skills
 Hero skills are broadly categorized into **"Battle Skill"** used in battles and **"Admin Skill"** used in facility appointments, further divided as follows.
 <br>
-
+In the minigame, hero skills do not activate.
+<br>
 #### (1) Battle Skill
 - Passive Skill : Automatically activate during battles.
 - Active Skill : Can be directly used during battles. Active skills are further categorized into the following 5 types:
