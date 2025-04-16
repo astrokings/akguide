@@ -36,7 +36,7 @@ Each NPC has unique mechanics and strategies, and you’ll receive various rewar
 <br>
 
 #### NPC Challenge Difficulty Level
-Daily challenge consists of 5 difficulty levels for each NPC.
+Daily challenge consists of 5 difficulty levels for each NPC.<br>
 Each difficulty level offers progressively greater challenges and rewards.
 <br>
 
@@ -52,7 +52,7 @@ Each difficulty level offers progressively greater challenges and rewards.
 <br>
 
 #### Recommended Flagships and Heroes
-Recommended flagships and heroes are suggested for each NPC to help you succeed.
+Recommended flagships and heroes are suggested for each NPC to help you succeed.<br>
 Assigning the recommended flagships and heroes to your fleet grants advantageous buffs in battle.
 
 <br>
