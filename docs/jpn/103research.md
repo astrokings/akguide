@@ -2,9 +2,9 @@
 
  研究所では惑星発展と軍事力増強をはじめとした様々な技術研究が可能です。発展させたい研究分野を選択すると遂行できる詳細な研究リストを確認できます。
 
-研究遂行には一定の資源と時間が消費され、同時に1つの研究のみ実行できます。
+研究遂行には一定の資源と時間が消費され、同時に2つの研究のみ実行できます。
 
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/103research.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/103_006research.jpg)
 
 
 

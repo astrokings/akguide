@@ -2,9 +2,9 @@
 
  연구소에서는 행성 발전과 군사력 증강을 포함한 다양한 기술 연구가 가능합니다. 원하는 연구 분야를 선택하면 수행할 수 있는 세부 연구 목록을 확인할 수 있습니다.
 
-연구 수행에는 일정 자원과 시간이 소요되며, 동시에 1개의 연구만 진행할 수 있습니다.
+연구 수행에는 일정 자원과 시간이 소요되며, 동시에 2개의 연구만 진행할 수 있습니다.
 
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/103research.jpg)
+![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/103_006research.jpg)
 
 
 
