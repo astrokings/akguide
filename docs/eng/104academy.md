@@ -53,6 +53,7 @@ Depends on the Grade and enhancement level, you can get DNA element refund by sk
 - When a Class B Hero is retired, depends on the hero enhancement, about 10% of 'DNA element : B' will be refunded.
 - When a Class A Hero is retired, depends on the hero enhancement, about 10% of 'DNA element : A' will be refunded.
 - When a Class S Hero is retired, depends on the hero enhancement, about 10% of Recombinant DNA Element' will be refunded.
+- When a Class SS Hero is retired, depends on the hero enhancement, about 10% of Recombinant DNA Element' will be refunded.
 
 ### Skill Element Recall
 

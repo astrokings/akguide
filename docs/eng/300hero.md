@@ -53,8 +53,9 @@ Heroes are classified into four grades, and the following abilities vary dependi
 | - | - | - | - | - |
 | C | 30 | 3 | 1 Basic Skill | For every 1 combat stat,  increase by 1 |
 | B | 40 | 6 | 2 Basic Skills | For every 1 combat stat,  increase by 10 |
-| A | 50 | 9 | 3 Basic Skills | For every 1 combat stat,  increase by 40 |
-| S | 50 | 9 | 1 Special Skill, 2 Basic Skills | For every 1 combat stat,  increase by 80 |
+| A | 50 | 9 | 3 Basic Skills | For every 1 combat stat,  increase by 20 |
+| S | 50 | 9 | 1 Special Skill, 2 Basic Skills | For every 1 combat stat,  increase by 40 |
+| SS | 50 | 9 | 2 Special Skill, 1 Basic Skills | For every 1 combat stat,  increase by 80 |
 
 <br>
 <br>
