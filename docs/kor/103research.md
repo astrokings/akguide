@@ -117,7 +117,7 @@
 
  ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_004hub.jpg)<br>
 
- 메모리 승급을 토해 메모리의 등급이 증가합니다.<br> 
+ 메모리 승급을 통해 메모리의 등급이 증가합니다.<br> 
  메모리의 등급에 따라 메모리의 최대 레벨이 증가합니다.
 
 
