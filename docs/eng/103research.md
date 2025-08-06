@@ -76,3 +76,61 @@
  You can conduct research to enhance the basic stats of your ships <br>
 ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_005research.jpg) <br>
  Cosmic technology research consumes additional Cosmic resources in addition to the resources required for research.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Research Facility - Hub
+ 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_001hub.jpg)<br> 
+
+Hub is unlocked at Research Facility level 10.<br> 
+Hub is a new research feature that enhances Memory to grant exclusive stats based ship type.<br> 
+Memory can be enhanced using Cosmo Core, Cosmo Atom, and Cosmo Energy obtained from Daily Challenges.
+
+
+
+## 1)Types of Hubs
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_002hub.jpg)<br> 
+
+(1) Frigate Hub: Hub that stores memories Memory to Frigates.<br> 
+(2) Destroyer Hub: Hub that stores Memory exclusive to Destroyers.<br> 
+(3) Cruiser Hub: Hub that stores Memory exclusive to Cruisers.<br> 
+(4) Battleship Hub: Hub that stores Memory exclusive to Battleships.<br> 
+(5) Flagship Hub: Hub that stores Memory exclusive to Flagships.
+
+ 
+
+## 2)Crafting Memory
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_003hub.jpg)<br>
+
+New Memory can be developed by crafting Memory.<br>
+Each crafting attempt grants a Grade 1, Level 1 Memory.
+ 
+
+## 3)Promoting Memory
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_004hub.jpg)<br>
+
+Memory promotion increases its grade.<br>
+The maximum level of Memory increases with its grade.
+
+
+## 4)Enhancing Memory
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_005hub.jpg)<br>
+
+Memory enhancement increases its level.<br>
+Memory skills are unlocked based on the Memory’s level.
+
+
+## 5)Memory Skills
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_006hub.jpg)<br>
+
+Leveling up Memory Skills grants additional buffs based on the ship type.

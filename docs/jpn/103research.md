@@ -75,3 +75,59 @@
  艦船の基本的なステータスを強化できる研究を進めることができます。
  ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_005research.jpg)
  コスミック技術研究は、研究に必要な資源以外にもコスミックを追加で消費します。
+ 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# 研究所 - ハブ
+ 
+![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_001hub.jpg)<br> 
+
+ハブは研究所レベル10に到達すると開放されます。<br> 
+ハブは、メモリーを強化することで、艦種ごとに専用のステータス効果を得ることができる新たな研究システムです。<br> 
+メモリーはデイリー挑戦で獲得できるコスモ核、コスモ原子、コスモエネルギーを使って強化できます。
+
+
+## 1)ハブの種類
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_002hub.jpg)<br> 
+
+ (1) フリゲートハブ：フリゲート専用メモリーを集約したハブです。<br> 
+ (2) デストロイヤーハブ：デストロイヤー専用メモリーを集約したハブです。<br> 
+ (3) クルーザーハブ：クルーザー専用メモリーを集約したハブです。<br> 
+ (4) バトルシップハブ：バトルシップ専用メモリーを集約したハブです。<br> 
+ (5) 旗艦ハブ：旗艦専用メモリーを集約したハブです。
+ 
+
+## 2)メモリー製作
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_003hub.jpg)<br>
+
+ メモリー製作で、新たなメモリーを開発できます。<br> 
+ メモリー製作時、1等級、1レベルのメモリーを獲得できます。
+ 
+
+## 3)メモリー昇級
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_004hub.jpg)<br>
+
+ メモリーの昇級によって、メモリーの等級が上昇します。<br> 
+ メモリーの等級が上がると、メモリーの最大レベルも上昇します。
+
+
+## 4)メモリー強化
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_005hub.jpg)<br>
+
+ メモリー強化により、メモリーのレベルが上昇します。<br> 
+ メモリーのレベルに応じて、メモリーのスキルが開放されます。
+
+
+## 5)メモリースキル
+
+ ![](https://astrokings.s3.ap-northeast-2.amazonaws.com/html/img/help/103_006hub.jpg)<br>
+
+ メモリースキルのレベルアップを通じて、艦種ごとの追加バフ効果を獲得できます。

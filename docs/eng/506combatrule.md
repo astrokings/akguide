@@ -31,14 +31,18 @@ When the fleet's accuracy is higher than the target's evasion, it gives more dam
 With the penetration of the attacker's fleet and the resistance of the defender's fleet, depending on the difference in value, it affects the damage result caused by the attack.<br>
 When the fleet's penetration is higher than the target's resistance, it gives more damage to the target.<br>
 
+### 6) Cosmos ray and Membrane
+The difference between the attacker's Cosmos Ray and the defender's Membrane affects the damage dealt by attacks.<br>
+The higher the Cosmos Ray compared to the opponent's Membrane, the greater the damage inflicted.<br>
 
-### 6) Critical Chance 
+
+### 7) Critical Chance 
 
 Critical Chance Rate refers to the percentage of the critical strikes that occur during an attack. Critical Damage refers to the multiplier of damage that occurs when a critical strike happened.<br>
 The higher the critical chance rate, the higher the chance for the enemy's ships to receive critical hits. The higher the critical damage, the greater damage can be dealt with the enemy's ships.<br> 
 
 
-### 7) Durability
+### 8) Durability
 
 Durability refers to the fleet's strength that determines how much damage it can bear.<br>
 When the damage exceeds durability, the fleet will retreat, and some of the ships that retreat could be damaged or destroyed when the battle ends.<br>

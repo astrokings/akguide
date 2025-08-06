@@ -35,6 +35,15 @@ Each NPC has unique mechanics and strategies, and you’ll receive various rewar
 <br>
 <br>
 
+#### Daily Challenge Season
+The following elements of the Daily Challenge are updated approximately every three months.
+- Daily NPC
+- Recommended Hero by day
+- Recommended Flagship by day
+
+<br>
+<br>
+
 #### NPC Challenge Difficulty Level
 Daily challenge consists of 5 difficulty levels for each NPC.<br>
 Each difficulty level offers progressively greater challenges and rewards.
