@@ -91,3 +91,7 @@
   - [18-2.T5 旗艦装備](jpn/1902enhance5t.md)
   - [18-3.英雄スカウト](jpn/1903herorecruit.md)
 * [19.デイリー挑戦](jpn/2001dailychallengemain.md)
+* [20.時空間ワームホール探査](jpn/2101whsmain.md)
+  - [20-1.入場](jpn/2102whsenter.md)
+  - [20-2.戦闘](jpn/2103whsbattle.md)
+  - [20-3.報酬](jpn/2104whsreward.md)

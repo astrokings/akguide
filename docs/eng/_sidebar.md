@@ -91,3 +91,7 @@
   - [18-2.T5 Flagship Equipment](eng/1902enhance5t.md)
   - [18-3.Recruit Hero](eng/1903herorecruit.md)
 * [19.Daily Challenge](eng/2001dailychallengemain.md)
+* [20.Spacetime Wormhole Survey](eng/2101whsmain.md)
+  - [20-1.Entrance](eng/2102whsenter.md)
+  - [20-2.Battle](eng/2103whsbattle.md)
+  - [20-3.Rewards](eng/2104whsreward.md)

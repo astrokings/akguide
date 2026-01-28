@@ -91,4 +91,8 @@
   - [18-2.T5 기함 장비](kor/1902enhance5t.md)
   - [18-3.영웅 고용](kor/1903herorecruit.md)
 * [19.일일 도전](kor/2001dailychallengemain.md)
+* [20.시공간 웜홀 탐사](kor/2101whsmain.md)
+  - [20-1.입장](kor/2102whsenter.md)
+  - [20-2.전투](kor/2103whsbattle.md)
+  - [20-3.보상](kor/2104whsreward.md)
   
