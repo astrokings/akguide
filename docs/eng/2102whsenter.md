@@ -25,7 +25,7 @@ Wormholes will shift according to the Command Center’s Level.
 
 Spacetime Wormhole – Low : Command Center Lv. 35 ~ 43 <br>
 Spacetime Wormhole – Mid : Command Center Lv. 44 ~ 50(CL.4) <br>
-Spacetime Wormhole – High : Command Center Lv. 50(CL.15)
+Spacetime Wormhole – High : Command Center Lv. 50(CL.5) ~ Command Center Lv. 50(CL.15)
 
 <br>
 <br>
