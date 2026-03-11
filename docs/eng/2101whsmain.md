@@ -15,5 +15,5 @@
 ## Schedule and progress of the Spacetime Wormhole
 
 The Spacetime Wormhole will be held twice every week.<br>
-Schedule 1 : Friday, 09:00 (UTC)<br>
+Schedule 1 : Friday, 12:00 (UTC)<br>
 Schedule 2 : Friday, 19:00 (UTC)
