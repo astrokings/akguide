@@ -29,7 +29,7 @@ To fight Wanted Pirates, you must have Wanted Posters.
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/504_02.jpg)
 
 - **Acquisition**: Wanted Posters can be obtained by defeating space pirates. The more powerful the pirates, the higher the threat level of Wanted Posters can be obtained.<br>
-- **Threat Level**: The threat level is divided into 11 levels. The higher the threat level, the stronger the Wanted pirates.<br>
+- **Threat Level**: The threat level is divided into 23 levels. The higher the threat level, the stronger the Wanted pirates.<br>
 - **Rewards**: You'll receive various Flagship Upgrade materials and resources. If you use higher Wanted Posters, you will have higher chance to get better rewards. 
 
 
