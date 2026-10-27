@@ -1,22 +1,14 @@
 # Dimension Rift
 
-Human beings who have been unilaterally attacked by the Alien Forces begin their counterattack.<br>
+Having successfully controlled the Dimensional Rift used by the Alien Fleet as a gateway for continuous attacks, we now launch a counteroffensive into the alien galaxy.<br>
 The enemies are getting stronger as the battle continues.<br>
 When you start the next Dimension Rift Battle, it will proceed from the previous battle that you've won.
 <br>
 
-### 1) Dimension Rift Creation and how to participate
-
-**To Create**
-
-![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_01.jpg)
-- At the end of the Invasion of the Alien Fleet, the Dimension Rift will be opened.
-- Created Dimension Rift will disappear after 1 hour.
-
-**To Participate**
+### 1) Dimension Rift to participate
 
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_02.jpg)
-- Alien Forces can be attacked through the Warp Gate when the Dimension Rift has been opened. 
+- Use the Warp Gate to launch invasions into the alien galaxy through the rift.
 
 <br>
 
@@ -25,17 +17,18 @@ When you start the next Dimension Rift Battle, it will proceed from the previous
 You will have certain number of tickets to enter the Dimension Rift
 - You can obtain more tickets depending on your VIP levels
 - Daily tickets are not accumulative.
+- Free entries reset daily at 00:00 UTC.
 
 When you use all your daily tickets, you can purchase the Dimension Shift Catalyst and enter.
 - Be aware that the consumption of the Dimension Shift Catalyst is continuously increased when used repeatedly. 
-- Increased consumption amount resets everyday
+- Increased cost resets daily at 00:00 UTC.
 
 When you start the battle, you will have a maximum of 5 times (Waves) of continuous Fleet Battle.<br>
 (Prepare your planet for this continuous fleet battle)
 
 ![](http://d3bbxo4nelobc3.cloudfront.net/html/img/help/505_03.jpg)
 
-When you lose from the battle, the contiuous Fleet Battle will end. <br>
+When you lose from the battle, the continuous Fleet Battle will end. <br>
 You can earn rewards for victory battles if you win all 5 battles or lose halfway to the end of the battle.
 
 When you start the next Dimension Rift Battle, it will proceed from the previous battle that you've won.
@@ -68,8 +61,6 @@ When you win from all the first continuous Fleet Battle,  you can obtain the pre
 
 The scores are accumulated based on the overall battle record, and the rankings will be set from the scores.<br>
 You will obtain more points when you win from the higher Wave battles.
-
-You will receive rewards depending on your points from each Dimension Rift, through individual and Federation rankings.
 
 Total Rankings can be viewed from the ranking page through the Commander Info page. The rankings are determined by the accumulated points from the Dimension Rift.
 

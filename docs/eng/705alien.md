@@ -59,10 +59,8 @@ Federation Alien Fleets can be summoned by Federation members of G3 and above by
 <br>
 
 ## C. Differences Between Server and Federation Alien Fleets
-1. Dimension Rift only occur when the Server Alien Fleets content ends.
-<br>
-<br>
-2. The targets of Server Retaliation Fleets are individual planets, while the targets of Federation Retaliation Fleets are individual planets and the Astronest of the summoning Federation.
+
+1. The targets of Server Retaliation Fleets are individual planets, while the targets of Federation Retaliation Fleets are individual planets and the Astronest of the summoning Federation.
 
 <br>
 <br>
